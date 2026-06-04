@@ -1,0 +1,13 @@
+name = "statcast-bullpen-bot"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+# Secrets set via `wrangler secret put`:
+#   DISCORD_PUBLIC_KEY     (ed25519 verify)
+#   DISCORD_APP_ID         (used by register-commands script, not Worker runtime)
+#   DISCORD_BOT_TOKEN      (used by register-commands script, not Worker runtime)
+
+[vars]
+DATA_BASE_URL = "https://raw.githubusercontent.com/jimcal/statcast-bullpen/main/data"
+DATA_TTL_SECONDS = "3600"
