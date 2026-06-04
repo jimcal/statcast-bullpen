@@ -1,0 +1,26 @@
+{
+  "id": 500743,
+  "name": "Miguel Rojas",
+  "team": "LAD",
+  "pa": 247,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 31.2,
+  "xwoba": 0.293,
+  "xba": 0.249,
+  "k_pct": 14.2,
+  "bb_pct": 7.1,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 30,
+    "barrel_pct": 22,
+    "hard_hit_pct": 16,
+    "xwoba": 33,
+    "xba": 65,
+    "bb_pct": 41,
+    "sprint_speed": 12,
+    "k_pct": 92
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 663656,
+  "name": "Kyle Tucker",
+  "team": "CHC",
+  "pa": 416,
+  "avg_exit_velo": 90.1,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 7.5,
+  "hard_hit_pct": 40.4,
+  "xwoba": 0.372,
+  "xba": 0.27,
+  "k_pct": 14.8,
+  "bb_pct": 14.6,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 66,
+    "max_exit_velo": 25,
+    "barrel_pct": 76,
+    "hard_hit_pct": 50,
+    "xwoba": 95,
+    "xba": 88,
+    "bb_pct": 97,
+    "sprint_speed": 24,
+    "k_pct": 89
+  }
+}

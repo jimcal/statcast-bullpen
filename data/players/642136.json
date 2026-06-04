@@ -1,0 +1,26 @@
+{
+  "id": 642136,
+  "name": "Matt Thaiss",
+  "team": "TB",
+  "pa": 112,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 2.6,
+  "hard_hit_pct": 42.9,
+  "xwoba": 0.294,
+  "xba": 0.197,
+  "k_pct": 24.2,
+  "bb_pct": 15.3,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 40,
+    "barrel_pct": 17,
+    "hard_hit_pct": 61,
+    "xwoba": 34,
+    "xba": 10,
+    "bb_pct": 97,
+    "sprint_speed": 6,
+    "k_pct": 42
+  }
+}

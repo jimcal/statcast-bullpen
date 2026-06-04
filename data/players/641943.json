@@ -1,0 +1,26 @@
+{
+  "id": 641943,
+  "name": "Joshua Palacios",
+  "team": "CWS",
+  "pa": 93,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 5.5,
+  "hard_hit_pct": 39.8,
+  "xwoba": 0.299,
+  "xba": 0.222,
+  "k_pct": 24.8,
+  "bb_pct": 8.3,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 46,
+    "barrel_pct": 52,
+    "hard_hit_pct": 47,
+    "xwoba": 41,
+    "xba": 29,
+    "bb_pct": 54,
+    "sprint_speed": 32,
+    "k_pct": 39
+  }
+}

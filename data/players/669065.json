@@ -1,0 +1,26 @@
+{
+  "id": 669065,
+  "name": "Kyle Stowers",
+  "team": "MIA",
+  "pa": 279,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 11.6,
+  "hard_hit_pct": 52.0,
+  "xwoba": 0.375,
+  "xba": 0.265,
+  "k_pct": 27.4,
+  "bb_pct": 10.5,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 83,
+    "barrel_pct": 99,
+    "hard_hit_pct": 94,
+    "xwoba": 96,
+    "xba": 83,
+    "bb_pct": 77,
+    "sprint_speed": 41,
+    "k_pct": 23
+  }
+}

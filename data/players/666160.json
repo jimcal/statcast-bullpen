@@ -1,0 +1,26 @@
+{
+  "id": 666160,
+  "name": "Mickey Moniak",
+  "team": "COL",
+  "pa": 327,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 111.8,
+  "barrel_pct": 9.8,
+  "hard_hit_pct": 45.3,
+  "xwoba": 0.337,
+  "xba": 0.262,
+  "k_pct": 23.9,
+  "bb_pct": 4.8,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 67,
+    "barrel_pct": 94,
+    "hard_hit_pct": 72,
+    "xwoba": 81,
+    "xba": 80,
+    "bb_pct": 13,
+    "sprint_speed": 79,
+    "k_pct": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 690987,
+  "name": "Robert Hassell III",
+  "team": "WSH",
+  "pa": 135,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 5.3,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.273,
+  "xba": 0.226,
+  "k_pct": 30.1,
+  "bb_pct": 3.9,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 30,
+    "barrel_pct": 49,
+    "hard_hit_pct": 51,
+    "xwoba": 19,
+    "xba": 33,
+    "bb_pct": 6,
+    "sprint_speed": 70,
+    "k_pct": 13
+  }
+}

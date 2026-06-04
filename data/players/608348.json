@@ -1,0 +1,26 @@
+{
+  "id": 608348,
+  "name": "Carson Kelly",
+  "team": "CHC",
+  "pa": 293,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 6.7,
+  "hard_hit_pct": 40.3,
+  "xwoba": 0.321,
+  "xba": 0.236,
+  "k_pct": 20.4,
+  "bb_pct": 10.2,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 43,
+    "barrel_pct": 69,
+    "hard_hit_pct": 48,
+    "xwoba": 63,
+    "xba": 44,
+    "bb_pct": 75,
+    "sprint_speed": 14,
+    "k_pct": 65
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 681962,
+  "name": "Vinny Capra",
+  "team": "CWS",
+  "pa": 76,
+  "avg_exit_velo": 85.9,
+  "max_exit_velo": 103.9,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 32.9,
+  "xwoba": 0.211,
+  "xba": 0.178,
+  "k_pct": 23.8,
+  "bb_pct": 2.9,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 1,
+    "barrel_pct": 9,
+    "hard_hit_pct": 20,
+    "xwoba": 1,
+    "xba": 4,
+    "bb_pct": 2,
+    "sprint_speed": 73,
+    "k_pct": 46
+  }
+}

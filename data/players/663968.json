@@ -1,0 +1,26 @@
+{
+  "id": 663968,
+  "name": "Jake Mangum",
+  "team": "TB",
+  "pa": 343,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 108.3,
+  "barrel_pct": 2.1,
+  "hard_hit_pct": 33.4,
+  "xwoba": 0.276,
+  "xba": 0.251,
+  "k_pct": 15.0,
+  "bb_pct": 4.4,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 21,
+    "barrel_pct": 12,
+    "hard_hit_pct": 21,
+    "xwoba": 21,
+    "xba": 67,
+    "bb_pct": 9,
+    "sprint_speed": 91,
+    "k_pct": 88
+  }
+}

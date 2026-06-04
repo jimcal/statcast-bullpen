@@ -1,0 +1,26 @@
+{
+  "id": 681481,
+  "name": "Kerry Carpenter",
+  "team": "DET",
+  "pa": 329,
+  "avg_exit_velo": 91.4,
+  "max_exit_velo": 109.5,
+  "barrel_pct": 8.8,
+  "hard_hit_pct": 46.8,
+  "xwoba": 0.335,
+  "xba": 0.252,
+  "k_pct": 23.3,
+  "bb_pct": 5.0,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 86,
+    "max_exit_velo": 35,
+    "barrel_pct": 89,
+    "hard_hit_pct": 80,
+    "xwoba": 79,
+    "xba": 69,
+    "bb_pct": 15,
+    "sprint_speed": 41,
+    "k_pct": 49
+  }
+}

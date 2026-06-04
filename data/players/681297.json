@@ -1,0 +1,26 @@
+{
+  "id": 681297,
+  "name": "Colton Cowser",
+  "team": "BAL",
+  "pa": 199,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 46.0,
+  "xwoba": 0.293,
+  "xba": 0.2,
+  "k_pct": 35.6,
+  "bb_pct": 7.5,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 83,
+    "barrel_pct": 79,
+    "hard_hit_pct": 75,
+    "xwoba": 33,
+    "xba": 11,
+    "bb_pct": 46,
+    "sprint_speed": 47,
+    "k_pct": 4
+  }
+}

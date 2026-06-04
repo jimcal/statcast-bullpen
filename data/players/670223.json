@@ -1,0 +1,26 @@
+{
+  "id": 670223,
+  "name": "Matt Mervis",
+  "team": "MIA",
+  "pa": 71,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 108.2,
+  "barrel_pct": 4.5,
+  "hard_hit_pct": 38.0,
+  "xwoba": 0.223,
+  "xba": 0.145,
+  "k_pct": 37.3,
+  "bb_pct": 8.2,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 20,
+    "barrel_pct": 41,
+    "hard_hit_pct": 39,
+    "xwoba": 2,
+    "xba": 1,
+    "bb_pct": 53,
+    "sprint_speed": 6,
+    "k_pct": 2
+  }
+}

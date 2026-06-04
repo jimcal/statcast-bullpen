@@ -1,0 +1,26 @@
+{
+  "id": 682988,
+  "name": "Tyler Locklear",
+  "team": "AZ",
+  "pa": 60,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 41.7,
+  "xwoba": 0.252,
+  "xba": 0.172,
+  "k_pct": 37.1,
+  "bb_pct": 8.6,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 17,
+    "barrel_pct": 25,
+    "hard_hit_pct": 56,
+    "xwoba": 8,
+    "xba": 3,
+    "bb_pct": 58,
+    "sprint_speed": 36,
+    "k_pct": 2
+  }
+}

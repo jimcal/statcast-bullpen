@@ -1,0 +1,26 @@
+{
+  "id": 514888,
+  "name": "Jose Altuve",
+  "team": "HOU",
+  "pa": 486,
+  "avg_exit_velo": 85.1,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 4.6,
+  "hard_hit_pct": 30.9,
+  "xwoba": 0.3,
+  "xba": 0.237,
+  "k_pct": 16.7,
+  "bb_pct": 8.4,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 5,
+    "max_exit_velo": 51,
+    "barrel_pct": 42,
+    "hard_hit_pct": 14,
+    "xwoba": 43,
+    "xba": 45,
+    "bb_pct": 56,
+    "sprint_speed": 34,
+    "k_pct": 84
+  }
+}

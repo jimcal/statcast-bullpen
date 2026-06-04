@@ -1,0 +1,26 @@
+{
+  "id": 623168,
+  "name": "Tyler Heineman",
+  "team": "TOR",
+  "pa": 125,
+  "avg_exit_velo": 84.4,
+  "max_exit_velo": 104.5,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 22.4,
+  "xwoba": 0.273,
+  "xba": 0.215,
+  "k_pct": 18.1,
+  "bb_pct": 6.8,
+  "sprint_speed": 26.3,
+  "percentiles": {
+    "avg_exit_velo": 2,
+    "max_exit_velo": 3,
+    "barrel_pct": 13,
+    "hard_hit_pct": 2,
+    "xwoba": 19,
+    "xba": 23,
+    "bb_pct": 37,
+    "sprint_speed": 21,
+    "k_pct": 77
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 670042,
+  "name": "Luke Raley",
+  "team": "SEA",
+  "pa": 123,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 114.3,
+  "barrel_pct": 5.9,
+  "hard_hit_pct": 42.3,
+  "xwoba": 0.312,
+  "xba": 0.209,
+  "k_pct": 29.5,
+  "bb_pct": 8.5,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 88,
+    "barrel_pct": 58,
+    "hard_hit_pct": 58,
+    "xwoba": 54,
+    "xba": 17,
+    "bb_pct": 56,
+    "sprint_speed": 84,
+    "k_pct": 14
+  }
+}

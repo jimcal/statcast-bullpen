@@ -1,0 +1,26 @@
+{
+  "id": 663616,
+  "name": "Trevor Larnach",
+  "team": "MIN",
+  "pa": 387,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 113.3,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 45.7,
+  "xwoba": 0.318,
+  "xba": 0.251,
+  "k_pct": 21.5,
+  "bb_pct": 9.3,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 80,
+    "barrel_pct": 45,
+    "hard_hit_pct": 74,
+    "xwoba": 60,
+    "xba": 67,
+    "bb_pct": 66,
+    "sprint_speed": 17,
+    "k_pct": 60
+  }
+}

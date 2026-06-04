@@ -1,0 +1,26 @@
+{
+  "id": 669261,
+  "name": "Jack Suwinski",
+  "team": "PIT",
+  "pa": 93,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.31,
+  "xba": 0.195,
+  "k_pct": 32.0,
+  "bb_pct": 13.5,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 49,
+    "barrel_pct": 62,
+    "hard_hit_pct": 42,
+    "xwoba": 52,
+    "xba": 9,
+    "bb_pct": 95,
+    "sprint_speed": 62,
+    "k_pct": 8
+  }
+}

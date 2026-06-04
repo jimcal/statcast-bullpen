@@ -1,0 +1,26 @@
+{
+  "id": 701538,
+  "name": "Jackson Merrill",
+  "team": "SD",
+  "pa": 338,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 9.1,
+  "hard_hit_pct": 42.9,
+  "xwoba": 0.347,
+  "xba": 0.263,
+  "k_pct": 22.2,
+  "bb_pct": 6.9,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 55,
+    "barrel_pct": 92,
+    "hard_hit_pct": 61,
+    "xwoba": 88,
+    "xba": 82,
+    "bb_pct": 38,
+    "sprint_speed": 79,
+    "k_pct": 55
+  }
+}

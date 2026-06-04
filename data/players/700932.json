@@ -1,0 +1,26 @@
+{
+  "id": 700932,
+  "name": "Kyle Manzardo",
+  "team": "CLE",
+  "pa": 340,
+  "avg_exit_velo": 90.3,
+  "max_exit_velo": 111.3,
+  "barrel_pct": 7.5,
+  "hard_hit_pct": 43.8,
+  "xwoba": 0.322,
+  "xba": 0.224,
+  "k_pct": 25.4,
+  "bb_pct": 9.0,
+  "sprint_speed": 25.4,
+  "percentiles": {
+    "avg_exit_velo": 70,
+    "max_exit_velo": 61,
+    "barrel_pct": 76,
+    "hard_hit_pct": 66,
+    "xwoba": 65,
+    "xba": 30,
+    "bb_pct": 64,
+    "sprint_speed": 8,
+    "k_pct": 35
+  }
+}

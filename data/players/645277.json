@@ -1,0 +1,26 @@
+{
+  "id": 645277,
+  "name": "Ozzie Albies",
+  "team": "ATL",
+  "pa": 514,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 30.7,
+  "xwoba": 0.299,
+  "xba": 0.243,
+  "k_pct": 14.1,
+  "bb_pct": 8.2,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 40,
+    "barrel_pct": 29,
+    "hard_hit_pct": 13,
+    "xwoba": 41,
+    "xba": 54,
+    "bb_pct": 53,
+    "sprint_speed": 43,
+    "k_pct": 92
+  }
+}

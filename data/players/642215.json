@@ -1,0 +1,26 @@
+{
+  "id": 642215,
+  "name": "Weston Wilson",
+  "team": "PHI",
+  "pa": 78,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 109.0,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 41.0,
+  "xwoba": 0.33,
+  "xba": 0.251,
+  "k_pct": 27.2,
+  "bb_pct": 9.6,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 29,
+    "barrel_pct": 65,
+    "hard_hit_pct": 53,
+    "xwoba": 75,
+    "xba": 67,
+    "bb_pct": 71,
+    "sprint_speed": 67,
+    "k_pct": 24
+  }
+}

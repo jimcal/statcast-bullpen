@@ -1,0 +1,26 @@
+{
+  "id": 660844,
+  "name": "Leo Rivas",
+  "team": "SEA",
+  "pa": 66,
+  "avg_exit_velo": 86.3,
+  "max_exit_velo": 104.2,
+  "barrel_pct": 1.8,
+  "hard_hit_pct": 19.7,
+  "xwoba": 0.288,
+  "xba": 0.183,
+  "k_pct": 25.0,
+  "bb_pct": 18.2,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 13,
+    "max_exit_velo": 1,
+    "barrel_pct": 9,
+    "hard_hit_pct": 1,
+    "xwoba": 29,
+    "xba": 5,
+    "bb_pct": 100,
+    "sprint_speed": 58,
+    "k_pct": 38
+  }
+}

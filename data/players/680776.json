@@ -1,0 +1,26 @@
+{
+  "id": 680776,
+  "name": "Jarren Duran",
+  "team": "BOS",
+  "pa": 455,
+  "avg_exit_velo": 91.8,
+  "max_exit_velo": 117.7,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 46.8,
+  "xwoba": 0.326,
+  "xba": 0.248,
+  "k_pct": 24.4,
+  "bb_pct": 8.5,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 90,
+    "max_exit_velo": 98,
+    "barrel_pct": 63,
+    "hard_hit_pct": 80,
+    "xwoba": 70,
+    "xba": 64,
+    "bb_pct": 56,
+    "sprint_speed": 91,
+    "k_pct": 41
+  }
+}

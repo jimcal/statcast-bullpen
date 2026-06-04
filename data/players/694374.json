@@ -1,0 +1,26 @@
+{
+  "id": 694374,
+  "name": "Tim Tawa",
+  "team": "AZ",
+  "pa": 140,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 42.1,
+  "xwoba": 0.29,
+  "xba": 0.206,
+  "k_pct": 28.4,
+  "bb_pct": 8.9,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 56,
+    "barrel_pct": 56,
+    "hard_hit_pct": 57,
+    "xwoba": 31,
+    "xba": 15,
+    "bb_pct": 62,
+    "sprint_speed": 70,
+    "k_pct": 17
+  }
+}

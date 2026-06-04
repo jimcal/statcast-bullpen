@@ -1,0 +1,26 @@
+{
+  "id": 665833,
+  "name": "Oneil Cruz",
+  "team": "PIT",
+  "pa": 302,
+  "avg_exit_velo": 95.8,
+  "max_exit_velo": 122.9,
+  "barrel_pct": 9.9,
+  "hard_hit_pct": 56.6,
+  "xwoba": 0.324,
+  "xba": 0.218,
+  "k_pct": 32.0,
+  "bb_pct": 11.8,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 100,
+    "max_exit_velo": 100,
+    "barrel_pct": 95,
+    "hard_hit_pct": 99,
+    "xwoba": 67,
+    "xba": 25,
+    "bb_pct": 88,
+    "sprint_speed": 92,
+    "k_pct": 8
+  }
+}

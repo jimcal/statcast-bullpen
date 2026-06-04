@@ -1,0 +1,26 @@
+{
+  "id": 686217,
+  "name": "Sal Frelick",
+  "team": "MIL",
+  "pa": 456,
+  "avg_exit_velo": 85.5,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 27.4,
+  "xwoba": 0.299,
+  "xba": 0.255,
+  "k_pct": 13.5,
+  "bb_pct": 7.8,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 30,
+    "barrel_pct": 14,
+    "hard_hit_pct": 6,
+    "xwoba": 41,
+    "xba": 73,
+    "bb_pct": 49,
+    "sprint_speed": 87,
+    "k_pct": 94
+  }
+}

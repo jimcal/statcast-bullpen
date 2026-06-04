@@ -1,0 +1,26 @@
+{
+  "id": 682626,
+  "name": "Francisco Alvarez",
+  "team": "NYM",
+  "pa": 173,
+  "avg_exit_velo": 93.1,
+  "max_exit_velo": 115.0,
+  "barrel_pct": 7.6,
+  "hard_hit_pct": 54.3,
+  "xwoba": 0.326,
+  "xba": 0.229,
+  "k_pct": 26.4,
+  "bb_pct": 9.7,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 92,
+    "barrel_pct": 77,
+    "hard_hit_pct": 97,
+    "xwoba": 70,
+    "xba": 35,
+    "bb_pct": 71,
+    "sprint_speed": 14,
+    "k_pct": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 686555,
+  "name": "Isaac Collins",
+  "team": "MIL",
+  "pa": 285,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 38.9,
+  "xwoba": 0.322,
+  "xba": 0.246,
+  "k_pct": 22.2,
+  "bb_pct": 12.9,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 59,
+    "barrel_pct": 22,
+    "hard_hit_pct": 44,
+    "xwoba": 65,
+    "xba": 60,
+    "bb_pct": 92,
+    "sprint_speed": 56,
+    "k_pct": 55
+  }
+}

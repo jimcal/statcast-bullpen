@@ -1,0 +1,26 @@
+{
+  "id": 592669,
+  "name": "Hunter Renfroe",
+  "team": "KC",
+  "pa": 79,
+  "avg_exit_velo": 88.5,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 4.6,
+  "hard_hit_pct": 35.4,
+  "xwoba": 0.257,
+  "xba": 0.193,
+  "k_pct": 19.4,
+  "bb_pct": 7.4,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 40,
+    "max_exit_velo": 49,
+    "barrel_pct": 42,
+    "hard_hit_pct": 28,
+    "xwoba": 9,
+    "xba": 8,
+    "bb_pct": 44,
+    "sprint_speed": 36,
+    "k_pct": 70
+  }
+}

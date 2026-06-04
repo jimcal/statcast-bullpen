@@ -1,0 +1,26 @@
+{
+  "id": 696030,
+  "name": "Alejandro Osuna",
+  "team": "TEX",
+  "pa": 119,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 4.0,
+  "hard_hit_pct": 37.0,
+  "xwoba": 0.341,
+  "xba": 0.275,
+  "k_pct": 19.3,
+  "bb_pct": 11.9,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 44,
+    "barrel_pct": 34,
+    "hard_hit_pct": 35,
+    "xwoba": 83,
+    "xba": 92,
+    "bb_pct": 89,
+    "sprint_speed": 79,
+    "k_pct": 71
+  }
+}

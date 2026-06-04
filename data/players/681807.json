@@ -1,0 +1,26 @@
+{
+  "id": 681807,
+  "name": "David Fry",
+  "team": "CLE",
+  "pa": 88,
+  "avg_exit_velo": 88.7,
+  "max_exit_velo": 107.8,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 39.8,
+  "xwoba": 0.202,
+  "xba": 0.135,
+  "k_pct": 36.9,
+  "bb_pct": 5.7,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 43,
+    "max_exit_velo": 14,
+    "barrel_pct": 47,
+    "hard_hit_pct": 47,
+    "xwoba": 1,
+    "xba": 0,
+    "bb_pct": 23,
+    "sprint_speed": 26,
+    "k_pct": 3
+  }
+}

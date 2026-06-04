@@ -1,0 +1,26 @@
+{
+  "id": 502054,
+  "name": "Tommy Pham",
+  "team": "PIT",
+  "pa": 303,
+  "avg_exit_velo": 91.6,
+  "max_exit_velo": 112.3,
+  "barrel_pct": 4.5,
+  "hard_hit_pct": 47.2,
+  "xwoba": 0.318,
+  "xba": 0.246,
+  "k_pct": 20.9,
+  "bb_pct": 11.1,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 88,
+    "max_exit_velo": 72,
+    "barrel_pct": 41,
+    "hard_hit_pct": 83,
+    "xwoba": 60,
+    "xba": 60,
+    "bb_pct": 83,
+    "sprint_speed": 43,
+    "k_pct": 62
+  }
+}

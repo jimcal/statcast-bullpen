@@ -1,0 +1,26 @@
+{
+  "id": 657757,
+  "name": "Gavin Sheets",
+  "team": "SD",
+  "pa": 389,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 111.8,
+  "barrel_pct": 6.8,
+  "hard_hit_pct": 46.5,
+  "xwoba": 0.34,
+  "xba": 0.263,
+  "k_pct": 19.6,
+  "bb_pct": 8.0,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 67,
+    "barrel_pct": 70,
+    "hard_hit_pct": 78,
+    "xwoba": 83,
+    "xba": 82,
+    "bb_pct": 51,
+    "sprint_speed": 36,
+    "k_pct": 68
+  }
+}

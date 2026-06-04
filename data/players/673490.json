@@ -1,0 +1,26 @@
+{
+  "id": 673490,
+  "name": "Ha-Seong Kim",
+  "team": "ATL",
+  "pa": 134,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 43.3,
+  "xwoba": 0.297,
+  "xba": 0.242,
+  "k_pct": 20.4,
+  "bb_pct": 8.4,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 22,
+    "barrel_pct": 29,
+    "hard_hit_pct": 64,
+    "xwoba": 38,
+    "xba": 52,
+    "bb_pct": 56,
+    "sprint_speed": 52,
+    "k_pct": 65
+  }
+}

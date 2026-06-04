@@ -1,0 +1,26 @@
+{
+  "id": 643446,
+  "name": "Jeff McNeil",
+  "team": "NYM",
+  "pa": 350,
+  "avg_exit_velo": 87.2,
+  "max_exit_velo": 107.1,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 32.9,
+  "xwoba": 0.33,
+  "xba": 0.266,
+  "k_pct": 11.9,
+  "bb_pct": 10.6,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 20,
+    "max_exit_velo": 9,
+    "barrel_pct": 33,
+    "hard_hit_pct": 20,
+    "xwoba": 75,
+    "xba": 83,
+    "bb_pct": 79,
+    "sprint_speed": 24,
+    "k_pct": 97
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 690976,
+  "name": "Alex Freeland",
+  "team": "LAD",
+  "pa": 50,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 107.2,
+  "barrel_pct": 4.1,
+  "hard_hit_pct": 38.0,
+  "xwoba": 0.26,
+  "xba": 0.171,
+  "k_pct": 36.1,
+  "bb_pct": 11.3,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 9,
+    "barrel_pct": 35,
+    "hard_hit_pct": 39,
+    "xwoba": 11,
+    "xba": 3,
+    "bb_pct": 85,
+    "sprint_speed": 19,
+    "k_pct": 3
+  }
+}

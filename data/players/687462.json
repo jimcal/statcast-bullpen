@@ -1,0 +1,26 @@
+{
+  "id": 687462,
+  "name": "Spencer Horwitz",
+  "team": "PIT",
+  "pa": 292,
+  "avg_exit_velo": 87.4,
+  "max_exit_velo": 107.3,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 36.0,
+  "xwoba": 0.326,
+  "xba": 0.251,
+  "k_pct": 17.8,
+  "bb_pct": 10.7,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 23,
+    "max_exit_velo": 10,
+    "barrel_pct": 56,
+    "hard_hit_pct": 30,
+    "xwoba": 70,
+    "xba": 67,
+    "bb_pct": 80,
+    "sprint_speed": 8,
+    "k_pct": 78
+  }
+}

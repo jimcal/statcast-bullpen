@@ -1,0 +1,26 @@
+{
+  "id": 678489,
+  "name": "Jorge Barrosa",
+  "team": "AZ",
+  "pa": 52,
+  "avg_exit_velo": 87.8,
+  "max_exit_velo": 108.0,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 30.8,
+  "xwoba": 0.193,
+  "xba": 0.165,
+  "k_pct": 28.6,
+  "bb_pct": 2.6,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 29,
+    "max_exit_velo": 16,
+    "barrel_pct": 0,
+    "hard_hit_pct": 14,
+    "xwoba": 0,
+    "xba": 1,
+    "bb_pct": 1,
+    "sprint_speed": 87,
+    "k_pct": 17
+  }
+}

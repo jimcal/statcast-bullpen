@@ -1,0 +1,26 @@
+{
+  "id": 670231,
+  "name": "John Rave",
+  "team": "KC",
+  "pa": 110,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 109.5,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 40.0,
+  "xwoba": 0.302,
+  "xba": 0.228,
+  "k_pct": 26.3,
+  "bb_pct": 10.3,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 35,
+    "barrel_pct": 25,
+    "hard_hit_pct": 48,
+    "xwoba": 45,
+    "xba": 34,
+    "bb_pct": 76,
+    "sprint_speed": 87,
+    "k_pct": 30
+  }
+}

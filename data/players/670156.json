@@ -1,0 +1,26 @@
+{
+  "id": 670156,
+  "name": "Miles Mastrobuoni",
+  "team": "SEA",
+  "pa": 129,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 107.2,
+  "barrel_pct": 1.7,
+  "hard_hit_pct": 36.4,
+  "xwoba": 0.322,
+  "xba": 0.28,
+  "k_pct": 17.0,
+  "bb_pct": 9.7,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 9,
+    "barrel_pct": 8,
+    "hard_hit_pct": 32,
+    "xwoba": 65,
+    "xba": 95,
+    "bb_pct": 71,
+    "sprint_speed": 79,
+    "k_pct": 83
+  }
+}

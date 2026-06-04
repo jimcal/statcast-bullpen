@@ -1,0 +1,26 @@
+{
+  "id": 664702,
+  "name": "Myles Straw",
+  "team": "TOR",
+  "pa": 229,
+  "avg_exit_velo": 87.2,
+  "max_exit_velo": 106.3,
+  "barrel_pct": 3.0,
+  "hard_hit_pct": 27.1,
+  "xwoba": 0.295,
+  "xba": 0.252,
+  "k_pct": 17.3,
+  "bb_pct": 6.3,
+  "sprint_speed": 29.4,
+  "percentiles": {
+    "avg_exit_velo": 20,
+    "max_exit_velo": 6,
+    "barrel_pct": 21,
+    "hard_hit_pct": 6,
+    "xwoba": 35,
+    "xba": 69,
+    "bb_pct": 31,
+    "sprint_speed": 95,
+    "k_pct": 80
+  }
+}

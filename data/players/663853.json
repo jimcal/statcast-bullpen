@@ -1,0 +1,26 @@
+{
+  "id": 663853,
+  "name": "Romy Gonzalez",
+  "team": "BOS",
+  "pa": 239,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 8.8,
+  "hard_hit_pct": 57.3,
+  "xwoba": 0.344,
+  "xba": 0.276,
+  "k_pct": 24.0,
+  "bb_pct": 5.1,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 75,
+    "barrel_pct": 89,
+    "hard_hit_pct": 99,
+    "xwoba": 85,
+    "xba": 93,
+    "bb_pct": 16,
+    "sprint_speed": 73,
+    "k_pct": 44
+  }
+}

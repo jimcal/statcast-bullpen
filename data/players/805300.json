@@ -1,0 +1,26 @@
+{
+  "id": 805300,
+  "name": "Jakob Marsee",
+  "team": "MIA",
+  "pa": 162,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 5.6,
+  "hard_hit_pct": 41.4,
+  "xwoba": 0.347,
+  "xba": 0.275,
+  "k_pct": 20.5,
+  "bb_pct": 9.4,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 57,
+    "barrel_pct": 53,
+    "hard_hit_pct": 55,
+    "xwoba": 88,
+    "xba": 92,
+    "bb_pct": 67,
+    "sprint_speed": 67,
+    "k_pct": 64
+  }
+}

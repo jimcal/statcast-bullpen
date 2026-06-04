@@ -1,0 +1,26 @@
+{
+  "id": 641584,
+  "name": "Jake Fraley",
+  "team": "ATL",
+  "pa": 142,
+  "avg_exit_velo": 85.2,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 34.5,
+  "xwoba": 0.315,
+  "xba": 0.248,
+  "k_pct": 22.6,
+  "bb_pct": 11.5,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 6,
+    "max_exit_velo": 22,
+    "barrel_pct": 22,
+    "hard_hit_pct": 24,
+    "xwoba": 57,
+    "xba": 64,
+    "bb_pct": 86,
+    "sprint_speed": 76,
+    "k_pct": 52
+  }
+}

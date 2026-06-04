@@ -1,0 +1,26 @@
+{
+  "id": 664761,
+  "name": "Alec Bohm",
+  "team": "PHI",
+  "pa": 388,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.324,
+  "xba": 0.275,
+  "k_pct": 15.9,
+  "bb_pct": 6.7,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 36,
+    "barrel_pct": 44,
+    "hard_hit_pct": 77,
+    "xwoba": 67,
+    "xba": 92,
+    "bb_pct": 35,
+    "sprint_speed": 24,
+    "k_pct": 86
+  }
+}

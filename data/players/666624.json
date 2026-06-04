@@ -1,0 +1,26 @@
+{
+  "id": 666624,
+  "name": "Christopher Morel",
+  "team": "TB",
+  "pa": 169,
+  "avg_exit_velo": 91.8,
+  "max_exit_velo": 115.4,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 49.7,
+  "xwoba": 0.304,
+  "xba": 0.213,
+  "k_pct": 35.7,
+  "bb_pct": 8.2,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 90,
+    "max_exit_velo": 92,
+    "barrel_pct": 85,
+    "hard_hit_pct": 90,
+    "xwoba": 47,
+    "xba": 20,
+    "bb_pct": 53,
+    "sprint_speed": 64,
+    "k_pct": 3
+  }
+}

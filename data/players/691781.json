@@ -1,0 +1,26 @@
+{
+  "id": 691781,
+  "name": "Brady House",
+  "team": "WSH",
+  "pa": 188,
+  "avg_exit_velo": 89.8,
+  "max_exit_velo": 111.5,
+  "barrel_pct": 2.9,
+  "hard_hit_pct": 46.3,
+  "xwoba": 0.284,
+  "xba": 0.256,
+  "k_pct": 28.5,
+  "bb_pct": 2.9,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 61,
+    "max_exit_velo": 64,
+    "barrel_pct": 20,
+    "hard_hit_pct": 76,
+    "xwoba": 26,
+    "xba": 74,
+    "bb_pct": 2,
+    "sprint_speed": 58,
+    "k_pct": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 695578,
+  "name": "James Wood",
+  "team": "WSH",
+  "pa": 380,
+  "avg_exit_velo": 94.3,
+  "max_exit_velo": 118.0,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 56.3,
+  "xwoba": 0.361,
+  "xba": 0.259,
+  "k_pct": 32.1,
+  "bb_pct": 12.3,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 98,
+    "max_exit_velo": 99,
+    "barrel_pct": 90,
+    "hard_hit_pct": 98,
+    "xwoba": 93,
+    "xba": 77,
+    "bb_pct": 90,
+    "sprint_speed": 58,
+    "k_pct": 7
+  }
+}

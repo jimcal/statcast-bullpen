@@ -1,0 +1,26 @@
+{
+  "id": 678894,
+  "name": "Liover Peguero",
+  "team": "PIT",
+  "pa": 55,
+  "avg_exit_velo": 85.7,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 32.7,
+  "xwoba": 0.246,
+  "xba": 0.177,
+  "k_pct": 28.4,
+  "bb_pct": 6.8,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 8,
+    "max_exit_velo": 46,
+    "barrel_pct": 55,
+    "hard_hit_pct": 19,
+    "xwoba": 6,
+    "xba": 4,
+    "bb_pct": 37,
+    "sprint_speed": 92,
+    "k_pct": 17
+  }
+}

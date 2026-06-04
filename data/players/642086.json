@@ -1,0 +1,26 @@
+{
+  "id": 642086,
+  "name": "Dominic Smith",
+  "team": "SF",
+  "pa": 166,
+  "avg_exit_velo": 87.7,
+  "max_exit_velo": 109.7,
+  "barrel_pct": 3.1,
+  "hard_hit_pct": 35.5,
+  "xwoba": 0.306,
+  "xba": 0.252,
+  "k_pct": 18.7,
+  "bb_pct": 6.7,
+  "sprint_speed": 25.7,
+  "percentiles": {
+    "avg_exit_velo": 28,
+    "max_exit_velo": 38,
+    "barrel_pct": 21,
+    "hard_hit_pct": 28,
+    "xwoba": 50,
+    "xba": 69,
+    "bb_pct": 35,
+    "sprint_speed": 10,
+    "k_pct": 74
+  }
+}

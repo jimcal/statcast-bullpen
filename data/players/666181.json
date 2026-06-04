@@ -1,0 +1,26 @@
+{
+  "id": 666181,
+  "name": "Will Benson",
+  "team": "CIN",
+  "pa": 169,
+  "avg_exit_velo": 92.4,
+  "max_exit_velo": 111.4,
+  "barrel_pct": 10.3,
+  "hard_hit_pct": 53.8,
+  "xwoba": 0.342,
+  "xba": 0.257,
+  "k_pct": 26.7,
+  "bb_pct": 6.7,
+  "sprint_speed": 29.3,
+  "percentiles": {
+    "avg_exit_velo": 94,
+    "max_exit_velo": 62,
+    "barrel_pct": 96,
+    "hard_hit_pct": 97,
+    "xwoba": 84,
+    "xba": 75,
+    "bb_pct": 35,
+    "sprint_speed": 94,
+    "k_pct": 27
+  }
+}

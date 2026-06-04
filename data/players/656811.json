@@ -1,0 +1,26 @@
+{
+  "id": 656811,
+  "name": "Ryan O'Hearn",
+  "team": "SD",
+  "pa": 369,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 109.4,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 42.5,
+  "xwoba": 0.343,
+  "xba": 0.269,
+  "k_pct": 19.8,
+  "bb_pct": 10.6,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 34,
+    "barrel_pct": 47,
+    "hard_hit_pct": 59,
+    "xwoba": 85,
+    "xba": 86,
+    "bb_pct": 79,
+    "sprint_speed": 52,
+    "k_pct": 67
+  }
+}

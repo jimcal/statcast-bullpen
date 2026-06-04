@@ -1,0 +1,26 @@
+{
+  "id": 545341,
+  "name": "Randal Grichuk",
+  "team": "KC",
+  "pa": 214,
+  "avg_exit_velo": 92.4,
+  "max_exit_velo": 115.5,
+  "barrel_pct": 8.5,
+  "hard_hit_pct": 49.5,
+  "xwoba": 0.326,
+  "xba": 0.259,
+  "k_pct": 20.8,
+  "bb_pct": 5.8,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 94,
+    "max_exit_velo": 93,
+    "barrel_pct": 87,
+    "hard_hit_pct": 89,
+    "xwoba": 70,
+    "xba": 77,
+    "bb_pct": 24,
+    "sprint_speed": 41,
+    "k_pct": 63
+  }
+}

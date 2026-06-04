@@ -1,0 +1,26 @@
+{
+  "id": 656180,
+  "name": "Riley Adams",
+  "team": "WSH",
+  "pa": 153,
+  "avg_exit_velo": 91.8,
+  "max_exit_velo": 115.4,
+  "barrel_pct": 5.6,
+  "hard_hit_pct": 52.3,
+  "xwoba": 0.275,
+  "xba": 0.208,
+  "k_pct": 38.5,
+  "bb_pct": 6.3,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 90,
+    "max_exit_velo": 92,
+    "barrel_pct": 53,
+    "hard_hit_pct": 95,
+    "xwoba": 20,
+    "xba": 16,
+    "bb_pct": 31,
+    "sprint_speed": 26,
+    "k_pct": 1
+  }
+}

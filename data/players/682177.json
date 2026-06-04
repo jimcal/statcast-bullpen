@@ -1,0 +1,26 @@
+{
+  "id": 682177,
+  "name": "Daniel Schneemann",
+  "team": "CLE",
+  "pa": 264,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 7.1,
+  "hard_hit_pct": 41.7,
+  "xwoba": 0.297,
+  "xba": 0.215,
+  "k_pct": 27.8,
+  "bb_pct": 8.9,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 59,
+    "barrel_pct": 73,
+    "hard_hit_pct": 56,
+    "xwoba": 38,
+    "xba": 23,
+    "bb_pct": 62,
+    "sprint_speed": 62,
+    "k_pct": 20
+  }
+}

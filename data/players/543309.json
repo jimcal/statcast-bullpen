@@ -1,0 +1,26 @@
+{
+  "id": 543309,
+  "name": "Kyle Higashioka",
+  "team": "TEX",
+  "pa": 233,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 108.8,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 39.1,
+  "xwoba": 0.295,
+  "xba": 0.233,
+  "k_pct": 22.0,
+  "bb_pct": 6.1,
+  "sprint_speed": 25.1,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 27,
+    "barrel_pct": 60,
+    "hard_hit_pct": 45,
+    "xwoba": 35,
+    "xba": 40,
+    "bb_pct": 28,
+    "sprint_speed": 5,
+    "k_pct": 57
+  }
+}

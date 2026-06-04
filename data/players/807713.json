@@ -1,0 +1,26 @@
+{
+  "id": 807713,
+  "name": "Matt Shaw",
+  "team": "CHC",
+  "pa": 303,
+  "avg_exit_velo": 84.9,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 29.4,
+  "xwoba": 0.302,
+  "xba": 0.237,
+  "k_pct": 22.0,
+  "bb_pct": 9.3,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 4,
+    "max_exit_velo": 32,
+    "barrel_pct": 44,
+    "hard_hit_pct": 10,
+    "xwoba": 45,
+    "xba": 45,
+    "bb_pct": 66,
+    "sprint_speed": 89,
+    "k_pct": 57
+  }
+}

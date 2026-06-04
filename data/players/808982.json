@@ -1,0 +1,26 @@
+{
+  "id": 808982,
+  "name": "Jung Hoo Lee",
+  "team": "SF",
+  "pa": 493,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 107.2,
+  "barrel_pct": 2.9,
+  "hard_hit_pct": 32.0,
+  "xwoba": 0.321,
+  "xba": 0.277,
+  "k_pct": 11.5,
+  "bb_pct": 7.6,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 9,
+    "barrel_pct": 20,
+    "hard_hit_pct": 17,
+    "xwoba": 63,
+    "xba": 93,
+    "bb_pct": 47,
+    "sprint_speed": 70,
+    "k_pct": 97
+  }
+}

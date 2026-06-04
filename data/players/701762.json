@@ -1,0 +1,26 @@
+{
+  "id": 701762,
+  "name": "Nick Kurtz",
+  "team": "ATH",
+  "pa": 272,
+  "avg_exit_velo": 92.7,
+  "max_exit_velo": 114.6,
+  "barrel_pct": 10.2,
+  "hard_hit_pct": 51.1,
+  "xwoba": 0.372,
+  "xba": 0.245,
+  "k_pct": 30.9,
+  "bb_pct": 12.9,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 95,
+    "max_exit_velo": 90,
+    "barrel_pct": 95,
+    "hard_hit_pct": 93,
+    "xwoba": 95,
+    "xba": 58,
+    "bb_pct": 92,
+    "sprint_speed": 41,
+    "k_pct": 11
+  }
+}

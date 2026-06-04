@@ -1,0 +1,26 @@
+{
+  "id": 620443,
+  "name": "Luis Torrens",
+  "team": "NYM",
+  "pa": 206,
+  "avg_exit_velo": 90.6,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 48.1,
+  "xwoba": 0.338,
+  "xba": 0.274,
+  "k_pct": 19.8,
+  "bb_pct": 6.7,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 73,
+    "max_exit_velo": 48,
+    "barrel_pct": 79,
+    "hard_hit_pct": 85,
+    "xwoba": 81,
+    "xba": 91,
+    "bb_pct": 35,
+    "sprint_speed": 26,
+    "k_pct": 67
+  }
+}

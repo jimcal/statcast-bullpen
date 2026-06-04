@@ -1,0 +1,26 @@
+{
+  "id": 691406,
+  "name": "Junior Caminero",
+  "team": "TB",
+  "pa": 484,
+  "avg_exit_velo": 92.4,
+  "max_exit_velo": 116.7,
+  "barrel_pct": 10.4,
+  "hard_hit_pct": 51.4,
+  "xwoba": 0.346,
+  "xba": 0.255,
+  "k_pct": 19.1,
+  "bb_pct": 6.3,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 94,
+    "max_exit_velo": 96,
+    "barrel_pct": 96,
+    "hard_hit_pct": 93,
+    "xwoba": 87,
+    "xba": 73,
+    "bb_pct": 31,
+    "sprint_speed": 29,
+    "k_pct": 73
+  }
+}

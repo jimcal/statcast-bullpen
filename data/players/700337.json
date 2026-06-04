@@ -1,0 +1,26 @@
+{
+  "id": 700337,
+  "name": "Edgar Quero",
+  "team": "CWS",
+  "pa": 296,
+  "avg_exit_velo": 90.4,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 46.3,
+  "xwoba": 0.29,
+  "xba": 0.236,
+  "k_pct": 17.6,
+  "bb_pct": 7.9,
+  "sprint_speed": 24.9,
+  "percentiles": {
+    "avg_exit_velo": 71,
+    "max_exit_velo": 38,
+    "barrel_pct": 18,
+    "hard_hit_pct": 76,
+    "xwoba": 31,
+    "xba": 44,
+    "bb_pct": 50,
+    "sprint_speed": 4,
+    "k_pct": 79
+  }
+}

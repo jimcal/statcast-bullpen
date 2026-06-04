@@ -1,0 +1,26 @@
+{
+  "id": 668885,
+  "name": "Austin Martin",
+  "team": "MIN",
+  "pa": 127,
+  "avg_exit_velo": 86.2,
+  "max_exit_velo": 106.8,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 38.6,
+  "xwoba": 0.345,
+  "xba": 0.279,
+  "k_pct": 17.1,
+  "bb_pct": 12.2,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 12,
+    "max_exit_velo": 8,
+    "barrel_pct": 33,
+    "hard_hit_pct": 41,
+    "xwoba": 86,
+    "xba": 94,
+    "bb_pct": 90,
+    "sprint_speed": 73,
+    "k_pct": 81
+  }
+}

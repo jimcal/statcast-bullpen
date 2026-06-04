@@ -1,0 +1,26 @@
+{
+  "id": 682729,
+  "name": "Jonatan Clase",
+  "team": "TOR",
+  "pa": 73,
+  "avg_exit_velo": 86.0,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 4.5,
+  "hard_hit_pct": 35.6,
+  "xwoba": 0.284,
+  "xba": 0.217,
+  "k_pct": 25.0,
+  "bb_pct": 8.9,
+  "sprint_speed": 29.4,
+  "percentiles": {
+    "avg_exit_velo": 10,
+    "max_exit_velo": 17,
+    "barrel_pct": 41,
+    "hard_hit_pct": 29,
+    "xwoba": 26,
+    "xba": 25,
+    "bb_pct": 62,
+    "sprint_speed": 95,
+    "k_pct": 38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 596142,
+  "name": "Gary S\u00e1nchez",
+  "team": "BAL",
+  "pa": 65,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 6.9,
+  "hard_hit_pct": 57.8,
+  "xwoba": 0.315,
+  "xba": 0.24,
+  "k_pct": 26.7,
+  "bb_pct": 4.0,
+  "sprint_speed": 24.6,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 65,
+    "barrel_pct": 71,
+    "hard_hit_pct": 99,
+    "xwoba": 57,
+    "xba": 49,
+    "bb_pct": 7,
+    "sprint_speed": 3,
+    "k_pct": 27
+  }
+}

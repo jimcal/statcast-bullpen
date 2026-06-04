@@ -1,0 +1,26 @@
+{
+  "id": 807712,
+  "name": "Luke Keaschall",
+  "team": "MIN",
+  "pa": 154,
+  "avg_exit_velo": 86.2,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 31.2,
+  "xwoba": 0.324,
+  "xba": 0.263,
+  "k_pct": 14.0,
+  "bb_pct": 9.2,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 12,
+    "max_exit_velo": 32,
+    "barrel_pct": 33,
+    "hard_hit_pct": 16,
+    "xwoba": 67,
+    "xba": 82,
+    "bb_pct": 66,
+    "sprint_speed": 84,
+    "k_pct": 92
+  }
+}

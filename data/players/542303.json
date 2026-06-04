@@ -1,0 +1,26 @@
+{
+  "id": 542303,
+  "name": "Marcell Ozuna",
+  "team": "ATL",
+  "pa": 350,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 112.1,
+  "barrel_pct": 6.8,
+  "hard_hit_pct": 44.6,
+  "xwoba": 0.354,
+  "xba": 0.239,
+  "k_pct": 24.3,
+  "bb_pct": 15.9,
+  "sprint_speed": 25.3,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 70,
+    "barrel_pct": 70,
+    "hard_hit_pct": 69,
+    "xwoba": 90,
+    "xba": 48,
+    "bb_pct": 98,
+    "sprint_speed": 7,
+    "k_pct": 42
+  }
+}

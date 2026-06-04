@@ -1,0 +1,26 @@
+{
+  "id": 664774,
+  "name": "LaMonte Wade Jr.",
+  "team": "LAA",
+  "pa": 154,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 2.9,
+  "hard_hit_pct": 31.8,
+  "xwoba": 0.281,
+  "xba": 0.205,
+  "k_pct": 24.0,
+  "bb_pct": 11.2,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 22,
+    "barrel_pct": 20,
+    "hard_hit_pct": 17,
+    "xwoba": 24,
+    "xba": 14,
+    "bb_pct": 84,
+    "sprint_speed": 14,
+    "k_pct": 44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 665750,
+  "name": "Leody Taveras",
+  "team": "SEA",
+  "pa": 125,
+  "avg_exit_velo": 88.5,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 35.2,
+  "xwoba": 0.232,
+  "xba": 0.198,
+  "k_pct": 27.8,
+  "bb_pct": 2.8,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 40,
+    "max_exit_velo": 59,
+    "barrel_pct": 38,
+    "hard_hit_pct": 27,
+    "xwoba": 3,
+    "xba": 10,
+    "bb_pct": 2,
+    "sprint_speed": 85,
+    "k_pct": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 687551,
+  "name": "Drew Gilbert",
+  "team": "SF",
+  "pa": 81,
+  "avg_exit_velo": 86.6,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 35.8,
+  "xwoba": 0.266,
+  "xba": 0.209,
+  "k_pct": 18.3,
+  "bb_pct": 6.4,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 38,
+    "barrel_pct": 29,
+    "hard_hit_pct": 29,
+    "xwoba": 14,
+    "xba": 17,
+    "bb_pct": 32,
+    "sprint_speed": 56,
+    "k_pct": 76
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 672275,
+  "name": "Patrick Bailey",
+  "team": "SF",
+  "pa": 286,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 36.4,
+  "xwoba": 0.264,
+  "xba": 0.21,
+  "k_pct": 29.4,
+  "bb_pct": 6.6,
+  "sprint_speed": 25.7,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 38,
+    "barrel_pct": 27,
+    "hard_hit_pct": 32,
+    "xwoba": 13,
+    "xba": 18,
+    "bb_pct": 34,
+    "sprint_speed": 10,
+    "k_pct": 15
+  }
+}

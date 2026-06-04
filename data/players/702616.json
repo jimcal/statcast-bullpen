@@ -1,0 +1,26 @@
+{
+  "id": 702616,
+  "name": "Jackson Holliday",
+  "team": "BAL",
+  "pa": 447,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 40.8,
+  "xwoba": 0.314,
+  "xba": 0.241,
+  "k_pct": 21.6,
+  "bb_pct": 8.6,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 36,
+    "barrel_pct": 50,
+    "hard_hit_pct": 52,
+    "xwoba": 56,
+    "xba": 51,
+    "bb_pct": 58,
+    "sprint_speed": 82,
+    "k_pct": 59
+  }
+}

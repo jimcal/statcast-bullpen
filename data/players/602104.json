@@ -1,0 +1,26 @@
+{
+  "id": 602104,
+  "name": "Ram\u00f3n Ur\u00edas",
+  "team": "HOU",
+  "pa": 274,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 109.4,
+  "barrel_pct": 5.6,
+  "hard_hit_pct": 41.8,
+  "xwoba": 0.289,
+  "xba": 0.227,
+  "k_pct": 22.5,
+  "bb_pct": 6.9,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 34,
+    "barrel_pct": 53,
+    "hard_hit_pct": 56,
+    "xwoba": 30,
+    "xba": 34,
+    "bb_pct": 38,
+    "sprint_speed": 36,
+    "k_pct": 53
+  }
+}

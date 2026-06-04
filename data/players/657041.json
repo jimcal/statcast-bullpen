@@ -1,0 +1,26 @@
+{
+  "id": 657041,
+  "name": "Lane Thomas",
+  "team": "CLE",
+  "pa": 83,
+  "avg_exit_velo": 87.8,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 2.8,
+  "hard_hit_pct": 31.3,
+  "xwoba": 0.243,
+  "xba": 0.168,
+  "k_pct": 31.0,
+  "bb_pct": 9.9,
+  "sprint_speed": 29.3,
+  "percentiles": {
+    "avg_exit_velo": 29,
+    "max_exit_velo": 51,
+    "barrel_pct": 19,
+    "hard_hit_pct": 16,
+    "xwoba": 5,
+    "xba": 2,
+    "bb_pct": 73,
+    "sprint_speed": 94,
+    "k_pct": 11
+  }
+}

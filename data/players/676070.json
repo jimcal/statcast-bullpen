@@ -1,0 +1,26 @@
+{
+  "id": 676070,
+  "name": "Jacob Amaya",
+  "team": "CWS",
+  "pa": 54,
+  "avg_exit_velo": 88.5,
+  "max_exit_velo": 108.0,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 29.6,
+  "xwoba": 0.197,
+  "xba": 0.174,
+  "k_pct": 21.9,
+  "bb_pct": 4.1,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 40,
+    "max_exit_velo": 16,
+    "barrel_pct": 0,
+    "hard_hit_pct": 11,
+    "xwoba": 0,
+    "xba": 3,
+    "bb_pct": 7,
+    "sprint_speed": 52,
+    "k_pct": 58
+  }
+}

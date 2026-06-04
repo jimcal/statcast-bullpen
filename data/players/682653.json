@@ -1,0 +1,26 @@
+{
+  "id": 682653,
+  "name": "Warming Bernabel",
+  "team": "COL",
+  "pa": 114,
+  "avg_exit_velo": 85.4,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 2.1,
+  "hard_hit_pct": 32.5,
+  "xwoba": 0.273,
+  "xba": 0.247,
+  "k_pct": 17.1,
+  "bb_pct": 4.8,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 17,
+    "barrel_pct": 12,
+    "hard_hit_pct": 18,
+    "xwoba": 19,
+    "xba": 62,
+    "bb_pct": 13,
+    "sprint_speed": 76,
+    "k_pct": 81
+  }
+}

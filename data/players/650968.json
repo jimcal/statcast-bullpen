@@ -1,0 +1,26 @@
+{
+  "id": 650968,
+  "name": "Yohel Pozo",
+  "team": "STL",
+  "pa": 139,
+  "avg_exit_velo": 87.7,
+  "max_exit_velo": 109.0,
+  "barrel_pct": 1.8,
+  "hard_hit_pct": 35.3,
+  "xwoba": 0.276,
+  "xba": 0.246,
+  "k_pct": 13.1,
+  "bb_pct": 4.2,
+  "sprint_speed": 24.8,
+  "percentiles": {
+    "avg_exit_velo": 28,
+    "max_exit_velo": 29,
+    "barrel_pct": 9,
+    "hard_hit_pct": 27,
+    "xwoba": 21,
+    "xba": 60,
+    "bb_pct": 8,
+    "sprint_speed": 3,
+    "k_pct": 94
+  }
+}

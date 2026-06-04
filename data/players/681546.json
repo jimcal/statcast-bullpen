@@ -1,0 +1,26 @@
+{
+  "id": 681546,
+  "name": "James Outman",
+  "team": "MIN",
+  "pa": 71,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 39.4,
+  "xwoba": 0.265,
+  "xba": 0.158,
+  "k_pct": 42.6,
+  "bb_pct": 8.1,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 49,
+    "barrel_pct": 83,
+    "hard_hit_pct": 46,
+    "xwoba": 13,
+    "xba": 1,
+    "bb_pct": 52,
+    "sprint_speed": 79,
+    "k_pct": 0
+  }
+}

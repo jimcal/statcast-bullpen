@@ -1,0 +1,26 @@
+{
+  "id": 456781,
+  "name": "Donovan Solano",
+  "team": "TEX",
+  "pa": 128,
+  "avg_exit_velo": 87.4,
+  "max_exit_velo": 106.6,
+  "barrel_pct": 2.8,
+  "hard_hit_pct": 37.5,
+  "xwoba": 0.259,
+  "xba": 0.223,
+  "k_pct": 22.3,
+  "bb_pct": 4.5,
+  "sprint_speed": 25.0,
+  "percentiles": {
+    "avg_exit_velo": 23,
+    "max_exit_velo": 7,
+    "barrel_pct": 19,
+    "hard_hit_pct": 37,
+    "xwoba": 10,
+    "xba": 30,
+    "bb_pct": 9,
+    "sprint_speed": 5,
+    "k_pct": 55
+  }
+}

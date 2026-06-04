@@ -1,0 +1,26 @@
+{
+  "id": 664034,
+  "name": "Ty France",
+  "team": "TOR",
+  "pa": 364,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 44.2,
+  "xwoba": 0.328,
+  "xba": 0.259,
+  "k_pct": 17.0,
+  "bb_pct": 4.5,
+  "sprint_speed": 25.1,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 49,
+    "barrel_pct": 55,
+    "hard_hit_pct": 67,
+    "xwoba": 72,
+    "xba": 77,
+    "bb_pct": 9,
+    "sprint_speed": 5,
+    "k_pct": 83
+  }
+}

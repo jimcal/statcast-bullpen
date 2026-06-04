@@ -1,0 +1,26 @@
+{
+  "id": 543760,
+  "name": "Marcus Semien",
+  "team": "TEX",
+  "pa": 386,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.0,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 35.0,
+  "xwoba": 0.318,
+  "xba": 0.243,
+  "k_pct": 17.4,
+  "bb_pct": 9.4,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 42,
+    "barrel_pct": 45,
+    "hard_hit_pct": 26,
+    "xwoba": 60,
+    "xba": 54,
+    "bb_pct": 67,
+    "sprint_speed": 79,
+    "k_pct": 80
+  }
+}

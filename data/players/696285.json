@@ -1,0 +1,26 @@
+{
+  "id": 696285,
+  "name": "Jacob Young",
+  "team": "WSH",
+  "pa": 269,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 107.0,
+  "barrel_pct": 1.4,
+  "hard_hit_pct": 34.2,
+  "xwoba": 0.297,
+  "xba": 0.262,
+  "k_pct": 17.9,
+  "bb_pct": 7.4,
+  "sprint_speed": 29.3,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 8,
+    "barrel_pct": 6,
+    "hard_hit_pct": 23,
+    "xwoba": 38,
+    "xba": 80,
+    "bb_pct": 44,
+    "sprint_speed": 94,
+    "k_pct": 78
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 663837,
+  "name": "Matt Vierling",
+  "team": "DET",
+  "pa": 66,
+  "avg_exit_velo": 92.2,
+  "max_exit_velo": 107.8,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 45.5,
+  "xwoba": 0.338,
+  "xba": 0.25,
+  "k_pct": 24.0,
+  "bb_pct": 7.0,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 92,
+    "max_exit_velo": 14,
+    "barrel_pct": 82,
+    "hard_hit_pct": 73,
+    "xwoba": 81,
+    "xba": 66,
+    "bb_pct": 40,
+    "sprint_speed": 56,
+    "k_pct": 44
+  }
+}

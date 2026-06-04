@@ -1,0 +1,26 @@
+{
+  "id": 660688,
+  "name": "Keibert Ruiz",
+  "team": "WSH",
+  "pa": 230,
+  "avg_exit_velo": 86.2,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 30.9,
+  "xwoba": 0.287,
+  "xba": 0.271,
+  "k_pct": 9.7,
+  "bb_pct": 3.0,
+  "sprint_speed": 24.5,
+  "percentiles": {
+    "avg_exit_velo": 12,
+    "max_exit_velo": 48,
+    "barrel_pct": 9,
+    "hard_hit_pct": 14,
+    "xwoba": 28,
+    "xba": 89,
+    "bb_pct": 2,
+    "sprint_speed": 2,
+    "k_pct": 99
+  }
+}

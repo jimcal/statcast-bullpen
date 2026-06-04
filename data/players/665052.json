@@ -1,0 +1,26 @@
+{
+  "id": 665052,
+  "name": "Griffin Conine",
+  "team": "MIA",
+  "pa": 54,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 117.4,
+  "barrel_pct": 9.3,
+  "hard_hit_pct": 48.1,
+  "xwoba": 0.299,
+  "xba": 0.232,
+  "k_pct": 29.1,
+  "bb_pct": 8.1,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 97,
+    "barrel_pct": 93,
+    "hard_hit_pct": 85,
+    "xwoba": 41,
+    "xba": 38,
+    "bb_pct": 52,
+    "sprint_speed": 52,
+    "k_pct": 16
+  }
+}

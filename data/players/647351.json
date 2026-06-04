@@ -1,0 +1,26 @@
+{
+  "id": 647351,
+  "name": "Abraham Toro",
+  "team": "BOS",
+  "pa": 222,
+  "avg_exit_velo": 86.3,
+  "max_exit_velo": 109.4,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 34.2,
+  "xwoba": 0.302,
+  "xba": 0.253,
+  "k_pct": 14.8,
+  "bb_pct": 4.9,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 13,
+    "max_exit_velo": 34,
+    "barrel_pct": 27,
+    "hard_hit_pct": 23,
+    "xwoba": 45,
+    "xba": 71,
+    "bb_pct": 14,
+    "sprint_speed": 62,
+    "k_pct": 89
+  }
+}

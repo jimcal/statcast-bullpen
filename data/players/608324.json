@@ -1,0 +1,26 @@
+{
+  "id": 608324,
+  "name": "Alex Bregman",
+  "team": "BOS",
+  "pa": 365,
+  "avg_exit_velo": 90.1,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 44.4,
+  "xwoba": 0.337,
+  "xba": 0.254,
+  "k_pct": 14.2,
+  "bb_pct": 10.6,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 66,
+    "max_exit_velo": 36,
+    "barrel_pct": 44,
+    "hard_hit_pct": 68,
+    "xwoba": 81,
+    "xba": 72,
+    "bb_pct": 79,
+    "sprint_speed": 14,
+    "k_pct": 92
+  }
+}

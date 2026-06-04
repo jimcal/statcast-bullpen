@@ -1,0 +1,26 @@
+{
+  "id": 805249,
+  "name": "Otto Kemp",
+  "team": "PHI",
+  "pa": 132,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 7.3,
+  "hard_hit_pct": 44.7,
+  "xwoba": 0.31,
+  "xba": 0.231,
+  "k_pct": 31.4,
+  "bb_pct": 5.5,
+  "sprint_speed": 29.4,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 59,
+    "barrel_pct": 74,
+    "hard_hit_pct": 70,
+    "xwoba": 52,
+    "xba": 37,
+    "bb_pct": 21,
+    "sprint_speed": 95,
+    "k_pct": 10
+  }
+}

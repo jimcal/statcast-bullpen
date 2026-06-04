@@ -1,0 +1,26 @@
+{
+  "id": 668901,
+  "name": "Mark Vientos",
+  "team": "NYM",
+  "pa": 313,
+  "avg_exit_velo": 91.4,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 50.5,
+  "xwoba": 0.32,
+  "xba": 0.246,
+  "k_pct": 24.8,
+  "bb_pct": 6.5,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 86,
+    "max_exit_velo": 48,
+    "barrel_pct": 79,
+    "hard_hit_pct": 92,
+    "xwoba": 62,
+    "xba": 60,
+    "bb_pct": 34,
+    "sprint_speed": 14,
+    "k_pct": 39
+  }
+}

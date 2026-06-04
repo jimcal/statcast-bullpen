@@ -1,0 +1,26 @@
+{
+  "id": 670242,
+  "name": "Matt Wallner",
+  "team": "MIN",
+  "pa": 224,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 113.8,
+  "barrel_pct": 7.9,
+  "hard_hit_pct": 45.5,
+  "xwoba": 0.325,
+  "xba": 0.202,
+  "k_pct": 29.1,
+  "bb_pct": 11.7,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 85,
+    "barrel_pct": 81,
+    "hard_hit_pct": 73,
+    "xwoba": 69,
+    "xba": 13,
+    "bb_pct": 87,
+    "sprint_speed": 32,
+    "k_pct": 16
+  }
+}

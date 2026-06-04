@@ -1,0 +1,26 @@
+{
+  "id": 665487,
+  "name": "Fernando Tatis Jr.",
+  "team": "SD",
+  "pa": 467,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 113.4,
+  "barrel_pct": 7.4,
+  "hard_hit_pct": 51.8,
+  "xwoba": 0.37,
+  "xba": 0.272,
+  "k_pct": 18.9,
+  "bb_pct": 12.8,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 81,
+    "barrel_pct": 75,
+    "hard_hit_pct": 94,
+    "xwoba": 94,
+    "xba": 90,
+    "bb_pct": 92,
+    "sprint_speed": 82,
+    "k_pct": 73
+  }
+}

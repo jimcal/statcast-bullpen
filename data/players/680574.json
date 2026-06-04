@@ -1,0 +1,26 @@
+{
+  "id": 680574,
+  "name": "Matt McLain",
+  "team": "CIN",
+  "pa": 350,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 4.7,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.29,
+  "xba": 0.212,
+  "k_pct": 29.4,
+  "bb_pct": 9.6,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 40,
+    "barrel_pct": 43,
+    "hard_hit_pct": 51,
+    "xwoba": 31,
+    "xba": 20,
+    "bb_pct": 71,
+    "sprint_speed": 92,
+    "k_pct": 15
+  }
+}

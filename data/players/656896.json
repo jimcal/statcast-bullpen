@@ -1,0 +1,26 @@
+{
+  "id": 656896,
+  "name": "Emmanuel Rivera",
+  "team": "BAL",
+  "pa": 96,
+  "avg_exit_velo": 86.7,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 0.8,
+  "hard_hit_pct": 32.3,
+  "xwoba": 0.267,
+  "xba": 0.246,
+  "k_pct": 18.9,
+  "bb_pct": 4.7,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 16,
+    "max_exit_velo": 30,
+    "barrel_pct": 3,
+    "hard_hit_pct": 18,
+    "xwoba": 15,
+    "xba": 60,
+    "bb_pct": 11,
+    "sprint_speed": 12,
+    "k_pct": 73
+  }
+}

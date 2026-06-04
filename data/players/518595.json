@@ -1,0 +1,26 @@
+{
+  "id": 518595,
+  "name": "Travis d'Arnaud",
+  "team": "LAA",
+  "pa": 140,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 106.2,
+  "barrel_pct": 6.9,
+  "hard_hit_pct": 37.9,
+  "xwoba": 0.269,
+  "xba": 0.192,
+  "k_pct": 32.0,
+  "bb_pct": 5.6,
+  "sprint_speed": 26.3,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 6,
+    "barrel_pct": 71,
+    "hard_hit_pct": 38,
+    "xwoba": 16,
+    "xba": 8,
+    "bb_pct": 21,
+    "sprint_speed": 21,
+    "k_pct": 8
+  }
+}

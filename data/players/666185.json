@@ -1,0 +1,26 @@
+{
+  "id": 666185,
+  "name": "Dylan Carlson",
+  "team": "BAL",
+  "pa": 164,
+  "avg_exit_velo": 88.4,
+  "max_exit_velo": 108.0,
+  "barrel_pct": 4.6,
+  "hard_hit_pct": 30.5,
+  "xwoba": 0.285,
+  "xba": 0.214,
+  "k_pct": 22.4,
+  "bb_pct": 8.7,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 39,
+    "max_exit_velo": 16,
+    "barrel_pct": 42,
+    "hard_hit_pct": 12,
+    "xwoba": 27,
+    "xba": 22,
+    "bb_pct": 60,
+    "sprint_speed": 52,
+    "k_pct": 54
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 690022,
+  "name": "Ryan Ritter",
+  "team": "COL",
+  "pa": 131,
+  "avg_exit_velo": 85.2,
+  "max_exit_velo": 108.4,
+  "barrel_pct": 1.0,
+  "hard_hit_pct": 30.5,
+  "xwoba": 0.248,
+  "xba": 0.211,
+  "k_pct": 29.5,
+  "bb_pct": 4.8,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 6,
+    "max_exit_velo": 22,
+    "barrel_pct": 3,
+    "hard_hit_pct": 12,
+    "xwoba": 6,
+    "xba": 19,
+    "bb_pct": 13,
+    "sprint_speed": 92,
+    "k_pct": 14
+  }
+}

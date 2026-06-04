@@ -1,0 +1,26 @@
+{
+  "id": 657077,
+  "name": "Alex Verdugo",
+  "team": "ATL",
+  "pa": 166,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 107.7,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 42.8,
+  "xwoba": 0.306,
+  "xba": 0.266,
+  "k_pct": 14.6,
+  "bb_pct": 6.6,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 13,
+    "barrel_pct": 13,
+    "hard_hit_pct": 61,
+    "xwoba": 50,
+    "xba": 83,
+    "bb_pct": 34,
+    "sprint_speed": 17,
+    "k_pct": 89
+  }
+}

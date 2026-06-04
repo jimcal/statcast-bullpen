@@ -1,0 +1,26 @@
+{
+  "id": 679845,
+  "name": "Nick Loftin",
+  "team": "KC",
+  "pa": 144,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 105.3,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 34.0,
+  "xwoba": 0.294,
+  "xba": 0.232,
+  "k_pct": 14.4,
+  "bb_pct": 7.4,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 3,
+    "barrel_pct": 44,
+    "hard_hit_pct": 22,
+    "xwoba": 34,
+    "xba": 38,
+    "bb_pct": 44,
+    "sprint_speed": 76,
+    "k_pct": 91
+  }
+}

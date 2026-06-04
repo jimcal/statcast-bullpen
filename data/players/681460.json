@@ -1,0 +1,26 @@
+{
+  "id": 681460,
+  "name": "Brooks Baldwin",
+  "team": "CWS",
+  "pa": 220,
+  "avg_exit_velo": 90.4,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 7.3,
+  "hard_hit_pct": 40.9,
+  "xwoba": 0.307,
+  "xba": 0.235,
+  "k_pct": 26.2,
+  "bb_pct": 6.4,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 71,
+    "max_exit_velo": 44,
+    "barrel_pct": 74,
+    "hard_hit_pct": 53,
+    "xwoba": 51,
+    "xba": 43,
+    "bb_pct": 32,
+    "sprint_speed": 82,
+    "k_pct": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 671218,
+  "name": "Heliot Ramos",
+  "team": "SF",
+  "pa": 468,
+  "avg_exit_velo": 91.8,
+  "max_exit_velo": 116.0,
+  "barrel_pct": 5.9,
+  "hard_hit_pct": 47.4,
+  "xwoba": 0.32,
+  "xba": 0.242,
+  "k_pct": 22.7,
+  "bb_pct": 7.5,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 90,
+    "max_exit_velo": 95,
+    "barrel_pct": 58,
+    "hard_hit_pct": 83,
+    "xwoba": 62,
+    "xba": 52,
+    "bb_pct": 46,
+    "sprint_speed": 48,
+    "k_pct": 52
+  }
+}

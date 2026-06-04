@@ -1,0 +1,26 @@
+{
+  "id": 702176,
+  "name": "Alan Roden",
+  "team": "MIN",
+  "pa": 102,
+  "avg_exit_velo": 86.4,
+  "max_exit_velo": 107.6,
+  "barrel_pct": 1.3,
+  "hard_hit_pct": 30.4,
+  "xwoba": 0.227,
+  "xba": 0.176,
+  "k_pct": 24.2,
+  "bb_pct": 5.2,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 13,
+    "barrel_pct": 5,
+    "hard_hit_pct": 12,
+    "xwoba": 3,
+    "xba": 3,
+    "bb_pct": 18,
+    "sprint_speed": 58,
+    "k_pct": 42
+  }
+}

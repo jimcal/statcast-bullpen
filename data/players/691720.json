@@ -1,0 +1,26 @@
+{
+  "id": 691720,
+  "name": "Kyle Karros",
+  "team": "COL",
+  "pa": 98,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 107.5,
+  "barrel_pct": 0.6,
+  "hard_hit_pct": 33.7,
+  "xwoba": 0.258,
+  "xba": 0.206,
+  "k_pct": 26.3,
+  "bb_pct": 9.6,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 12,
+    "barrel_pct": 2,
+    "hard_hit_pct": 22,
+    "xwoba": 10,
+    "xba": 15,
+    "bb_pct": 71,
+    "sprint_speed": 48,
+    "k_pct": 30
+  }
+}

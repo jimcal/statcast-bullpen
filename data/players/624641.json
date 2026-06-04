@@ -1,0 +1,26 @@
+{
+  "id": 624641,
+  "name": "Edmundo Sosa",
+  "team": "PHI",
+  "pa": 192,
+  "avg_exit_velo": 87.7,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 4.6,
+  "hard_hit_pct": 38.0,
+  "xwoba": 0.29,
+  "xba": 0.245,
+  "k_pct": 21.6,
+  "bb_pct": 3.8,
+  "sprint_speed": 29.4,
+  "percentiles": {
+    "avg_exit_velo": 28,
+    "max_exit_velo": 51,
+    "barrel_pct": 42,
+    "hard_hit_pct": 39,
+    "xwoba": 31,
+    "xba": 58,
+    "bb_pct": 5,
+    "sprint_speed": 95,
+    "k_pct": 59
+  }
+}

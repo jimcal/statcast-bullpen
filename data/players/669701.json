@@ -1,0 +1,26 @@
+{
+  "id": 669701,
+  "name": "Josh Smith",
+  "team": "TEX",
+  "pa": 399,
+  "avg_exit_velo": 87.2,
+  "max_exit_velo": 108.2,
+  "barrel_pct": 3.6,
+  "hard_hit_pct": 31.1,
+  "xwoba": 0.31,
+  "xba": 0.247,
+  "k_pct": 17.8,
+  "bb_pct": 9.8,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 20,
+    "max_exit_velo": 20,
+    "barrel_pct": 28,
+    "hard_hit_pct": 15,
+    "xwoba": 52,
+    "xba": 62,
+    "bb_pct": 72,
+    "sprint_speed": 48,
+    "k_pct": 78
+  }
+}

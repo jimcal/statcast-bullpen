@@ -1,0 +1,26 @@
+{
+  "id": 677649,
+  "name": "Ezequiel Duran",
+  "team": "TEX",
+  "pa": 152,
+  "avg_exit_velo": 85.3,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 1.8,
+  "hard_hit_pct": 30.9,
+  "xwoba": 0.247,
+  "xba": 0.214,
+  "k_pct": 25.1,
+  "bb_pct": 3.7,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 30,
+    "barrel_pct": 9,
+    "hard_hit_pct": 14,
+    "xwoba": 6,
+    "xba": 22,
+    "bb_pct": 5,
+    "sprint_speed": 85,
+    "k_pct": 37
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 657557,
+  "name": "Paul DeJong",
+  "team": "WSH",
+  "pa": 126,
+  "avg_exit_velo": 88.1,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 39.7,
+  "xwoba": 0.259,
+  "xba": 0.194,
+  "k_pct": 33.7,
+  "bb_pct": 5.3,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 33,
+    "max_exit_velo": 51,
+    "barrel_pct": 63,
+    "hard_hit_pct": 47,
+    "xwoba": 10,
+    "xba": 9,
+    "bb_pct": 18,
+    "sprint_speed": 24,
+    "k_pct": 6
+  }
+}

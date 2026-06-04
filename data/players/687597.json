@@ -1,0 +1,26 @@
+{
+  "id": 687597,
+  "name": "Jordan Beck",
+  "team": "COL",
+  "pa": 366,
+  "avg_exit_velo": 87.4,
+  "max_exit_velo": 113.8,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 38.5,
+  "xwoba": 0.301,
+  "xba": 0.231,
+  "k_pct": 29.6,
+  "bb_pct": 7.3,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 23,
+    "max_exit_velo": 85,
+    "barrel_pct": 59,
+    "hard_hit_pct": 41,
+    "xwoba": 44,
+    "xba": 37,
+    "bb_pct": 43,
+    "sprint_speed": 84,
+    "k_pct": 14
+  }
+}

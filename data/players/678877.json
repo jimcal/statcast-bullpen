@@ -1,0 +1,26 @@
+{
+  "id": 678877,
+  "name": "Jhonkensy Noel",
+  "team": "CLE",
+  "pa": 97,
+  "avg_exit_velo": 90.3,
+  "max_exit_velo": 117.2,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 41.2,
+  "xwoba": 0.202,
+  "xba": 0.161,
+  "k_pct": 35.3,
+  "bb_pct": 2.6,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 70,
+    "max_exit_velo": 97,
+    "barrel_pct": 33,
+    "hard_hit_pct": 54,
+    "xwoba": 1,
+    "xba": 1,
+    "bb_pct": 1,
+    "sprint_speed": 41,
+    "k_pct": 4
+  }
+}

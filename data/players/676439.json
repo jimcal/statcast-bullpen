@@ -1,0 +1,26 @@
+{
+  "id": 676439,
+  "name": "Hunter Feduccia",
+  "team": "TB",
+  "pa": 61,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 32.8,
+  "xwoba": 0.275,
+  "xba": 0.188,
+  "k_pct": 27.6,
+  "bb_pct": 14.3,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 25,
+    "barrel_pct": 44,
+    "hard_hit_pct": 19,
+    "xwoba": 20,
+    "xba": 6,
+    "bb_pct": 97,
+    "sprint_speed": 19,
+    "k_pct": 21
+  }
+}

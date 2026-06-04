@@ -1,0 +1,26 @@
+{
+  "id": 686611,
+  "name": "Dylan Crews",
+  "team": "WSH",
+  "pa": 217,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 6.5,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.307,
+  "xba": 0.235,
+  "k_pct": 23.6,
+  "bb_pct": 7.5,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 57,
+    "barrel_pct": 67,
+    "hard_hit_pct": 42,
+    "xwoba": 51,
+    "xba": 43,
+    "bb_pct": 46,
+    "sprint_speed": 89,
+    "k_pct": 48
+  }
+}

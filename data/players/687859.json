@@ -1,0 +1,26 @@
+{
+  "id": 687859,
+  "name": "Troy Johnston",
+  "team": "MIA",
+  "pa": 86,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 106.1,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.338,
+  "xba": 0.27,
+  "k_pct": 21.5,
+  "bb_pct": 6.6,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 5,
+    "barrel_pct": 67,
+    "hard_hit_pct": 51,
+    "xwoba": 81,
+    "xba": 88,
+    "bb_pct": 34,
+    "sprint_speed": 24,
+    "k_pct": 60
+  }
+}

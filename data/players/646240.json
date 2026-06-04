@@ -1,0 +1,26 @@
+{
+  "id": 646240,
+  "name": "Rafael Devers",
+  "team": "SF",
+  "pa": 419,
+  "avg_exit_velo": 93.5,
+  "max_exit_velo": 114.5,
+  "barrel_pct": 9.2,
+  "hard_hit_pct": 56.1,
+  "xwoba": 0.367,
+  "xba": 0.244,
+  "k_pct": 26.3,
+  "bb_pct": 15.4,
+  "sprint_speed": 25.0,
+  "percentiles": {
+    "avg_exit_velo": 98,
+    "max_exit_velo": 89,
+    "barrel_pct": 92,
+    "hard_hit_pct": 98,
+    "xwoba": 94,
+    "xba": 57,
+    "bb_pct": 98,
+    "sprint_speed": 5,
+    "k_pct": 30
+  }
+}

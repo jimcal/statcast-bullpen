@@ -1,0 +1,26 @@
+{
+  "id": 695681,
+  "name": "Christian Moore",
+  "team": "LAA",
+  "pa": 102,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 112.5,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 36.3,
+  "xwoba": 0.282,
+  "xba": 0.203,
+  "k_pct": 33.7,
+  "bb_pct": 10.3,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 74,
+    "barrel_pct": 31,
+    "hard_hit_pct": 31,
+    "xwoba": 25,
+    "xba": 13,
+    "bb_pct": 76,
+    "sprint_speed": 76,
+    "k_pct": 6
+  }
+}

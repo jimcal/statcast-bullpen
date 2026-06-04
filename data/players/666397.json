@@ -1,0 +1,26 @@
+{
+  "id": 666397,
+  "name": "Edouard Julien",
+  "team": "MIN",
+  "pa": 123,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 7.2,
+  "hard_hit_pct": 42.3,
+  "xwoba": 0.329,
+  "xba": 0.242,
+  "k_pct": 29.3,
+  "bb_pct": 10.6,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 43,
+    "barrel_pct": 74,
+    "hard_hit_pct": 58,
+    "xwoba": 74,
+    "xba": 52,
+    "bb_pct": 79,
+    "sprint_speed": 48,
+    "k_pct": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 681624,
+  "name": "Andy Pages",
+  "team": "LAD",
+  "pa": 452,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 37.2,
+  "xwoba": 0.316,
+  "xba": 0.258,
+  "k_pct": 21.5,
+  "bb_pct": 4.3,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 51,
+    "barrel_pct": 60,
+    "hard_hit_pct": 36,
+    "xwoba": 59,
+    "xba": 76,
+    "bb_pct": 9,
+    "sprint_speed": 67,
+    "k_pct": 60
+  }
+}

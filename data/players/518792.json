@@ -1,0 +1,26 @@
+{
+  "id": 518792,
+  "name": "Jason Heyward",
+  "team": "SD",
+  "pa": 68,
+  "avg_exit_velo": 85.1,
+  "max_exit_velo": 108.9,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 33.8,
+  "xwoba": 0.245,
+  "xba": 0.201,
+  "k_pct": 21.1,
+  "bb_pct": 6.3,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 5,
+    "max_exit_velo": 28,
+    "barrel_pct": 22,
+    "hard_hit_pct": 22,
+    "xwoba": 5,
+    "xba": 12,
+    "bb_pct": 31,
+    "sprint_speed": 43,
+    "k_pct": 61
+  }
+}

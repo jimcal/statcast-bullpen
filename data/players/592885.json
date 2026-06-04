@@ -1,0 +1,26 @@
+{
+  "id": 592885,
+  "name": "Christian Yelich",
+  "team": "MIL",
+  "pa": 407,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 113.4,
+  "barrel_pct": 6.5,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.33,
+  "xba": 0.245,
+  "k_pct": 25.8,
+  "bb_pct": 10.1,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 81,
+    "barrel_pct": 67,
+    "hard_hit_pct": 77,
+    "xwoba": 75,
+    "xba": 58,
+    "bb_pct": 74,
+    "sprint_speed": 70,
+    "k_pct": 34
+  }
+}

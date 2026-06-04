@@ -1,0 +1,26 @@
+{
+  "id": 676572,
+  "name": "Eric Wagaman",
+  "team": "MIA",
+  "pa": 381,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 114.5,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 46.5,
+  "xwoba": 0.315,
+  "xba": 0.259,
+  "k_pct": 19.5,
+  "bb_pct": 6.2,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 89,
+    "barrel_pct": 47,
+    "hard_hit_pct": 78,
+    "xwoba": 57,
+    "xba": 77,
+    "bb_pct": 29,
+    "sprint_speed": 34,
+    "k_pct": 69
+  }
+}

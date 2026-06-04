@@ -1,0 +1,26 @@
+{
+  "id": 642201,
+  "name": "Eli White",
+  "team": "ATL",
+  "pa": 188,
+  "avg_exit_velo": 87.7,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 40.4,
+  "xwoba": 0.31,
+  "xba": 0.251,
+  "k_pct": 25.8,
+  "bb_pct": 4.1,
+  "sprint_speed": 29.9,
+  "percentiles": {
+    "avg_exit_velo": 28,
+    "max_exit_velo": 36,
+    "barrel_pct": 63,
+    "hard_hit_pct": 50,
+    "xwoba": 52,
+    "xba": 67,
+    "bb_pct": 7,
+    "sprint_speed": 98,
+    "k_pct": 34
+  }
+}

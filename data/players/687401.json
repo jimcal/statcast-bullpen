@@ -1,0 +1,26 @@
+{
+  "id": 687401,
+  "name": "Joey Ortiz",
+  "team": "MIL",
+  "pa": 402,
+  "avg_exit_velo": 84.9,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 32.8,
+  "xwoba": 0.275,
+  "xba": 0.245,
+  "k_pct": 14.7,
+  "bb_pct": 5.7,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 4,
+    "max_exit_velo": 38,
+    "barrel_pct": 14,
+    "hard_hit_pct": 19,
+    "xwoba": 20,
+    "xba": 58,
+    "bb_pct": 23,
+    "sprint_speed": 84,
+    "k_pct": 89
+  }
+}

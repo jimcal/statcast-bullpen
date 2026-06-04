@@ -1,0 +1,26 @@
+{
+  "id": 457705,
+  "name": "Andrew McCutchen",
+  "team": "PIT",
+  "pa": 362,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 42.5,
+  "xwoba": 0.333,
+  "xba": 0.258,
+  "k_pct": 21.4,
+  "bb_pct": 12.2,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 44,
+    "barrel_pct": 50,
+    "hard_hit_pct": 59,
+    "xwoba": 78,
+    "xba": 76,
+    "bb_pct": 90,
+    "sprint_speed": 41,
+    "k_pct": 60
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 571657,
+  "name": "Kyle Farmer",
+  "team": "COL",
+  "pa": 213,
+  "avg_exit_velo": 87.0,
+  "max_exit_velo": 105.8,
+  "barrel_pct": 4.3,
+  "hard_hit_pct": 35.2,
+  "xwoba": 0.285,
+  "xba": 0.228,
+  "k_pct": 22.0,
+  "bb_pct": 5.7,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 18,
+    "max_exit_velo": 5,
+    "barrel_pct": 37,
+    "hard_hit_pct": 27,
+    "xwoba": 27,
+    "xba": 34,
+    "bb_pct": 23,
+    "sprint_speed": 19,
+    "k_pct": 57
+  }
+}

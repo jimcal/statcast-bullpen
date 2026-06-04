@@ -1,0 +1,26 @@
+{
+  "id": 691019,
+  "name": "Kyle Teel",
+  "team": "CWS",
+  "pa": 178,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 37.6,
+  "xwoba": 0.337,
+  "xba": 0.237,
+  "k_pct": 25.9,
+  "bb_pct": 12.5,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 83,
+    "barrel_pct": 55,
+    "hard_hit_pct": 37,
+    "xwoba": 81,
+    "xba": 45,
+    "bb_pct": 91,
+    "sprint_speed": 48,
+    "k_pct": 33
+  }
+}

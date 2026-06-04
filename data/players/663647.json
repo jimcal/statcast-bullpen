@@ -1,0 +1,26 @@
+{
+  "id": 663647,
+  "name": "Ke'Bryan Hayes",
+  "team": "CIN",
+  "pa": 418,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 109.7,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 42.5,
+  "xwoba": 0.282,
+  "xba": 0.238,
+  "k_pct": 19.3,
+  "bb_pct": 6.2,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 38,
+    "barrel_pct": 24,
+    "hard_hit_pct": 59,
+    "xwoba": 25,
+    "xba": 47,
+    "bb_pct": 29,
+    "sprint_speed": 43,
+    "k_pct": 71
+  }
+}

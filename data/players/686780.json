@@ -1,0 +1,26 @@
+{
+  "id": 686780,
+  "name": "Pedro Pag\u00e9s",
+  "team": "STL",
+  "pa": 260,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 36.5,
+  "xwoba": 0.259,
+  "xba": 0.208,
+  "k_pct": 27.5,
+  "bb_pct": 4.9,
+  "sprint_speed": 25.6,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 65,
+    "barrel_pct": 45,
+    "hard_hit_pct": 33,
+    "xwoba": 10,
+    "xba": 16,
+    "bb_pct": 14,
+    "sprint_speed": 9,
+    "k_pct": 22
+  }
+}

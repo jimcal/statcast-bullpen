@@ -1,0 +1,26 @@
+{
+  "id": 677587,
+  "name": "Brayan Rocchio",
+  "team": "CLE",
+  "pa": 276,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 35.5,
+  "xwoba": 0.295,
+  "xba": 0.246,
+  "k_pct": 20.4,
+  "bb_pct": 5.6,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 36,
+    "barrel_pct": 13,
+    "hard_hit_pct": 28,
+    "xwoba": 35,
+    "xba": 60,
+    "bb_pct": 21,
+    "sprint_speed": 36,
+    "k_pct": 65
+  }
+}

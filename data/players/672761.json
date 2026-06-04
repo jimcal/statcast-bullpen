@@ -1,0 +1,26 @@
+{
+  "id": 672761,
+  "name": "Wenceel P\u00e9rez",
+  "team": "DET",
+  "pa": 262,
+  "avg_exit_velo": 90.3,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 40.1,
+  "xwoba": 0.31,
+  "xba": 0.242,
+  "k_pct": 23.3,
+  "bb_pct": 7.7,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 70,
+    "max_exit_velo": 38,
+    "barrel_pct": 59,
+    "hard_hit_pct": 48,
+    "xwoba": 52,
+    "xba": 52,
+    "bb_pct": 48,
+    "sprint_speed": 58,
+    "k_pct": 49
+  }
+}

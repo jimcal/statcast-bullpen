@@ -1,0 +1,26 @@
+{
+  "id": 677008,
+  "name": "Heston Kjerstad",
+  "team": "BAL",
+  "pa": 112,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 106.8,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 41.1,
+  "xwoba": 0.29,
+  "xba": 0.231,
+  "k_pct": 26.9,
+  "bb_pct": 3.6,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 8,
+    "barrel_pct": 50,
+    "hard_hit_pct": 54,
+    "xwoba": 31,
+    "xba": 37,
+    "bb_pct": 5,
+    "sprint_speed": 56,
+    "k_pct": 26
+  }
+}

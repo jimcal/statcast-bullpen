@@ -1,0 +1,26 @@
+{
+  "id": 681082,
+  "name": "Bryson Stott",
+  "team": "PHI",
+  "pa": 414,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 110.7,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 29.5,
+  "xwoba": 0.313,
+  "xba": 0.247,
+  "k_pct": 16.6,
+  "bb_pct": 9.4,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 52,
+    "barrel_pct": 31,
+    "hard_hit_pct": 11,
+    "xwoba": 55,
+    "xba": 62,
+    "bb_pct": 67,
+    "sprint_speed": 85,
+    "k_pct": 84
+  }
+}

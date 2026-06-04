@@ -1,0 +1,26 @@
+{
+  "id": 692216,
+  "name": "CJ Kayfus",
+  "team": "CLE",
+  "pa": 87,
+  "avg_exit_velo": 88.7,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 36.8,
+  "xwoba": 0.322,
+  "xba": 0.242,
+  "k_pct": 26.2,
+  "bb_pct": 8.3,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 43,
+    "max_exit_velo": 38,
+    "barrel_pct": 56,
+    "hard_hit_pct": 33,
+    "xwoba": 65,
+    "xba": 52,
+    "bb_pct": 54,
+    "sprint_speed": 52,
+    "k_pct": 31
+  }
+}

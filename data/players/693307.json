@@ -1,0 +1,26 @@
+{
+  "id": 693307,
+  "name": "Dillon Dingler",
+  "team": "DET",
+  "pa": 326,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 110.7,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 45.7,
+  "xwoba": 0.351,
+  "xba": 0.29,
+  "k_pct": 23.8,
+  "bb_pct": 5.5,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 52,
+    "barrel_pct": 65,
+    "hard_hit_pct": 74,
+    "xwoba": 89,
+    "xba": 98,
+    "bb_pct": 21,
+    "sprint_speed": 52,
+    "k_pct": 46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 691026,
+  "name": "Masyn Winn",
+  "team": "STL",
+  "pa": 393,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.0,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 34.6,
+  "xwoba": 0.286,
+  "xba": 0.24,
+  "k_pct": 19.0,
+  "bb_pct": 6.3,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 42,
+    "barrel_pct": 27,
+    "hard_hit_pct": 24,
+    "xwoba": 27,
+    "xba": 49,
+    "bb_pct": 31,
+    "sprint_speed": 76,
+    "k_pct": 73
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 624431,
+  "name": "Jose Trevino",
+  "team": "CIN",
+  "pa": 248,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 107.9,
+  "barrel_pct": 3.6,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.278,
+  "xba": 0.242,
+  "k_pct": 12.9,
+  "bb_pct": 5.0,
+  "sprint_speed": 24.3,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 15,
+    "barrel_pct": 28,
+    "hard_hit_pct": 51,
+    "xwoba": 22,
+    "xba": 52,
+    "bb_pct": 15,
+    "sprint_speed": 1,
+    "k_pct": 95
+  }
+}

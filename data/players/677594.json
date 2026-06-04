@@ -1,0 +1,26 @@
+{
+  "id": 677594,
+  "name": "Julio Rodr\u00edguez",
+  "team": "SEA",
+  "pa": 502,
+  "avg_exit_velo": 91.8,
+  "max_exit_velo": 115.8,
+  "barrel_pct": 6.9,
+  "hard_hit_pct": 48.0,
+  "xwoba": 0.344,
+  "xba": 0.269,
+  "k_pct": 22.4,
+  "bb_pct": 6.7,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 90,
+    "max_exit_velo": 94,
+    "barrel_pct": 71,
+    "hard_hit_pct": 85,
+    "xwoba": 85,
+    "xba": 86,
+    "bb_pct": 35,
+    "sprint_speed": 92,
+    "k_pct": 54
+  }
+}

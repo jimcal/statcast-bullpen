@@ -1,0 +1,26 @@
+{
+  "id": 665828,
+  "name": "Oswaldo Cabrera",
+  "team": "NYY",
+  "pa": 84,
+  "avg_exit_velo": 89.1,
+  "max_exit_velo": 107.5,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 34.5,
+  "xwoba": 0.284,
+  "xba": 0.244,
+  "k_pct": 20.5,
+  "bb_pct": 9.0,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 51,
+    "max_exit_velo": 12,
+    "barrel_pct": 0,
+    "hard_hit_pct": 24,
+    "xwoba": 26,
+    "xba": 57,
+    "bb_pct": 64,
+    "sprint_speed": 26,
+    "k_pct": 64
+  }
+}

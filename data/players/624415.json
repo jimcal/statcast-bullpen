@@ -1,0 +1,26 @@
+{
+  "id": 624415,
+  "name": "Cavan Biggio",
+  "team": "KC",
+  "pa": 50,
+  "avg_exit_velo": 89.8,
+  "max_exit_velo": 104.0,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 36.0,
+  "xwoba": 0.303,
+  "xba": 0.211,
+  "k_pct": 25.3,
+  "bb_pct": 13.3,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 61,
+    "max_exit_velo": 1,
+    "barrel_pct": 14,
+    "hard_hit_pct": 30,
+    "xwoba": 46,
+    "xba": 19,
+    "bb_pct": 95,
+    "sprint_speed": 67,
+    "k_pct": 36
+  }
+}

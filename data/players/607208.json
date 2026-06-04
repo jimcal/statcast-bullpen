@@ -1,0 +1,26 @@
+{
+  "id": 607208,
+  "name": "Trea Turner",
+  "team": "PHI",
+  "pa": 484,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 42.1,
+  "xwoba": 0.321,
+  "xba": 0.27,
+  "k_pct": 17.0,
+  "bb_pct": 6.8,
+  "sprint_speed": 30.3,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 65,
+    "barrel_pct": 38,
+    "hard_hit_pct": 57,
+    "xwoba": 63,
+    "xba": 88,
+    "bb_pct": 37,
+    "sprint_speed": 100,
+    "k_pct": 83
+  }
+}

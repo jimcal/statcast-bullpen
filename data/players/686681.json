@@ -1,0 +1,26 @@
+{
+  "id": 686681,
+  "name": "Michael Massey",
+  "team": "KC",
+  "pa": 224,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 33.0,
+  "xwoba": 0.265,
+  "xba": 0.238,
+  "k_pct": 15.5,
+  "bb_pct": 3.2,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 22,
+    "barrel_pct": 22,
+    "hard_hit_pct": 20,
+    "xwoba": 13,
+    "xba": 47,
+    "bb_pct": 3,
+    "sprint_speed": 14,
+    "k_pct": 88
+  }
+}

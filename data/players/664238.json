@@ -1,0 +1,26 @@
+{
+  "id": 664238,
+  "name": "Dylan Moore",
+  "team": "TEX",
+  "pa": 140,
+  "avg_exit_velo": 84.8,
+  "max_exit_velo": 108.6,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 34.3,
+  "xwoba": 0.262,
+  "xba": 0.191,
+  "k_pct": 33.7,
+  "bb_pct": 8.2,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 3,
+    "max_exit_velo": 24,
+    "barrel_pct": 45,
+    "hard_hit_pct": 23,
+    "xwoba": 12,
+    "xba": 7,
+    "bb_pct": 53,
+    "sprint_speed": 56,
+    "k_pct": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 621566,
+  "name": "Matt Olson",
+  "team": "ATL",
+  "pa": 453,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 114.0,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 53.3,
+  "xwoba": 0.36,
+  "xba": 0.249,
+  "k_pct": 24.3,
+  "bb_pct": 12.6,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 86,
+    "barrel_pct": 90,
+    "hard_hit_pct": 96,
+    "xwoba": 93,
+    "xba": 65,
+    "bb_pct": 92,
+    "sprint_speed": 6,
+    "k_pct": 42
+  }
+}

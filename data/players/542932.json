@@ -1,0 +1,26 @@
+{
+  "id": 542932,
+  "name": "Jon Berti",
+  "team": "CHC",
+  "pa": 78,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 112.1,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 37.2,
+  "xwoba": 0.28,
+  "xba": 0.253,
+  "k_pct": 20.6,
+  "bb_pct": 4.7,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 70,
+    "barrel_pct": 9,
+    "hard_hit_pct": 36,
+    "xwoba": 24,
+    "xba": 71,
+    "bb_pct": 11,
+    "sprint_speed": 73,
+    "k_pct": 63
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 672386,
+  "name": "Alejandro Kirk",
+  "team": "TOR",
+  "pa": 398,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 112.0,
+  "barrel_pct": 7.9,
+  "hard_hit_pct": 50.8,
+  "xwoba": 0.359,
+  "xba": 0.278,
+  "k_pct": 12.2,
+  "bb_pct": 9.7,
+  "sprint_speed": 24.3,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 69,
+    "barrel_pct": 81,
+    "hard_hit_pct": 93,
+    "xwoba": 92,
+    "xba": 94,
+    "bb_pct": 71,
+    "sprint_speed": 1,
+    "k_pct": 96
+  }
+}

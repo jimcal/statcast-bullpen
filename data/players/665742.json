@@ -1,0 +1,26 @@
+{
+  "id": 665742,
+  "name": "Juan Soto",
+  "team": "NYM",
+  "pa": 447,
+  "avg_exit_velo": 93.8,
+  "max_exit_velo": 115.0,
+  "barrel_pct": 11.3,
+  "hard_hit_pct": 55.3,
+  "xwoba": 0.429,
+  "xba": 0.288,
+  "k_pct": 19.2,
+  "bb_pct": 17.8,
+  "sprint_speed": 25.8,
+  "percentiles": {
+    "avg_exit_velo": 98,
+    "max_exit_velo": 92,
+    "barrel_pct": 98,
+    "hard_hit_pct": 98,
+    "xwoba": 100,
+    "xba": 97,
+    "bb_pct": 99,
+    "sprint_speed": 11,
+    "k_pct": 72
+  }
+}

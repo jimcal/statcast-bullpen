@@ -1,0 +1,26 @@
+{
+  "id": 682622,
+  "name": "Noelvi Marte",
+  "team": "CIN",
+  "pa": 256,
+  "avg_exit_velo": 88.5,
+  "max_exit_velo": 116.7,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 36.3,
+  "xwoba": 0.304,
+  "xba": 0.245,
+  "k_pct": 23.9,
+  "bb_pct": 4.7,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 40,
+    "max_exit_velo": 96,
+    "barrel_pct": 65,
+    "hard_hit_pct": 31,
+    "xwoba": 47,
+    "xba": 58,
+    "bb_pct": 11,
+    "sprint_speed": 89,
+    "k_pct": 45
+  }
+}

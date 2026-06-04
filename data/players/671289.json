@@ -1,0 +1,26 @@
+{
+  "id": 671289,
+  "name": "Tyler Freeman",
+  "team": "COL",
+  "pa": 332,
+  "avg_exit_velo": 90.1,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 1.6,
+  "hard_hit_pct": 40.4,
+  "xwoba": 0.325,
+  "xba": 0.278,
+  "k_pct": 11.9,
+  "bb_pct": 7.9,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 66,
+    "max_exit_velo": 36,
+    "barrel_pct": 7,
+    "hard_hit_pct": 50,
+    "xwoba": 69,
+    "xba": 94,
+    "bb_pct": 50,
+    "sprint_speed": 79,
+    "k_pct": 97
+  }
+}

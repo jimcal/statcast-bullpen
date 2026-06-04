@@ -1,0 +1,26 @@
+{
+  "id": 543877,
+  "name": "Christian V\u00e1zquez",
+  "team": "MIN",
+  "pa": 157,
+  "avg_exit_velo": 85.9,
+  "max_exit_velo": 104.2,
+  "barrel_pct": 2.8,
+  "hard_hit_pct": 27.4,
+  "xwoba": 0.271,
+  "xba": 0.21,
+  "k_pct": 16.4,
+  "bb_pct": 8.4,
+  "sprint_speed": 24.7,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 1,
+    "barrel_pct": 19,
+    "hard_hit_pct": 6,
+    "xwoba": 18,
+    "xba": 18,
+    "bb_pct": 56,
+    "sprint_speed": 3,
+    "k_pct": 85
+  }
+}

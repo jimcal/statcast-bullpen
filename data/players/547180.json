@@ -1,0 +1,26 @@
+{
+  "id": 547180,
+  "name": "Bryce Harper",
+  "team": "PHI",
+  "pa": 383,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 113.8,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 47.5,
+  "xwoba": 0.368,
+  "xba": 0.268,
+  "k_pct": 20.7,
+  "bb_pct": 12.2,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 85,
+    "barrel_pct": 83,
+    "hard_hit_pct": 83,
+    "xwoba": 94,
+    "xba": 86,
+    "bb_pct": 90,
+    "sprint_speed": 36,
+    "k_pct": 63
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 666182,
+  "name": "Bo Bichette",
+  "team": "TOR",
+  "pa": 494,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 112.3,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 48.8,
+  "xwoba": 0.353,
+  "xba": 0.295,
+  "k_pct": 14.5,
+  "bb_pct": 6.7,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 72,
+    "barrel_pct": 62,
+    "hard_hit_pct": 87,
+    "xwoba": 90,
+    "xba": 99,
+    "bb_pct": 35,
+    "sprint_speed": 17,
+    "k_pct": 90
+  }
+}

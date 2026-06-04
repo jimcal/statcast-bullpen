@@ -1,0 +1,26 @@
+{
+  "id": 696100,
+  "name": "Hunter Goodman",
+  "team": "COL",
+  "pa": 390,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 116.2,
+  "barrel_pct": 8.6,
+  "hard_hit_pct": 46.9,
+  "xwoba": 0.324,
+  "xba": 0.244,
+  "k_pct": 26.3,
+  "bb_pct": 5.7,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 95,
+    "barrel_pct": 87,
+    "hard_hit_pct": 80,
+    "xwoba": 67,
+    "xba": 57,
+    "bb_pct": 23,
+    "sprint_speed": 43,
+    "k_pct": 30
+  }
+}

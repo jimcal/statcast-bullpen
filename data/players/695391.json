@@ -1,0 +1,26 @@
+{
+  "id": 695391,
+  "name": "Brett Harris",
+  "team": "ATH",
+  "pa": 54,
+  "avg_exit_velo": 83.3,
+  "max_exit_velo": 106.8,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 27.8,
+  "xwoba": 0.288,
+  "xba": 0.235,
+  "k_pct": 25.0,
+  "bb_pct": 8.3,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 1,
+    "max_exit_velo": 8,
+    "barrel_pct": 14,
+    "hard_hit_pct": 7,
+    "xwoba": 29,
+    "xba": 43,
+    "bb_pct": 54,
+    "sprint_speed": 56,
+    "k_pct": 38
+  }
+}

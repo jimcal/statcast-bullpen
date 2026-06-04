@@ -1,0 +1,26 @@
+{
+  "id": 669127,
+  "name": "Shea Langeliers",
+  "team": "ATH",
+  "pa": 383,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 114.5,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 44.9,
+  "xwoba": 0.328,
+  "xba": 0.251,
+  "k_pct": 19.7,
+  "bb_pct": 6.9,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 89,
+    "barrel_pct": 85,
+    "hard_hit_pct": 71,
+    "xwoba": 72,
+    "xba": 67,
+    "bb_pct": 38,
+    "sprint_speed": 82,
+    "k_pct": 67
+  }
+}

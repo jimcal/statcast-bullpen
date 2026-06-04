@@ -1,0 +1,26 @@
+{
+  "id": 641933,
+  "name": "Tyler O'Neill",
+  "team": "BAL",
+  "pa": 133,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 113.6,
+  "barrel_pct": 10.5,
+  "hard_hit_pct": 39.1,
+  "xwoba": 0.36,
+  "xba": 0.243,
+  "k_pct": 24.4,
+  "bb_pct": 10.5,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 82,
+    "barrel_pct": 97,
+    "hard_hit_pct": 45,
+    "xwoba": 93,
+    "xba": 54,
+    "bb_pct": 77,
+    "sprint_speed": 73,
+    "k_pct": 41
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 665489,
+  "name": "Vladimir Guerrero Jr.",
+  "team": "TOR",
+  "pa": 499,
+  "avg_exit_velo": 92.0,
+  "max_exit_velo": 120.4,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 50.7,
+  "xwoba": 0.384,
+  "xba": 0.3,
+  "k_pct": 13.1,
+  "bb_pct": 12.4,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 91,
+    "max_exit_velo": 100,
+    "barrel_pct": 90,
+    "hard_hit_pct": 92,
+    "xwoba": 97,
+    "xba": 99,
+    "bb_pct": 91,
+    "sprint_speed": 34,
+    "k_pct": 94
+  }
+}

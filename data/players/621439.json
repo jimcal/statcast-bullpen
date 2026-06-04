@@ -1,0 +1,26 @@
+{
+  "id": 621439,
+  "name": "Byron Buxton",
+  "team": "MIN",
+  "pa": 346,
+  "avg_exit_velo": 92.5,
+  "max_exit_velo": 114.0,
+  "barrel_pct": 11.3,
+  "hard_hit_pct": 53.8,
+  "xwoba": 0.35,
+  "xba": 0.249,
+  "k_pct": 27.3,
+  "bb_pct": 7.6,
+  "sprint_speed": 30.2,
+  "percentiles": {
+    "avg_exit_velo": 95,
+    "max_exit_velo": 86,
+    "barrel_pct": 98,
+    "hard_hit_pct": 97,
+    "xwoba": 89,
+    "xba": 65,
+    "bb_pct": 47,
+    "sprint_speed": 99,
+    "k_pct": 23
+  }
+}

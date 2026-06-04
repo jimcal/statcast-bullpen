@@ -1,0 +1,26 @@
+{
+  "id": 641313,
+  "name": "Tim Anderson",
+  "team": "LAA",
+  "pa": 55,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 103.9,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 36.4,
+  "xwoba": 0.219,
+  "xba": 0.183,
+  "k_pct": 32.2,
+  "bb_pct": 3.3,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 1,
+    "barrel_pct": 0,
+    "hard_hit_pct": 32,
+    "xwoba": 2,
+    "xba": 5,
+    "bb_pct": 3,
+    "sprint_speed": 62,
+    "k_pct": 7
+  }
+}

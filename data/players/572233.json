@@ -1,0 +1,26 @@
+{
+  "id": 572233,
+  "name": "Christian Walker",
+  "team": "HOU",
+  "pa": 412,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 113.2,
+  "barrel_pct": 8.3,
+  "hard_hit_pct": 46.1,
+  "xwoba": 0.314,
+  "xba": 0.233,
+  "k_pct": 27.7,
+  "bb_pct": 6.2,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 80,
+    "barrel_pct": 86,
+    "hard_hit_pct": 76,
+    "xwoba": 56,
+    "xba": 40,
+    "bb_pct": 29,
+    "sprint_speed": 19,
+    "k_pct": 20
+  }
+}

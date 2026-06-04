@@ -1,0 +1,26 @@
+{
+  "id": 663898,
+  "name": "Brendan Rodgers",
+  "team": "HOU",
+  "pa": 70,
+  "avg_exit_velo": 90.5,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 48.6,
+  "xwoba": 0.296,
+  "xba": 0.213,
+  "k_pct": 35.9,
+  "bb_pct": 8.6,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 72,
+    "max_exit_velo": 71,
+    "barrel_pct": 79,
+    "hard_hit_pct": 87,
+    "xwoba": 37,
+    "xba": 20,
+    "bb_pct": 58,
+    "sprint_speed": 23,
+    "k_pct": 3
+  }
+}

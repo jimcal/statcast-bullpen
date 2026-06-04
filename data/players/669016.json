@@ -1,0 +1,26 @@
+{
+  "id": 669016,
+  "name": "Brandon Marsh",
+  "team": "PHI",
+  "pa": 276,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.33,
+  "xba": 0.263,
+  "k_pct": 26.1,
+  "bb_pct": 8.9,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 57,
+    "barrel_pct": 50,
+    "hard_hit_pct": 77,
+    "xwoba": 75,
+    "xba": 82,
+    "bb_pct": 62,
+    "sprint_speed": 73,
+    "k_pct": 31
+  }
+}

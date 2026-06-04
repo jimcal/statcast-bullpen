@@ -1,0 +1,26 @@
+{
+  "id": 671056,
+  "name": "Iv\u00e1n Herrera",
+  "team": "STL",
+  "pa": 308,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 113.0,
+  "barrel_pct": 7.5,
+  "hard_hit_pct": 47.7,
+  "xwoba": 0.371,
+  "xba": 0.275,
+  "k_pct": 18.6,
+  "bb_pct": 9.5,
+  "sprint_speed": 26.3,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 79,
+    "barrel_pct": 76,
+    "hard_hit_pct": 84,
+    "xwoba": 95,
+    "xba": 92,
+    "bb_pct": 69,
+    "sprint_speed": 21,
+    "k_pct": 75
+  }
+}

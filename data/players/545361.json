@@ -1,0 +1,26 @@
+{
+  "id": 545361,
+  "name": "Mike Trout",
+  "team": "LAA",
+  "pa": 284,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 115.4,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 49.3,
+  "xwoba": 0.358,
+  "xba": 0.236,
+  "k_pct": 32.0,
+  "bb_pct": 15.6,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 92,
+    "barrel_pct": 83,
+    "hard_hit_pct": 88,
+    "xwoba": 92,
+    "xba": 44,
+    "bb_pct": 98,
+    "sprint_speed": 62,
+    "k_pct": 8
+  }
+}

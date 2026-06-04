@@ -1,0 +1,26 @@
+{
+  "id": 666152,
+  "name": "David Hamilton",
+  "team": "BOS",
+  "pa": 133,
+  "avg_exit_velo": 86.6,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 4.1,
+  "hard_hit_pct": 27.8,
+  "xwoba": 0.26,
+  "xba": 0.209,
+  "k_pct": 24.2,
+  "bb_pct": 6.7,
+  "sprint_speed": 29.3,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 17,
+    "barrel_pct": 35,
+    "hard_hit_pct": 7,
+    "xwoba": 11,
+    "xba": 17,
+    "bb_pct": 35,
+    "sprint_speed": 94,
+    "k_pct": 42
+  }
+}

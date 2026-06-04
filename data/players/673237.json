@@ -1,0 +1,26 @@
+{
+  "id": 673237,
+  "name": "Yainer Diaz",
+  "team": "HOU",
+  "pa": 450,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 7.6,
+  "hard_hit_pct": 42.2,
+  "xwoba": 0.326,
+  "xba": 0.268,
+  "k_pct": 16.8,
+  "bb_pct": 3.5,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 64,
+    "barrel_pct": 77,
+    "hard_hit_pct": 58,
+    "xwoba": 70,
+    "xba": 86,
+    "bb_pct": 4,
+    "sprint_speed": 45,
+    "k_pct": 83
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 669257,
+  "name": "Will Smith",
+  "team": "LAD",
+  "pa": 278,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 47.1,
+  "xwoba": 0.378,
+  "xba": 0.269,
+  "k_pct": 21.3,
+  "bb_pct": 13.9,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 43,
+    "barrel_pct": 79,
+    "hard_hit_pct": 82,
+    "xwoba": 97,
+    "xba": 86,
+    "bb_pct": 96,
+    "sprint_speed": 45,
+    "k_pct": 60
+  }
+}

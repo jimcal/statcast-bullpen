@@ -1,0 +1,26 @@
+{
+  "id": 805373,
+  "name": "Nacho Alvarez Jr.",
+  "team": "ATL",
+  "pa": 142,
+  "avg_exit_velo": 84.9,
+  "max_exit_velo": 108.2,
+  "barrel_pct": 1.0,
+  "hard_hit_pct": 26.8,
+  "xwoba": 0.27,
+  "xba": 0.228,
+  "k_pct": 23.6,
+  "bb_pct": 5.8,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 4,
+    "max_exit_velo": 20,
+    "barrel_pct": 3,
+    "hard_hit_pct": 5,
+    "xwoba": 17,
+    "xba": 34,
+    "bb_pct": 24,
+    "sprint_speed": 32,
+    "k_pct": 48
+  }
+}

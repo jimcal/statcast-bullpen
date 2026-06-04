@@ -1,0 +1,26 @@
+{
+  "id": 609280,
+  "name": "Miguel Andujar",
+  "team": "CIN",
+  "pa": 274,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 111.4,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 35.4,
+  "xwoba": 0.298,
+  "xba": 0.259,
+  "k_pct": 14.5,
+  "bb_pct": 5.2,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 62,
+    "barrel_pct": 31,
+    "hard_hit_pct": 28,
+    "xwoba": 40,
+    "xba": 77,
+    "bb_pct": 18,
+    "sprint_speed": 34,
+    "k_pct": 90
+  }
+}

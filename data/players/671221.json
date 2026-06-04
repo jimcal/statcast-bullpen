@@ -1,0 +1,26 @@
+{
+  "id": 671221,
+  "name": "Drew Waters",
+  "team": "KC",
+  "pa": 146,
+  "avg_exit_velo": 86.0,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 28.8,
+  "xwoba": 0.265,
+  "xba": 0.232,
+  "k_pct": 27.4,
+  "bb_pct": 5.0,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 10,
+    "max_exit_velo": 44,
+    "barrel_pct": 18,
+    "hard_hit_pct": 9,
+    "xwoba": 13,
+    "xba": 38,
+    "bb_pct": 15,
+    "sprint_speed": 52,
+    "k_pct": 23
+  }
+}

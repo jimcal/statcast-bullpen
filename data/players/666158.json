@@ -1,0 +1,26 @@
+{
+  "id": 666158,
+  "name": "Gavin Lux",
+  "team": "CIN",
+  "pa": 333,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 106.4,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 36.9,
+  "xwoba": 0.299,
+  "xba": 0.243,
+  "k_pct": 22.6,
+  "bb_pct": 11.0,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 6,
+    "barrel_pct": 14,
+    "hard_hit_pct": 34,
+    "xwoba": 41,
+    "xba": 54,
+    "bb_pct": 81,
+    "sprint_speed": 62,
+    "k_pct": 52
+  }
+}

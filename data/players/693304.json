@@ -1,0 +1,26 @@
+{
+  "id": 693304,
+  "name": "Nick Gonzales",
+  "team": "PIT",
+  "pa": 312,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 38.8,
+  "xwoba": 0.291,
+  "xba": 0.254,
+  "k_pct": 17.9,
+  "bb_pct": 5.1,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 40,
+    "barrel_pct": 25,
+    "hard_hit_pct": 43,
+    "xwoba": 32,
+    "xba": 72,
+    "bb_pct": 16,
+    "sprint_speed": 87,
+    "k_pct": 78
+  }
+}

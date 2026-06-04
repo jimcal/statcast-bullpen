@@ -1,0 +1,26 @@
+{
+  "id": 691023,
+  "name": "Jordan Walker",
+  "team": "STL",
+  "pa": 238,
+  "avg_exit_velo": 92.3,
+  "max_exit_velo": 117.9,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 50.0,
+  "xwoba": 0.278,
+  "xba": 0.207,
+  "k_pct": 31.8,
+  "bb_pct": 7.3,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 93,
+    "max_exit_velo": 98,
+    "barrel_pct": 67,
+    "hard_hit_pct": 91,
+    "xwoba": 22,
+    "xba": 16,
+    "bb_pct": 43,
+    "sprint_speed": 84,
+    "k_pct": 9
+  }
+}

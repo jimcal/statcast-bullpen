@@ -1,0 +1,26 @@
+{
+  "id": 670770,
+  "name": "TJ Friedl",
+  "team": "CIN",
+  "pa": 473,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 107.6,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 32.1,
+  "xwoba": 0.3,
+  "xba": 0.227,
+  "k_pct": 17.0,
+  "bb_pct": 11.9,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 13,
+    "barrel_pct": 9,
+    "hard_hit_pct": 17,
+    "xwoba": 43,
+    "xba": 34,
+    "bb_pct": 89,
+    "sprint_speed": 29,
+    "k_pct": 83
+  }
+}

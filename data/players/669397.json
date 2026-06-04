@@ -1,0 +1,26 @@
+{
+  "id": 669397,
+  "name": "Nick Allen",
+  "team": "ATL",
+  "pa": 283,
+  "avg_exit_velo": 84.8,
+  "max_exit_velo": 104.4,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 21.6,
+  "xwoba": 0.252,
+  "xba": 0.22,
+  "k_pct": 23.8,
+  "bb_pct": 7.5,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 3,
+    "max_exit_velo": 2,
+    "barrel_pct": 0,
+    "hard_hit_pct": 2,
+    "xwoba": 8,
+    "xba": 27,
+    "bb_pct": 46,
+    "sprint_speed": 47,
+    "k_pct": 46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 679529,
+  "name": "Spencer Torkelson",
+  "team": "DET",
+  "pa": 399,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 8.3,
+  "hard_hit_pct": 45.1,
+  "xwoba": 0.334,
+  "xba": 0.226,
+  "k_pct": 26.2,
+  "bb_pct": 10.9,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 49,
+    "barrel_pct": 86,
+    "hard_hit_pct": 72,
+    "xwoba": 78,
+    "xba": 33,
+    "bb_pct": 81,
+    "sprint_speed": 29,
+    "k_pct": 31
+  }
+}

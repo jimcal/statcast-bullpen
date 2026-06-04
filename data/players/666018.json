@@ -1,0 +1,26 @@
+{
+  "id": 666018,
+  "name": "Jonathan Aranda",
+  "team": "TB",
+  "pa": 266,
+  "avg_exit_velo": 93.0,
+  "max_exit_velo": 111.4,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 54.5,
+  "xwoba": 0.382,
+  "xba": 0.291,
+  "k_pct": 25.4,
+  "bb_pct": 9.7,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 62,
+    "barrel_pct": 83,
+    "hard_hit_pct": 97,
+    "xwoba": 97,
+    "xba": 98,
+    "bb_pct": 71,
+    "sprint_speed": 12,
+    "k_pct": 35
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 687952,
+  "name": "Christian Encarnacion-Strand",
+  "team": "CIN",
+  "pa": 100,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 111.4,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 44.0,
+  "xwoba": 0.275,
+  "xba": 0.207,
+  "k_pct": 23.4,
+  "bb_pct": 2.2,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 62,
+    "barrel_pct": 67,
+    "hard_hit_pct": 66,
+    "xwoba": 20,
+    "xba": 16,
+    "bb_pct": 0,
+    "sprint_speed": 48,
+    "k_pct": 48
+  }
+}

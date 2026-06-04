@@ -1,0 +1,26 @@
+{
+  "id": 641343,
+  "name": "Jake Bauers",
+  "team": "MIL",
+  "pa": 125,
+  "avg_exit_velo": 91.7,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 45.6,
+  "xwoba": 0.354,
+  "xba": 0.234,
+  "k_pct": 26.7,
+  "bb_pct": 14.2,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 89,
+    "max_exit_velo": 75,
+    "barrel_pct": 79,
+    "hard_hit_pct": 74,
+    "xwoba": 90,
+    "xba": 41,
+    "bb_pct": 96,
+    "sprint_speed": 41,
+    "k_pct": 27
+  }
+}

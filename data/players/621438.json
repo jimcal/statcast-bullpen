@@ -1,0 +1,26 @@
+{
+  "id": 621438,
+  "name": "Tyrone Taylor",
+  "team": "NYM",
+  "pa": 239,
+  "avg_exit_velo": 86.5,
+  "max_exit_velo": 109.5,
+  "barrel_pct": 2.6,
+  "hard_hit_pct": 35.1,
+  "xwoba": 0.298,
+  "xba": 0.257,
+  "k_pct": 22.3,
+  "bb_pct": 4.7,
+  "sprint_speed": 29.3,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 35,
+    "barrel_pct": 17,
+    "hard_hit_pct": 26,
+    "xwoba": 40,
+    "xba": 75,
+    "bb_pct": 11,
+    "sprint_speed": 94,
+    "k_pct": 55
+  }
+}

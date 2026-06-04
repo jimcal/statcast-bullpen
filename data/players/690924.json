@@ -1,0 +1,26 @@
+{
+  "id": 690924,
+  "name": "Braxton Fulford",
+  "team": "COL",
+  "pa": 75,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 112.7,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.262,
+  "xba": 0.198,
+  "k_pct": 30.0,
+  "bb_pct": 5.8,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 77,
+    "barrel_pct": 24,
+    "hard_hit_pct": 42,
+    "xwoba": 12,
+    "xba": 10,
+    "bb_pct": 24,
+    "sprint_speed": 91,
+    "k_pct": 13
+  }
+}

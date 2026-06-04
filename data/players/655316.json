@@ -1,0 +1,26 @@
+{
+  "id": 655316,
+  "name": "Andruw Monasterio",
+  "team": "MIL",
+  "pa": 94,
+  "avg_exit_velo": 87.0,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 35.1,
+  "xwoba": 0.28,
+  "xba": 0.224,
+  "k_pct": 23.5,
+  "bb_pct": 5.9,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 18,
+    "max_exit_velo": 43,
+    "barrel_pct": 29,
+    "hard_hit_pct": 26,
+    "xwoba": 24,
+    "xba": 30,
+    "bb_pct": 26,
+    "sprint_speed": 56,
+    "k_pct": 48
+  }
+}

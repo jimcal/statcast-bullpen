@@ -1,0 +1,26 @@
+{
+  "id": 691723,
+  "name": "Coby Mayo",
+  "team": "BAL",
+  "pa": 179,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 36.0,
+  "xwoba": 0.289,
+  "xba": 0.202,
+  "k_pct": 28.6,
+  "bb_pct": 9.2,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 38,
+    "barrel_pct": 60,
+    "hard_hit_pct": 30,
+    "xwoba": 30,
+    "xba": 13,
+    "bb_pct": 66,
+    "sprint_speed": 62,
+    "k_pct": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 682663,
+  "name": "Agust\u00edn Ram\u00edrez",
+  "team": "MIA",
+  "pa": 428,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 116.9,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 47.0,
+  "xwoba": 0.332,
+  "xba": 0.259,
+  "k_pct": 19.3,
+  "bb_pct": 6.2,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 97,
+    "barrel_pct": 82,
+    "hard_hit_pct": 81,
+    "xwoba": 77,
+    "xba": 77,
+    "bb_pct": 29,
+    "sprint_speed": 29,
+    "k_pct": 71
+  }
+}

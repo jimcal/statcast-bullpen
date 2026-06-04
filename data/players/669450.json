@@ -1,0 +1,26 @@
+{
+  "id": 669450,
+  "name": "Cooper Hummel",
+  "team": "HOU",
+  "pa": 58,
+  "avg_exit_velo": 92.0,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 6.7,
+  "hard_hit_pct": 37.9,
+  "xwoba": 0.313,
+  "xba": 0.196,
+  "k_pct": 29.5,
+  "bb_pct": 13.3,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 91,
+    "max_exit_velo": 68,
+    "barrel_pct": 69,
+    "hard_hit_pct": 38,
+    "xwoba": 55,
+    "xba": 9,
+    "bb_pct": 95,
+    "sprint_speed": 73,
+    "k_pct": 14
+  }
+}

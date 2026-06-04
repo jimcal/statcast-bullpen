@@ -1,0 +1,26 @@
+{
+  "id": 664040,
+  "name": "Brandon Lowe",
+  "team": "TB",
+  "pa": 364,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 8.5,
+  "hard_hit_pct": 46.6,
+  "xwoba": 0.335,
+  "xba": 0.253,
+  "k_pct": 26.9,
+  "bb_pct": 6.9,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 75,
+    "barrel_pct": 87,
+    "hard_hit_pct": 78,
+    "xwoba": 79,
+    "xba": 71,
+    "bb_pct": 38,
+    "sprint_speed": 34,
+    "k_pct": 26
+  }
+}

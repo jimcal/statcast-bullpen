@@ -1,0 +1,26 @@
+{
+  "id": 645302,
+  "name": "Victor Robles",
+  "team": "SEA",
+  "pa": 82,
+  "avg_exit_velo": 85.4,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 23.2,
+  "xwoba": 0.237,
+  "xba": 0.203,
+  "k_pct": 22.1,
+  "bb_pct": 6.7,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 75,
+    "barrel_pct": 27,
+    "hard_hit_pct": 2,
+    "xwoba": 4,
+    "xba": 13,
+    "bb_pct": 35,
+    "sprint_speed": 67,
+    "k_pct": 57
+  }
+}

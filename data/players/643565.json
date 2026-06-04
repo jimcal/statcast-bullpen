@@ -1,0 +1,26 @@
+{
+  "id": 643565,
+  "name": "Mike Tauchman",
+  "team": "CWS",
+  "pa": 250,
+  "avg_exit_velo": 89.0,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 38.8,
+  "xwoba": 0.321,
+  "xba": 0.244,
+  "k_pct": 22.3,
+  "bb_pct": 11.7,
+  "sprint_speed": 24.9,
+  "percentiles": {
+    "avg_exit_velo": 50,
+    "max_exit_velo": 57,
+    "barrel_pct": 38,
+    "hard_hit_pct": 43,
+    "xwoba": 63,
+    "xba": 57,
+    "bb_pct": 87,
+    "sprint_speed": 4,
+    "k_pct": 55
+  }
+}

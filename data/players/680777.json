@@ -1,0 +1,26 @@
+{
+  "id": 680777,
+  "name": "Ryan Jeffers",
+  "team": "MIN",
+  "pa": 316,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 4.3,
+  "hard_hit_pct": 42.1,
+  "xwoba": 0.325,
+  "xba": 0.243,
+  "k_pct": 19.6,
+  "bb_pct": 10.8,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 56,
+    "barrel_pct": 37,
+    "hard_hit_pct": 57,
+    "xwoba": 69,
+    "xba": 54,
+    "bb_pct": 80,
+    "sprint_speed": 12,
+    "k_pct": 68
+  }
+}

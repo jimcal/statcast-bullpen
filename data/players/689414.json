@@ -1,0 +1,26 @@
+{
+  "id": 689414,
+  "name": "Liam Hicks",
+  "team": "MIA",
+  "pa": 282,
+  "avg_exit_velo": 84.6,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 2.6,
+  "hard_hit_pct": 27.7,
+  "xwoba": 0.315,
+  "xba": 0.244,
+  "k_pct": 14.4,
+  "bb_pct": 11.0,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 3,
+    "max_exit_velo": 22,
+    "barrel_pct": 17,
+    "hard_hit_pct": 7,
+    "xwoba": 57,
+    "xba": 57,
+    "bb_pct": 81,
+    "sprint_speed": 19,
+    "k_pct": 91
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 686797,
+  "name": "Brooks Lee",
+  "team": "MIN",
+  "pa": 400,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 38.5,
+  "xwoba": 0.289,
+  "xba": 0.234,
+  "k_pct": 17.5,
+  "bb_pct": 5.9,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 46,
+    "barrel_pct": 38,
+    "hard_hit_pct": 41,
+    "xwoba": 30,
+    "xba": 41,
+    "bb_pct": 26,
+    "sprint_speed": 17,
+    "k_pct": 79
+  }
+}

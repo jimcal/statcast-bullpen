@@ -1,0 +1,26 @@
+{
+  "id": 694384,
+  "name": "Nolan Schanuel",
+  "team": "LAA",
+  "pa": 424,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 29.0,
+  "xwoba": 0.327,
+  "xba": 0.262,
+  "k_pct": 12.6,
+  "bb_pct": 10.5,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 38,
+    "barrel_pct": 25,
+    "hard_hit_pct": 9,
+    "xwoba": 71,
+    "xba": 80,
+    "bb_pct": 77,
+    "sprint_speed": 14,
+    "k_pct": 95
+  }
+}

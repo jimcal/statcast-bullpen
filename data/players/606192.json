@@ -1,0 +1,26 @@
+{
+  "id": 606192,
+  "name": "Teoscar Hern\u00e1ndez",
+  "team": "LAD",
+  "pa": 382,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 112.5,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 46.1,
+  "xwoba": 0.323,
+  "xba": 0.25,
+  "k_pct": 24.9,
+  "bb_pct": 5.0,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 74,
+    "barrel_pct": 83,
+    "hard_hit_pct": 76,
+    "xwoba": 66,
+    "xba": 66,
+    "bb_pct": 15,
+    "sprint_speed": 67,
+    "k_pct": 38
+  }
+}

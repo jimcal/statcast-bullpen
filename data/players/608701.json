@@ -1,0 +1,26 @@
+{
+  "id": 608701,
+  "name": "Rob Refsnyder",
+  "team": "BOS",
+  "pa": 130,
+  "avg_exit_velo": 92.0,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 7.7,
+  "hard_hit_pct": 52.3,
+  "xwoba": 0.338,
+  "xba": 0.243,
+  "k_pct": 26.0,
+  "bb_pct": 11.6,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 91,
+    "max_exit_velo": 71,
+    "barrel_pct": 78,
+    "hard_hit_pct": 95,
+    "xwoba": 81,
+    "xba": 54,
+    "bb_pct": 87,
+    "sprint_speed": 29,
+    "k_pct": 33
+  }
+}

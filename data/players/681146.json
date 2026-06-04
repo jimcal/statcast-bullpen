@@ -1,0 +1,26 @@
+{
+  "id": 681146,
+  "name": "Jonah Bride",
+  "team": "MIN",
+  "pa": 74,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 104.5,
+  "barrel_pct": 1.6,
+  "hard_hit_pct": 28.4,
+  "xwoba": 0.223,
+  "xba": 0.176,
+  "k_pct": 31.2,
+  "bb_pct": 8.8,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 3,
+    "barrel_pct": 7,
+    "hard_hit_pct": 9,
+    "xwoba": 2,
+    "xba": 3,
+    "bb_pct": 60,
+    "sprint_speed": 32,
+    "k_pct": 10
+  }
+}

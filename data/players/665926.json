@@ -1,0 +1,26 @@
+{
+  "id": 665926,
+  "name": "Andr\u00e9s Gim\u00e9nez",
+  "team": "TOR",
+  "pa": 267,
+  "avg_exit_velo": 86.3,
+  "max_exit_velo": 106.6,
+  "barrel_pct": 2.2,
+  "hard_hit_pct": 27.7,
+  "xwoba": 0.308,
+  "xba": 0.252,
+  "k_pct": 18.5,
+  "bb_pct": 6.5,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 13,
+    "max_exit_velo": 7,
+    "barrel_pct": 12,
+    "hard_hit_pct": 7,
+    "xwoba": 52,
+    "xba": 69,
+    "bb_pct": 34,
+    "sprint_speed": 64,
+    "k_pct": 75
+  }
+}

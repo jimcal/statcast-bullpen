@@ -1,0 +1,26 @@
+{
+  "id": 624413,
+  "name": "Pete Alonso",
+  "team": "NYM",
+  "pa": 471,
+  "avg_exit_velo": 93.5,
+  "max_exit_velo": 115.9,
+  "barrel_pct": 12.6,
+  "hard_hit_pct": 54.4,
+  "xwoba": 0.386,
+  "xba": 0.274,
+  "k_pct": 22.8,
+  "bb_pct": 8.6,
+  "sprint_speed": 25.3,
+  "percentiles": {
+    "avg_exit_velo": 98,
+    "max_exit_velo": 95,
+    "barrel_pct": 99,
+    "hard_hit_pct": 97,
+    "xwoba": 98,
+    "xba": 91,
+    "bb_pct": 58,
+    "sprint_speed": 7,
+    "k_pct": 51
+  }
+}

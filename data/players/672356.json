@@ -1,0 +1,26 @@
+{
+  "id": 672356,
+  "name": "Gabriel Arias",
+  "team": "CLE",
+  "pa": 275,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 112.8,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 43.3,
+  "xwoba": 0.286,
+  "xba": 0.214,
+  "k_pct": 34.3,
+  "bb_pct": 5.6,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 78,
+    "barrel_pct": 67,
+    "hard_hit_pct": 64,
+    "xwoba": 27,
+    "xba": 22,
+    "bb_pct": 21,
+    "sprint_speed": 36,
+    "k_pct": 5
+  }
+}

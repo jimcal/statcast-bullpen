@@ -1,0 +1,26 @@
+{
+  "id": 672724,
+  "name": "Oswald Peraza",
+  "team": "LAA",
+  "pa": 165,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 4.2,
+  "hard_hit_pct": 38.8,
+  "xwoba": 0.248,
+  "xba": 0.194,
+  "k_pct": 30.2,
+  "bb_pct": 6.4,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 71,
+    "barrel_pct": 37,
+    "hard_hit_pct": 43,
+    "xwoba": 6,
+    "xba": 9,
+    "bb_pct": 32,
+    "sprint_speed": 92,
+    "k_pct": 12
+  }
+}

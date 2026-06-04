@@ -1,0 +1,26 @@
+{
+  "id": 686469,
+  "name": "Vinnie Pasquantino",
+  "team": "KC",
+  "pa": 519,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 114.4,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 44.7,
+  "xwoba": 0.334,
+  "xba": 0.259,
+  "k_pct": 15.7,
+  "bb_pct": 7.2,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 89,
+    "barrel_pct": 85,
+    "hard_hit_pct": 70,
+    "xwoba": 78,
+    "xba": 77,
+    "bb_pct": 43,
+    "sprint_speed": 8,
+    "k_pct": 87
+  }
+}

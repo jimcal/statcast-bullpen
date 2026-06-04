@@ -1,0 +1,26 @@
+{
+  "id": 605170,
+  "name": "Victor Caratini",
+  "team": "HOU",
+  "pa": 285,
+  "avg_exit_velo": 88.7,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.329,
+  "xba": 0.255,
+  "k_pct": 16.8,
+  "bb_pct": 6.0,
+  "sprint_speed": 24.3,
+  "percentiles": {
+    "avg_exit_velo": 43,
+    "max_exit_velo": 43,
+    "barrel_pct": 55,
+    "hard_hit_pct": 51,
+    "xwoba": 74,
+    "xba": 73,
+    "bb_pct": 27,
+    "sprint_speed": 1,
+    "k_pct": 83
+  }
+}

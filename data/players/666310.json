@@ -1,0 +1,26 @@
+{
+  "id": 666310,
+  "name": "Bo Naylor",
+  "team": "CLE",
+  "pa": 269,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 38.3,
+  "xwoba": 0.292,
+  "xba": 0.201,
+  "k_pct": 23.7,
+  "bb_pct": 10.7,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 51,
+    "barrel_pct": 63,
+    "hard_hit_pct": 40,
+    "xwoba": 33,
+    "xba": 12,
+    "bb_pct": 80,
+    "sprint_speed": 52,
+    "k_pct": 47
+  }
+}

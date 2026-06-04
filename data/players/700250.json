@@ -1,0 +1,26 @@
+{
+  "id": 700250,
+  "name": "Ben Rice",
+  "team": "NYY",
+  "pa": 369,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 113.5,
+  "barrel_pct": 10.8,
+  "hard_hit_pct": 56.1,
+  "xwoba": 0.391,
+  "xba": 0.28,
+  "k_pct": 19.6,
+  "bb_pct": 9.4,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 82,
+    "barrel_pct": 97,
+    "hard_hit_pct": 98,
+    "xwoba": 98,
+    "xba": 95,
+    "bb_pct": 67,
+    "sprint_speed": 48,
+    "k_pct": 68
+  }
+}

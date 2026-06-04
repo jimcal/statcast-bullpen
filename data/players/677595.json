@@ -1,0 +1,26 @@
+{
+  "id": 677595,
+  "name": "Ronny Mauricio",
+  "team": "NYM",
+  "pa": 114,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 111.3,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 43.0,
+  "xwoba": 0.286,
+  "xba": 0.218,
+  "k_pct": 29.3,
+  "bb_pct": 8.2,
+  "sprint_speed": 25.8,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 61,
+    "barrel_pct": 50,
+    "hard_hit_pct": 62,
+    "xwoba": 27,
+    "xba": 25,
+    "bb_pct": 53,
+    "sprint_speed": 11,
+    "k_pct": 15
+  }
+}

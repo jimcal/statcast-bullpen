@@ -1,0 +1,26 @@
+{
+  "id": 664059,
+  "name": "Sam Haggerty",
+  "team": "TEX",
+  "pa": 126,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 1.6,
+  "hard_hit_pct": 42.1,
+  "xwoba": 0.304,
+  "xba": 0.249,
+  "k_pct": 20.3,
+  "bb_pct": 8.8,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 43,
+    "barrel_pct": 7,
+    "hard_hit_pct": 57,
+    "xwoba": 47,
+    "xba": 65,
+    "bb_pct": 60,
+    "sprint_speed": 87,
+    "k_pct": 65
+  }
+}

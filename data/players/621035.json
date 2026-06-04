@@ -1,0 +1,26 @@
+{
+  "id": 621035,
+  "name": "Chris Taylor",
+  "team": "LAA",
+  "pa": 72,
+  "avg_exit_velo": 85.9,
+  "max_exit_velo": 108.8,
+  "barrel_pct": 4.0,
+  "hard_hit_pct": 36.1,
+  "xwoba": 0.27,
+  "xba": 0.205,
+  "k_pct": 33.6,
+  "bb_pct": 4.0,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 27,
+    "barrel_pct": 34,
+    "hard_hit_pct": 31,
+    "xwoba": 17,
+    "xba": 14,
+    "bb_pct": 7,
+    "sprint_speed": 58,
+    "k_pct": 6
+  }
+}

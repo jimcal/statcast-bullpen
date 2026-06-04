@@ -1,0 +1,26 @@
+{
+  "id": 606466,
+  "name": "Ketel Marte",
+  "team": "AZ",
+  "pa": 400,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 119.6,
+  "barrel_pct": 9.7,
+  "hard_hit_pct": 47.0,
+  "xwoba": 0.39,
+  "xba": 0.285,
+  "k_pct": 14.9,
+  "bb_pct": 11.5,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 99,
+    "barrel_pct": 94,
+    "hard_hit_pct": 81,
+    "xwoba": 98,
+    "xba": 96,
+    "bb_pct": 86,
+    "sprint_speed": 26,
+    "k_pct": 88
+  }
+}

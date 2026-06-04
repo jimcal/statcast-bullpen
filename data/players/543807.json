@@ -1,0 +1,26 @@
+{
+  "id": 543807,
+  "name": "George Springer",
+  "team": "TOR",
+  "pa": 391,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 114.0,
+  "barrel_pct": 10.8,
+  "hard_hit_pct": 47.6,
+  "xwoba": 0.404,
+  "xba": 0.291,
+  "k_pct": 19.4,
+  "bb_pct": 11.2,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 86,
+    "barrel_pct": 97,
+    "hard_hit_pct": 84,
+    "xwoba": 99,
+    "xba": 98,
+    "bb_pct": 84,
+    "sprint_speed": 64,
+    "k_pct": 70
+  }
+}

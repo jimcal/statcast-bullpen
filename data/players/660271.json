@@ -1,0 +1,26 @@
+{
+  "id": 660271,
+  "name": "Shohei Ohtani",
+  "team": "LAD",
+  "pa": 426,
+  "avg_exit_velo": 94.9,
+  "max_exit_velo": 120.0,
+  "barrel_pct": 13.8,
+  "hard_hit_pct": 58.7,
+  "xwoba": 0.425,
+  "xba": 0.274,
+  "k_pct": 25.9,
+  "bb_pct": 15.4,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 99,
+    "max_exit_velo": 99,
+    "barrel_pct": 100,
+    "hard_hit_pct": 99,
+    "xwoba": 99,
+    "xba": 91,
+    "bb_pct": 98,
+    "sprint_speed": 64,
+    "k_pct": 33
+  }
+}

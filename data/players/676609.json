@@ -1,0 +1,26 @@
+{
+  "id": 676609,
+  "name": "Jos\u00e9 Caballero",
+  "team": "NYY",
+  "pa": 222,
+  "avg_exit_velo": 86.0,
+  "max_exit_velo": 114.4,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 30.6,
+  "xwoba": 0.299,
+  "xba": 0.218,
+  "k_pct": 26.4,
+  "bb_pct": 12.5,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 10,
+    "max_exit_velo": 89,
+    "barrel_pct": 27,
+    "hard_hit_pct": 13,
+    "xwoba": 41,
+    "xba": 25,
+    "bb_pct": 91,
+    "sprint_speed": 73,
+    "k_pct": 29
+  }
+}

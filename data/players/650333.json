@@ -1,0 +1,26 @@
+{
+  "id": 650333,
+  "name": "Luis Arraez",
+  "team": "SD",
+  "pa": 618,
+  "avg_exit_velo": 86.1,
+  "max_exit_velo": 107.8,
+  "barrel_pct": 1.0,
+  "hard_hit_pct": 16.7,
+  "xwoba": 0.303,
+  "xba": 0.287,
+  "k_pct": 3.2,
+  "bb_pct": 4.9,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 11,
+    "max_exit_velo": 14,
+    "barrel_pct": 3,
+    "hard_hit_pct": 0,
+    "xwoba": 46,
+    "xba": 97,
+    "bb_pct": 14,
+    "sprint_speed": 24,
+    "k_pct": 100
+  }
+}

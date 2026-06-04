@@ -1,0 +1,26 @@
+{
+  "id": 691777,
+  "name": "Max Muncy",
+  "team": "ATH",
+  "pa": 139,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 32.4,
+  "xwoba": 0.267,
+  "xba": 0.203,
+  "k_pct": 30.9,
+  "bb_pct": 4.5,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 75,
+    "barrel_pct": 65,
+    "hard_hit_pct": 18,
+    "xwoba": 15,
+    "xba": 13,
+    "bb_pct": 9,
+    "sprint_speed": 70,
+    "k_pct": 11
+  }
+}

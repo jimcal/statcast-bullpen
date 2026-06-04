@@ -1,0 +1,26 @@
+{
+  "id": 677588,
+  "name": "Jos\u00e9 Tena",
+  "team": "WSH",
+  "pa": 116,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 3.6,
+  "hard_hit_pct": 40.5,
+  "xwoba": 0.302,
+  "xba": 0.243,
+  "k_pct": 21.9,
+  "bb_pct": 8.9,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 22,
+    "barrel_pct": 28,
+    "hard_hit_pct": 50,
+    "xwoba": 45,
+    "xba": 54,
+    "bb_pct": 62,
+    "sprint_speed": 56,
+    "k_pct": 58
+  }
+}

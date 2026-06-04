@@ -1,0 +1,26 @@
+{
+  "id": 516782,
+  "name": "Starling Marte",
+  "team": "NYM",
+  "pa": 230,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 5.5,
+  "hard_hit_pct": 40.4,
+  "xwoba": 0.319,
+  "xba": 0.248,
+  "k_pct": 20.7,
+  "bb_pct": 6.7,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 56,
+    "barrel_pct": 52,
+    "hard_hit_pct": 50,
+    "xwoba": 61,
+    "xba": 64,
+    "bb_pct": 35,
+    "sprint_speed": 26,
+    "k_pct": 63
+  }
+}

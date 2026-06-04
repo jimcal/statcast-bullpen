@@ -1,0 +1,26 @@
+{
+  "id": 607043,
+  "name": "Brandon Nimmo",
+  "team": "NYM",
+  "pa": 454,
+  "avg_exit_velo": 91.9,
+  "max_exit_velo": 112.3,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 50.2,
+  "xwoba": 0.321,
+  "xba": 0.252,
+  "k_pct": 21.6,
+  "bb_pct": 7.7,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 91,
+    "max_exit_velo": 72,
+    "barrel_pct": 60,
+    "hard_hit_pct": 91,
+    "xwoba": 63,
+    "xba": 69,
+    "bb_pct": 48,
+    "sprint_speed": 45,
+    "k_pct": 59
+  }
+}

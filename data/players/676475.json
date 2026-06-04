@@ -1,0 +1,26 @@
+{
+  "id": 676475,
+  "name": "Alec Burleson",
+  "team": "STL",
+  "pa": 423,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 7.3,
+  "hard_hit_pct": 43.0,
+  "xwoba": 0.345,
+  "xba": 0.272,
+  "k_pct": 14.5,
+  "bb_pct": 7.1,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 57,
+    "barrel_pct": 74,
+    "hard_hit_pct": 62,
+    "xwoba": 86,
+    "xba": 90,
+    "bb_pct": 41,
+    "sprint_speed": 8,
+    "k_pct": 90
+  }
+}

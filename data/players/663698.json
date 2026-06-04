@@ -1,0 +1,26 @@
+{
+  "id": 663698,
+  "name": "Joey Bart",
+  "team": "PIT",
+  "pa": 192,
+  "avg_exit_velo": 88.4,
+  "max_exit_velo": 113.1,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 43.2,
+  "xwoba": 0.318,
+  "xba": 0.222,
+  "k_pct": 28.0,
+  "bb_pct": 12.0,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 39,
+    "max_exit_velo": 79,
+    "barrel_pct": 59,
+    "hard_hit_pct": 63,
+    "xwoba": 60,
+    "xba": 29,
+    "bb_pct": 89,
+    "sprint_speed": 26,
+    "k_pct": 19
+  }
+}

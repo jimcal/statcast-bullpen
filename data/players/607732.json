@@ -1,0 +1,26 @@
+{
+  "id": 607732,
+  "name": "Jacob Stallings",
+  "team": "BAL",
+  "pa": 80,
+  "avg_exit_velo": 85.0,
+  "max_exit_velo": 104.4,
+  "barrel_pct": 0.8,
+  "hard_hit_pct": 26.3,
+  "xwoba": 0.211,
+  "xba": 0.17,
+  "k_pct": 31.0,
+  "bb_pct": 4.7,
+  "sprint_speed": 23.6,
+  "percentiles": {
+    "avg_exit_velo": 5,
+    "max_exit_velo": 2,
+    "barrel_pct": 3,
+    "hard_hit_pct": 4,
+    "xwoba": 1,
+    "xba": 2,
+    "bb_pct": 11,
+    "sprint_speed": 1,
+    "k_pct": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 805367,
+  "name": "Chase Meidroth",
+  "team": "CWS",
+  "pa": 382,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 107.1,
+  "barrel_pct": 1.2,
+  "hard_hit_pct": 36.1,
+  "xwoba": 0.3,
+  "xba": 0.254,
+  "k_pct": 14.3,
+  "bb_pct": 8.9,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 9,
+    "barrel_pct": 5,
+    "hard_hit_pct": 31,
+    "xwoba": 43,
+    "xba": 72,
+    "bb_pct": 62,
+    "sprint_speed": 36,
+    "k_pct": 91
+  }
+}

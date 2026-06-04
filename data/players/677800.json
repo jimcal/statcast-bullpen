@@ -1,0 +1,26 @@
+{
+  "id": 677800,
+  "name": "Wilyer Abreu",
+  "team": "BOS",
+  "pa": 276,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 44.9,
+  "xwoba": 0.335,
+  "xba": 0.243,
+  "k_pct": 24.6,
+  "bb_pct": 9.5,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 65,
+    "barrel_pct": 85,
+    "hard_hit_pct": 71,
+    "xwoba": 79,
+    "xba": 54,
+    "bb_pct": 69,
+    "sprint_speed": 52,
+    "k_pct": 40
+  }
+}

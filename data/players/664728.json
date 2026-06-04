@@ -1,0 +1,26 @@
+{
+  "id": 664728,
+  "name": "Kyle Isbel",
+  "team": "KC",
+  "pa": 310,
+  "avg_exit_velo": 87.8,
+  "max_exit_velo": 109.5,
+  "barrel_pct": 1.2,
+  "hard_hit_pct": 36.1,
+  "xwoba": 0.251,
+  "xba": 0.22,
+  "k_pct": 18.1,
+  "bb_pct": 5.6,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 29,
+    "max_exit_velo": 35,
+    "barrel_pct": 5,
+    "hard_hit_pct": 31,
+    "xwoba": 7,
+    "xba": 27,
+    "bb_pct": 21,
+    "sprint_speed": 58,
+    "k_pct": 77
+  }
+}

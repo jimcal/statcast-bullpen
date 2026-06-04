@@ -1,0 +1,26 @@
+{
+  "id": 665966,
+  "name": "Carlos Narv\u00e1ez",
+  "team": "BOS",
+  "pa": 296,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 44.6,
+  "xwoba": 0.293,
+  "xba": 0.22,
+  "k_pct": 25.2,
+  "bb_pct": 9.0,
+  "sprint_speed": 25.6,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 59,
+    "barrel_pct": 60,
+    "hard_hit_pct": 69,
+    "xwoba": 33,
+    "xba": 27,
+    "bb_pct": 64,
+    "sprint_speed": 9,
+    "k_pct": 36
+  }
+}

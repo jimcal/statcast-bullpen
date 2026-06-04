@@ -1,0 +1,26 @@
+{
+  "id": 656484,
+  "name": "Tristan Gray",
+  "team": "TB",
+  "pa": 61,
+  "avg_exit_velo": 91.4,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 9.3,
+  "hard_hit_pct": 44.3,
+  "xwoba": 0.349,
+  "xba": 0.257,
+  "k_pct": 22.1,
+  "bb_pct": 7.0,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 86,
+    "max_exit_velo": 51,
+    "barrel_pct": 93,
+    "hard_hit_pct": 68,
+    "xwoba": 88,
+    "xba": 75,
+    "bb_pct": 40,
+    "sprint_speed": 41,
+    "k_pct": 57
+  }
+}

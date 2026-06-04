@@ -1,0 +1,26 @@
+{
+  "id": 665019,
+  "name": "Kody Clemens",
+  "team": "MIN",
+  "pa": 259,
+  "avg_exit_velo": 91.5,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 48.3,
+  "xwoba": 0.331,
+  "xba": 0.243,
+  "k_pct": 24.1,
+  "bb_pct": 7.5,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 87,
+    "max_exit_velo": 38,
+    "barrel_pct": 82,
+    "hard_hit_pct": 86,
+    "xwoba": 76,
+    "xba": 54,
+    "bb_pct": 46,
+    "sprint_speed": 62,
+    "k_pct": 43
+  }
+}

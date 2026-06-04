@@ -1,0 +1,26 @@
+{
+  "id": 663584,
+  "name": "Hayden Senger",
+  "team": "NYM",
+  "pa": 52,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 108.2,
+  "barrel_pct": 2.6,
+  "hard_hit_pct": 38.5,
+  "xwoba": 0.259,
+  "xba": 0.215,
+  "k_pct": 28.2,
+  "bb_pct": 3.8,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 20,
+    "barrel_pct": 17,
+    "hard_hit_pct": 41,
+    "xwoba": 10,
+    "xba": 23,
+    "bb_pct": 5,
+    "sprint_speed": 26,
+    "k_pct": 18
+  }
+}

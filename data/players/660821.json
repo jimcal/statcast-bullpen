@@ -1,0 +1,26 @@
+{
+  "id": 660821,
+  "name": "Jes\u00fas S\u00e1nchez",
+  "team": "HOU",
+  "pa": 343,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 114.8,
+  "barrel_pct": 7.6,
+  "hard_hit_pct": 43.4,
+  "xwoba": 0.323,
+  "xba": 0.242,
+  "k_pct": 22.1,
+  "bb_pct": 8.5,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 91,
+    "barrel_pct": 77,
+    "hard_hit_pct": 64,
+    "xwoba": 66,
+    "xba": 52,
+    "bb_pct": 56,
+    "sprint_speed": 36,
+    "k_pct": 57
+  }
+}

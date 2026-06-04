@@ -1,0 +1,26 @@
+{
+  "id": 668804,
+  "name": "Bryan Reynolds",
+  "team": "PIT",
+  "pa": 417,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 113.5,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 46.0,
+  "xwoba": 0.338,
+  "xba": 0.259,
+  "k_pct": 26.5,
+  "bb_pct": 8.7,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 82,
+    "barrel_pct": 65,
+    "hard_hit_pct": 75,
+    "xwoba": 81,
+    "xba": 77,
+    "bb_pct": 60,
+    "sprint_speed": 67,
+    "k_pct": 28
+  }
+}

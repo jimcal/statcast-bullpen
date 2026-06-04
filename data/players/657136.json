@@ -1,0 +1,26 @@
+{
+  "id": 657136,
+  "name": "Connor Wong",
+  "team": "BOS",
+  "pa": 129,
+  "avg_exit_velo": 85.5,
+  "max_exit_velo": 111.5,
+  "barrel_pct": 2.1,
+  "hard_hit_pct": 31.0,
+  "xwoba": 0.266,
+  "xba": 0.221,
+  "k_pct": 22.3,
+  "bb_pct": 8.5,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 64,
+    "barrel_pct": 12,
+    "hard_hit_pct": 15,
+    "xwoba": 14,
+    "xba": 28,
+    "bb_pct": 56,
+    "sprint_speed": 64,
+    "k_pct": 55
+  }
+}

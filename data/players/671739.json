@@ -1,0 +1,26 @@
+{
+  "id": 671739,
+  "name": "Michael Harris II",
+  "team": "ATL",
+  "pa": 494,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 114.1,
+  "barrel_pct": 7.0,
+  "hard_hit_pct": 43.4,
+  "xwoba": 0.315,
+  "xba": 0.268,
+  "k_pct": 20.0,
+  "bb_pct": 2.5,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 87,
+    "barrel_pct": 72,
+    "hard_hit_pct": 64,
+    "xwoba": 57,
+    "xba": 86,
+    "bb_pct": 1,
+    "sprint_speed": 79,
+    "k_pct": 66
+  }
+}

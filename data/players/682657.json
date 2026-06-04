@@ -1,0 +1,26 @@
+{
+  "id": 682657,
+  "name": "Angel Mart\u00ednez",
+  "team": "CLE",
+  "pa": 345,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 107.4,
+  "barrel_pct": 2.5,
+  "hard_hit_pct": 29.3,
+  "xwoba": 0.255,
+  "xba": 0.215,
+  "k_pct": 23.0,
+  "bb_pct": 4.7,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 11,
+    "barrel_pct": 16,
+    "hard_hit_pct": 10,
+    "xwoba": 9,
+    "xba": 23,
+    "bb_pct": 11,
+    "sprint_speed": 56,
+    "k_pct": 51
+  }
+}

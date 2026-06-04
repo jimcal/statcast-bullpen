@@ -1,0 +1,26 @@
+{
+  "id": 664023,
+  "name": "Ian Happ",
+  "team": "CHC",
+  "pa": 423,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 112.0,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 44.4,
+  "xwoba": 0.354,
+  "xba": 0.256,
+  "k_pct": 23.6,
+  "bb_pct": 12.8,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 69,
+    "barrel_pct": 67,
+    "hard_hit_pct": 68,
+    "xwoba": 90,
+    "xba": 74,
+    "bb_pct": 92,
+    "sprint_speed": 47,
+    "k_pct": 48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 663368,
+  "name": "Blake Perkins",
+  "team": "MIL",
+  "pa": 108,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 106.0,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 34.3,
+  "xwoba": 0.279,
+  "xba": 0.223,
+  "k_pct": 28.0,
+  "bb_pct": 9.5,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 5,
+    "barrel_pct": 13,
+    "hard_hit_pct": 23,
+    "xwoba": 23,
+    "xba": 30,
+    "bb_pct": 69,
+    "sprint_speed": 91,
+    "k_pct": 19
+  }
+}

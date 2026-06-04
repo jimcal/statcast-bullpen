@@ -1,0 +1,26 @@
+{
+  "id": 690993,
+  "name": "Colt Keith",
+  "team": "DET",
+  "pa": 316,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 110.0,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 43.7,
+  "xwoba": 0.341,
+  "xba": 0.257,
+  "k_pct": 22.1,
+  "bb_pct": 10.1,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 42,
+    "barrel_pct": 62,
+    "hard_hit_pct": 65,
+    "xwoba": 83,
+    "xba": 75,
+    "bb_pct": 74,
+    "sprint_speed": 64,
+    "k_pct": 57
+  }
+}

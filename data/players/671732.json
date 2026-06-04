@@ -1,0 +1,26 @@
+{
+  "id": 671732,
+  "name": "Lawrence Butler",
+  "team": "ATH",
+  "pa": 392,
+  "avg_exit_velo": 90.5,
+  "max_exit_velo": 113.6,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 44.4,
+  "xwoba": 0.304,
+  "xba": 0.229,
+  "k_pct": 28.4,
+  "bb_pct": 9.4,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 72,
+    "max_exit_velo": 82,
+    "barrel_pct": 55,
+    "hard_hit_pct": 68,
+    "xwoba": 47,
+    "xba": 35,
+    "bb_pct": 67,
+    "sprint_speed": 34,
+    "k_pct": 17
+  }
+}

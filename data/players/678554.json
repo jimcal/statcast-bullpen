@@ -1,0 +1,26 @@
+{
+  "id": 678554,
+  "name": "Curtis Mead",
+  "team": "CWS",
+  "pa": 178,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 3.0,
+  "hard_hit_pct": 34.8,
+  "xwoba": 0.289,
+  "xba": 0.232,
+  "k_pct": 23.9,
+  "bb_pct": 5.7,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 56,
+    "barrel_pct": 21,
+    "hard_hit_pct": 26,
+    "xwoba": 30,
+    "xba": 38,
+    "bb_pct": 23,
+    "sprint_speed": 34,
+    "k_pct": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 649966,
+  "name": "Luis Ur\u00edas",
+  "team": "ATH",
+  "pa": 245,
+  "avg_exit_velo": 86.2,
+  "max_exit_velo": 107.4,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 30.2,
+  "xwoba": 0.3,
+  "xba": 0.234,
+  "k_pct": 13.6,
+  "bb_pct": 9.4,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 12,
+    "max_exit_velo": 11,
+    "barrel_pct": 18,
+    "hard_hit_pct": 12,
+    "xwoba": 43,
+    "xba": 41,
+    "bb_pct": 67,
+    "sprint_speed": 14,
+    "k_pct": 94
+  }
+}

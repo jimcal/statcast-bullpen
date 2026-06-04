@@ -1,0 +1,26 @@
+{
+  "id": 641598,
+  "name": "Mitch Garver",
+  "team": "SEA",
+  "pa": 177,
+  "avg_exit_velo": 91.5,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 4.8,
+  "hard_hit_pct": 46.9,
+  "xwoba": 0.298,
+  "xba": 0.209,
+  "k_pct": 27.4,
+  "bb_pct": 10.4,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 87,
+    "max_exit_velo": 25,
+    "barrel_pct": 44,
+    "hard_hit_pct": 80,
+    "xwoba": 40,
+    "xba": 17,
+    "bb_pct": 76,
+    "sprint_speed": 14,
+    "k_pct": 23
+  }
+}

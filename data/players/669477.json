@@ -1,0 +1,26 @@
+{
+  "id": 669477,
+  "name": "Casey Schmitt",
+  "team": "SF",
+  "pa": 233,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 43.8,
+  "xwoba": 0.328,
+  "xba": 0.256,
+  "k_pct": 23.9,
+  "bb_pct": 7.8,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 64,
+    "barrel_pct": 59,
+    "hard_hit_pct": 66,
+    "xwoba": 72,
+    "xba": 74,
+    "bb_pct": 49,
+    "sprint_speed": 52,
+    "k_pct": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 666023,
+  "name": "Freddy Fermin",
+  "team": "SD",
+  "pa": 261,
+  "avg_exit_velo": 89.1,
+  "max_exit_velo": 108.3,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 34.1,
+  "xwoba": 0.271,
+  "xba": 0.233,
+  "k_pct": 18.4,
+  "bb_pct": 5.3,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 51,
+    "max_exit_velo": 21,
+    "barrel_pct": 22,
+    "hard_hit_pct": 23,
+    "xwoba": 18,
+    "xba": 40,
+    "bb_pct": 18,
+    "sprint_speed": 36,
+    "k_pct": 76
+  }
+}

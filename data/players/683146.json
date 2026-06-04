@@ -1,0 +1,26 @@
+{
+  "id": 683146,
+  "name": "Brett Baty",
+  "team": "NYM",
+  "pa": 288,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 115.6,
+  "barrel_pct": 8.6,
+  "hard_hit_pct": 46.9,
+  "xwoba": 0.334,
+  "xba": 0.252,
+  "k_pct": 25.0,
+  "bb_pct": 7.6,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 94,
+    "barrel_pct": 87,
+    "hard_hit_pct": 80,
+    "xwoba": 78,
+    "xba": 69,
+    "bb_pct": 47,
+    "sprint_speed": 36,
+    "k_pct": 38
+  }
+}

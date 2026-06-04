@@ -1,0 +1,26 @@
+{
+  "id": 672695,
+  "name": "Geraldo Perdomo",
+  "team": "AZ",
+  "pa": 533,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 108.2,
+  "barrel_pct": 4.6,
+  "hard_hit_pct": 31.9,
+  "xwoba": 0.356,
+  "xba": 0.278,
+  "k_pct": 11.5,
+  "bb_pct": 13.1,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 20,
+    "barrel_pct": 42,
+    "hard_hit_pct": 17,
+    "xwoba": 91,
+    "xba": 94,
+    "bb_pct": 94,
+    "sprint_speed": 43,
+    "k_pct": 97
+  }
+}

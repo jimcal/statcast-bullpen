@@ -1,0 +1,26 @@
+{
+  "id": 592192,
+  "name": "Mark Canha",
+  "team": "KC",
+  "pa": 91,
+  "avg_exit_velo": 86.6,
+  "max_exit_velo": 105.5,
+  "barrel_pct": 1.6,
+  "hard_hit_pct": 33.0,
+  "xwoba": 0.268,
+  "xba": 0.214,
+  "k_pct": 19.2,
+  "bb_pct": 5.6,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 4,
+    "barrel_pct": 7,
+    "hard_hit_pct": 20,
+    "xwoba": 16,
+    "xba": 22,
+    "bb_pct": 21,
+    "sprint_speed": 58,
+    "k_pct": 72
+  }
+}

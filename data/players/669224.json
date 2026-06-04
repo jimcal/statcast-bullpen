@@ -1,0 +1,26 @@
+{
+  "id": 669224,
+  "name": "Austin Wells",
+  "team": "NYY",
+  "pa": 294,
+  "avg_exit_velo": 90.6,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 6.7,
+  "hard_hit_pct": 45.2,
+  "xwoba": 0.294,
+  "xba": 0.214,
+  "k_pct": 26.3,
+  "bb_pct": 6.6,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 73,
+    "max_exit_velo": 68,
+    "barrel_pct": 69,
+    "hard_hit_pct": 72,
+    "xwoba": 34,
+    "xba": 22,
+    "bb_pct": 34,
+    "sprint_speed": 23,
+    "k_pct": 30
+  }
+}

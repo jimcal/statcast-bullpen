@@ -1,0 +1,26 @@
+{
+  "id": 650489,
+  "name": "Willi Castro",
+  "team": "CHC",
+  "pa": 292,
+  "avg_exit_velo": 86.7,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 4.2,
+  "hard_hit_pct": 37.3,
+  "xwoba": 0.306,
+  "xba": 0.234,
+  "k_pct": 24.4,
+  "bb_pct": 8.8,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 16,
+    "max_exit_velo": 68,
+    "barrel_pct": 37,
+    "hard_hit_pct": 36,
+    "xwoba": 50,
+    "xba": 41,
+    "bb_pct": 60,
+    "sprint_speed": 70,
+    "k_pct": 41
+  }
+}

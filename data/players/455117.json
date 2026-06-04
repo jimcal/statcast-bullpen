@@ -1,0 +1,26 @@
+{
+  "id": 455117,
+  "name": "Mart\u00edn Maldonado",
+  "team": "SD",
+  "pa": 96,
+  "avg_exit_velo": 86.0,
+  "max_exit_velo": 107.5,
+  "barrel_pct": 5.6,
+  "hard_hit_pct": 28.1,
+  "xwoba": 0.251,
+  "xba": 0.192,
+  "k_pct": 35.4,
+  "bb_pct": 5.0,
+  "sprint_speed": 23.1,
+  "percentiles": {
+    "avg_exit_velo": 10,
+    "max_exit_velo": 12,
+    "barrel_pct": 53,
+    "hard_hit_pct": 8,
+    "xwoba": 7,
+    "xba": 8,
+    "bb_pct": 15,
+    "sprint_speed": 0,
+    "k_pct": 4
+  }
+}

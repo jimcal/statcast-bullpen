@@ -1,0 +1,26 @@
+{
+  "id": 702332,
+  "name": "Caleb Durbin",
+  "team": "MIL",
+  "pa": 402,
+  "avg_exit_velo": 85.2,
+  "max_exit_velo": 108.9,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 26.9,
+  "xwoba": 0.312,
+  "xba": 0.255,
+  "k_pct": 10.8,
+  "bb_pct": 6.1,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 6,
+    "max_exit_velo": 28,
+    "barrel_pct": 22,
+    "hard_hit_pct": 5,
+    "xwoba": 54,
+    "xba": 73,
+    "bb_pct": 28,
+    "sprint_speed": 67,
+    "k_pct": 98
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 624428,
+  "name": "Adam Frazier",
+  "team": "KC",
+  "pa": 344,
+  "avg_exit_velo": 85.3,
+  "max_exit_velo": 104.6,
+  "barrel_pct": 1.5,
+  "hard_hit_pct": 20.6,
+  "xwoba": 0.279,
+  "xba": 0.244,
+  "k_pct": 17.6,
+  "bb_pct": 5.7,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 7,
+    "max_exit_velo": 3,
+    "barrel_pct": 6,
+    "hard_hit_pct": 1,
+    "xwoba": 23,
+    "xba": 57,
+    "bb_pct": 23,
+    "sprint_speed": 26,
+    "k_pct": 79
+  }
+}

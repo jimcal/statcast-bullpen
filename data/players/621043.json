@@ -1,0 +1,26 @@
+{
+  "id": 621043,
+  "name": "Carlos Correa",
+  "team": "HOU",
+  "pa": 425,
+  "avg_exit_velo": 90.5,
+  "max_exit_velo": 112.6,
+  "barrel_pct": 5.0,
+  "hard_hit_pct": 45.9,
+  "xwoba": 0.338,
+  "xba": 0.28,
+  "k_pct": 19.3,
+  "bb_pct": 7.7,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 72,
+    "max_exit_velo": 75,
+    "barrel_pct": 47,
+    "hard_hit_pct": 75,
+    "xwoba": 81,
+    "xba": 95,
+    "bb_pct": 48,
+    "sprint_speed": 24,
+    "k_pct": 71
+  }
+}

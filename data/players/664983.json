@@ -1,0 +1,26 @@
+{
+  "id": 664983,
+  "name": "Jake McCarthy",
+  "team": "AZ",
+  "pa": 170,
+  "avg_exit_velo": 84.7,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 4.1,
+  "hard_hit_pct": 27.6,
+  "xwoba": 0.286,
+  "xba": 0.239,
+  "k_pct": 18.0,
+  "bb_pct": 4.5,
+  "sprint_speed": 29.9,
+  "percentiles": {
+    "avg_exit_velo": 3,
+    "max_exit_velo": 55,
+    "barrel_pct": 35,
+    "hard_hit_pct": 7,
+    "xwoba": 27,
+    "xba": 48,
+    "bb_pct": 9,
+    "sprint_speed": 98,
+    "k_pct": 77
+  }
+}

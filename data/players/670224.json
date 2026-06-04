@@ -1,0 +1,26 @@
+{
+  "id": 670224,
+  "name": "Kameron Misner",
+  "team": "TB",
+  "pa": 131,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 29.8,
+  "xwoba": 0.247,
+  "xba": 0.191,
+  "k_pct": 31.8,
+  "bb_pct": 7.4,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 46,
+    "barrel_pct": 22,
+    "hard_hit_pct": 11,
+    "xwoba": 6,
+    "xba": 7,
+    "bb_pct": 44,
+    "sprint_speed": 73,
+    "k_pct": 9
+  }
+}

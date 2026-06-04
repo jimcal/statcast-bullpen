@@ -1,0 +1,26 @@
+{
+  "id": 701305,
+  "name": "Zach Dezenzo",
+  "team": "HOU",
+  "pa": 61,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 9.2,
+  "hard_hit_pct": 41.0,
+  "xwoba": 0.316,
+  "xba": 0.225,
+  "k_pct": 33.9,
+  "bb_pct": 10.1,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 55,
+    "barrel_pct": 92,
+    "hard_hit_pct": 53,
+    "xwoba": 59,
+    "xba": 32,
+    "bb_pct": 74,
+    "sprint_speed": 67,
+    "k_pct": 5
+  }
+}

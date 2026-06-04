@@ -1,0 +1,26 @@
+{
+  "id": 691718,
+  "name": "Pete Crow-Armstrong",
+  "team": "CHC",
+  "pa": 454,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 113.2,
+  "barrel_pct": 9.1,
+  "hard_hit_pct": 41.6,
+  "xwoba": 0.321,
+  "xba": 0.242,
+  "k_pct": 24.7,
+  "bb_pct": 4.4,
+  "sprint_speed": 29.5,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 80,
+    "barrel_pct": 92,
+    "hard_hit_pct": 55,
+    "xwoba": 63,
+    "xba": 52,
+    "bb_pct": 9,
+    "sprint_speed": 96,
+    "k_pct": 40
+  }
+}

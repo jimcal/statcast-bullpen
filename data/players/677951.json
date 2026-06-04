@@ -1,0 +1,26 @@
+{
+  "id": 677951,
+  "name": "Bobby Witt Jr.",
+  "team": "KC",
+  "pa": 505,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 117.5,
+  "barrel_pct": 9.2,
+  "hard_hit_pct": 48.5,
+  "xwoba": 0.365,
+  "xba": 0.285,
+  "k_pct": 18.2,
+  "bb_pct": 7.1,
+  "sprint_speed": 30.2,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 98,
+    "barrel_pct": 92,
+    "hard_hit_pct": 86,
+    "xwoba": 94,
+    "xba": 96,
+    "bb_pct": 41,
+    "sprint_speed": 99,
+    "k_pct": 77
+  }
+}

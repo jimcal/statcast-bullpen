@@ -1,0 +1,26 @@
+{
+  "id": 660670,
+  "name": "Ronald Acu\u00f1a Jr.",
+  "team": "ATL",
+  "pa": 236,
+  "avg_exit_velo": 92.7,
+  "max_exit_velo": 115.5,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 52.5,
+  "xwoba": 0.397,
+  "xba": 0.263,
+  "k_pct": 24.8,
+  "bb_pct": 17.2,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 95,
+    "max_exit_velo": 93,
+    "barrel_pct": 90,
+    "hard_hit_pct": 95,
+    "xwoba": 98,
+    "xba": 82,
+    "bb_pct": 99,
+    "sprint_speed": 62,
+    "k_pct": 39
+  }
+}

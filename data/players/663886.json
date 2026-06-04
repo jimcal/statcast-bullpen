@@ -1,0 +1,26 @@
+{
+  "id": 663886,
+  "name": "Tyler Stephenson",
+  "team": "CIN",
+  "pa": 187,
+  "avg_exit_velo": 90.5,
+  "max_exit_velo": 107.9,
+  "barrel_pct": 7.9,
+  "hard_hit_pct": 49.2,
+  "xwoba": 0.313,
+  "xba": 0.216,
+  "k_pct": 34.3,
+  "bb_pct": 10.6,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 72,
+    "max_exit_velo": 15,
+    "barrel_pct": 81,
+    "hard_hit_pct": 88,
+    "xwoba": 55,
+    "xba": 24,
+    "bb_pct": 79,
+    "sprint_speed": 32,
+    "k_pct": 5
+  }
+}

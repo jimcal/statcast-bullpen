@@ -1,0 +1,26 @@
+{
+  "id": 662139,
+  "name": "Daulton Varsho",
+  "team": "TOR",
+  "pa": 176,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 113.9,
+  "barrel_pct": 10.3,
+  "hard_hit_pct": 40.3,
+  "xwoba": 0.327,
+  "xba": 0.226,
+  "k_pct": 27.3,
+  "bb_pct": 6.0,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 86,
+    "barrel_pct": 96,
+    "hard_hit_pct": 48,
+    "xwoba": 71,
+    "xba": 33,
+    "bb_pct": 27,
+    "sprint_speed": 76,
+    "k_pct": 23
+  }
+}

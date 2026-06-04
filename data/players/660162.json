@@ -1,0 +1,26 @@
+{
+  "id": 660162,
+  "name": "Yo\u00e1n Moncada",
+  "team": "LAA",
+  "pa": 175,
+  "avg_exit_velo": 89.8,
+  "max_exit_velo": 112.8,
+  "barrel_pct": 8.7,
+  "hard_hit_pct": 43.4,
+  "xwoba": 0.324,
+  "xba": 0.217,
+  "k_pct": 26.0,
+  "bb_pct": 11.1,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 61,
+    "max_exit_velo": 78,
+    "barrel_pct": 88,
+    "hard_hit_pct": 64,
+    "xwoba": 67,
+    "xba": 25,
+    "bb_pct": 83,
+    "sprint_speed": 19,
+    "k_pct": 33
+  }
+}

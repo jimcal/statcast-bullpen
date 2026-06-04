@@ -1,0 +1,26 @@
+{
+  "id": 656305,
+  "name": "Matt Chapman",
+  "team": "SF",
+  "pa": 332,
+  "avg_exit_velo": 92.2,
+  "max_exit_velo": 113.5,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 47.6,
+  "xwoba": 0.34,
+  "xba": 0.243,
+  "k_pct": 23.6,
+  "bb_pct": 13.3,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 92,
+    "max_exit_velo": 82,
+    "barrel_pct": 62,
+    "hard_hit_pct": 84,
+    "xwoba": 83,
+    "xba": 54,
+    "bb_pct": 95,
+    "sprint_speed": 67,
+    "k_pct": 48
+  }
+}

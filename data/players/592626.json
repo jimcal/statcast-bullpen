@@ -1,0 +1,26 @@
+{
+  "id": 592626,
+  "name": "Joc Pederson",
+  "team": "TEX",
+  "pa": 201,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 44.8,
+  "xwoba": 0.315,
+  "xba": 0.219,
+  "k_pct": 21.2,
+  "bb_pct": 11.1,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 83,
+    "barrel_pct": 62,
+    "hard_hit_pct": 71,
+    "xwoba": 57,
+    "xba": 26,
+    "bb_pct": 83,
+    "sprint_speed": 6,
+    "k_pct": 61
+  }
+}

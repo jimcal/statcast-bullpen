@@ -1,0 +1,26 @@
+{
+  "id": 664056,
+  "name": "Harrison Bader",
+  "team": "PHI",
+  "pa": 315,
+  "avg_exit_velo": 87.2,
+  "max_exit_velo": 112.3,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 40.3,
+  "xwoba": 0.297,
+  "xba": 0.22,
+  "k_pct": 27.1,
+  "bb_pct": 7.7,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 20,
+    "max_exit_velo": 72,
+    "barrel_pct": 65,
+    "hard_hit_pct": 48,
+    "xwoba": 38,
+    "xba": 27,
+    "bb_pct": 48,
+    "sprint_speed": 85,
+    "k_pct": 24
+  }
+}

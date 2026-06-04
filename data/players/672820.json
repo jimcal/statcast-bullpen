@@ -1,0 +1,26 @@
+{
+  "id": 672820,
+  "name": "Lenyn Sosa",
+  "team": "CWS",
+  "pa": 395,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 111.5,
+  "barrel_pct": 7.5,
+  "hard_hit_pct": 43.8,
+  "xwoba": 0.326,
+  "xba": 0.263,
+  "k_pct": 23.3,
+  "bb_pct": 3.3,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 64,
+    "barrel_pct": 76,
+    "hard_hit_pct": 66,
+    "xwoba": 70,
+    "xba": 82,
+    "bb_pct": 3,
+    "sprint_speed": 29,
+    "k_pct": 49
+  }
+}

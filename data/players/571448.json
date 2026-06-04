@@ -1,0 +1,26 @@
+{
+  "id": 571448,
+  "name": "Nolan Arenado",
+  "team": "STL",
+  "pa": 356,
+  "avg_exit_velo": 86.8,
+  "max_exit_velo": 108.3,
+  "barrel_pct": 3.2,
+  "hard_hit_pct": 32.6,
+  "xwoba": 0.289,
+  "xba": 0.245,
+  "k_pct": 11.2,
+  "bb_pct": 6.4,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 16,
+    "max_exit_velo": 21,
+    "barrel_pct": 22,
+    "hard_hit_pct": 19,
+    "xwoba": 30,
+    "xba": 58,
+    "bb_pct": 32,
+    "sprint_speed": 8,
+    "k_pct": 98
+  }
+}

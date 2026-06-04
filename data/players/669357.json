@@ -1,0 +1,26 @@
+{
+  "id": 669357,
+  "name": "Nolan Gorman",
+  "team": "STL",
+  "pa": 219,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 5.0,
+  "hard_hit_pct": 41.1,
+  "xwoba": 0.296,
+  "xba": 0.196,
+  "k_pct": 33.8,
+  "bb_pct": 11.7,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 64,
+    "barrel_pct": 47,
+    "hard_hit_pct": 54,
+    "xwoba": 37,
+    "xba": 9,
+    "bb_pct": 87,
+    "sprint_speed": 12,
+    "k_pct": 5
+  }
+}

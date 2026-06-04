@@ -1,0 +1,26 @@
+{
+  "id": 596103,
+  "name": "Austin Slater",
+  "team": "NYY",
+  "pa": 98,
+  "avg_exit_velo": 92.0,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 8.8,
+  "hard_hit_pct": 48.0,
+  "xwoba": 0.332,
+  "xba": 0.247,
+  "k_pct": 31.9,
+  "bb_pct": 6.9,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 91,
+    "max_exit_velo": 55,
+    "barrel_pct": 89,
+    "hard_hit_pct": 85,
+    "xwoba": 77,
+    "xba": 62,
+    "bb_pct": 38,
+    "sprint_speed": 64,
+    "k_pct": 9
+  }
+}

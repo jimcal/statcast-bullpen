@@ -1,0 +1,26 @@
+{
+  "id": 683734,
+  "name": "Andrew Vaughn",
+  "team": "MIL",
+  "pa": 333,
+  "avg_exit_velo": 91.6,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 8.9,
+  "hard_hit_pct": 47.7,
+  "xwoba": 0.349,
+  "xba": 0.273,
+  "k_pct": 17.2,
+  "bb_pct": 7.3,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 88,
+    "max_exit_velo": 59,
+    "barrel_pct": 90,
+    "hard_hit_pct": 84,
+    "xwoba": 88,
+    "xba": 90,
+    "bb_pct": 43,
+    "sprint_speed": 14,
+    "k_pct": 81
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 683083,
+  "name": "Nasim Nu\u00f1ez",
+  "team": "WSH",
+  "pa": 64,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 108.6,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 42.2,
+  "xwoba": 0.296,
+  "xba": 0.239,
+  "k_pct": 21.7,
+  "bb_pct": 8.7,
+  "sprint_speed": 29.8,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 24,
+    "barrel_pct": 24,
+    "hard_hit_pct": 58,
+    "xwoba": 37,
+    "xba": 48,
+    "bb_pct": 60,
+    "sprint_speed": 98,
+    "k_pct": 58
+  }
+}

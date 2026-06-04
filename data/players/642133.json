@@ -1,0 +1,26 @@
+{
+  "id": 642133,
+  "name": "Rowdy Tellez",
+  "team": "TEX",
+  "pa": 209,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 113.1,
+  "barrel_pct": 10.3,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.328,
+  "xba": 0.234,
+  "k_pct": 26.6,
+  "bb_pct": 5.4,
+  "sprint_speed": 23.5,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 79,
+    "barrel_pct": 96,
+    "hard_hit_pct": 77,
+    "xwoba": 72,
+    "xba": 41,
+    "bb_pct": 20,
+    "sprint_speed": 0,
+    "k_pct": 27
+  }
+}

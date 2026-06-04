@@ -1,0 +1,26 @@
+{
+  "id": 669720,
+  "name": "Austin Hays",
+  "team": "CIN",
+  "pa": 279,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 7.0,
+  "hard_hit_pct": 38.4,
+  "xwoba": 0.3,
+  "xba": 0.234,
+  "k_pct": 25.5,
+  "bb_pct": 7.1,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 32,
+    "barrel_pct": 72,
+    "hard_hit_pct": 41,
+    "xwoba": 43,
+    "xba": 41,
+    "bb_pct": 41,
+    "sprint_speed": 52,
+    "k_pct": 35
+  }
+}

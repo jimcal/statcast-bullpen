@@ -1,0 +1,26 @@
+{
+  "id": 669289,
+  "name": "Santiago Espinal",
+  "team": "CIN",
+  "pa": 268,
+  "avg_exit_velo": 86.5,
+  "max_exit_velo": 107.4,
+  "barrel_pct": 0.6,
+  "hard_hit_pct": 25.7,
+  "xwoba": 0.254,
+  "xba": 0.229,
+  "k_pct": 11.6,
+  "bb_pct": 6.4,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 11,
+    "barrel_pct": 2,
+    "hard_hit_pct": 3,
+    "xwoba": 8,
+    "xba": 35,
+    "bb_pct": 32,
+    "sprint_speed": 41,
+    "k_pct": 97
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 683766,
+  "name": "Christian Koss",
+  "team": "SF",
+  "pa": 134,
+  "avg_exit_velo": 86.9,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 4.2,
+  "hard_hit_pct": 33.6,
+  "xwoba": 0.311,
+  "xba": 0.263,
+  "k_pct": 23.6,
+  "bb_pct": 4.7,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 17,
+    "max_exit_velo": 17,
+    "barrel_pct": 37,
+    "hard_hit_pct": 21,
+    "xwoba": 54,
+    "xba": 82,
+    "bb_pct": 11,
+    "sprint_speed": 91,
+    "k_pct": 48
+  }
+}

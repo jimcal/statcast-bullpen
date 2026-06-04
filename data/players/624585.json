@@ -1,0 +1,26 @@
+{
+  "id": 624585,
+  "name": "Jorge Soler",
+  "team": "LAA",
+  "pa": 188,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 112.7,
+  "barrel_pct": 7.6,
+  "hard_hit_pct": 42.0,
+  "xwoba": 0.294,
+  "xba": 0.204,
+  "k_pct": 29.8,
+  "bb_pct": 8.9,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 77,
+    "barrel_pct": 77,
+    "hard_hit_pct": 57,
+    "xwoba": 34,
+    "xba": 14,
+    "bb_pct": 62,
+    "sprint_speed": 14,
+    "k_pct": 13
+  }
+}

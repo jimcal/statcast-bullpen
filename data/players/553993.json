@@ -1,0 +1,26 @@
+{
+  "id": 553993,
+  "name": "Eugenio Su\u00e1rez",
+  "team": "SEA",
+  "pa": 399,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 113.8,
+  "barrel_pct": 8.7,
+  "hard_hit_pct": 47.6,
+  "xwoba": 0.32,
+  "xba": 0.211,
+  "k_pct": 30.2,
+  "bb_pct": 7.1,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 85,
+    "barrel_pct": 88,
+    "hard_hit_pct": 84,
+    "xwoba": 62,
+    "xba": 19,
+    "bb_pct": 41,
+    "sprint_speed": 23,
+    "k_pct": 12
+  }
+}

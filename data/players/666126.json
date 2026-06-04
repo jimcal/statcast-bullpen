@@ -1,0 +1,26 @@
+{
+  "id": 666126,
+  "name": "Carlos Cortes",
+  "team": "ATH",
+  "pa": 76,
+  "avg_exit_velo": 89.8,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 7.1,
+  "hard_hit_pct": 44.7,
+  "xwoba": 0.314,
+  "xba": 0.267,
+  "k_pct": 20.2,
+  "bb_pct": 3.0,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 61,
+    "max_exit_velo": 53,
+    "barrel_pct": 73,
+    "hard_hit_pct": 70,
+    "xwoba": 56,
+    "xba": 85,
+    "bb_pct": 2,
+    "sprint_speed": 26,
+    "k_pct": 66
+  }
+}

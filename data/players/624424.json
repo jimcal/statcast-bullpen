@@ -1,0 +1,26 @@
+{
+  "id": 624424,
+  "name": "Michael Conforto",
+  "team": "LAD",
+  "pa": 300,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 112.9,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 44.0,
+  "xwoba": 0.33,
+  "xba": 0.233,
+  "k_pct": 24.9,
+  "bb_pct": 11.5,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 78,
+    "barrel_pct": 59,
+    "hard_hit_pct": 66,
+    "xwoba": 75,
+    "xba": 40,
+    "bb_pct": 86,
+    "sprint_speed": 14,
+    "k_pct": 38
+  }
+}

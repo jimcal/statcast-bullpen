@@ -1,0 +1,26 @@
+{
+  "id": 695657,
+  "name": "Colson Montgomery",
+  "team": "CWS",
+  "pa": 173,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 114.5,
+  "barrel_pct": 8.8,
+  "hard_hit_pct": 44.5,
+  "xwoba": 0.341,
+  "xba": 0.23,
+  "k_pct": 29.2,
+  "bb_pct": 8.8,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 89,
+    "barrel_pct": 89,
+    "hard_hit_pct": 69,
+    "xwoba": 83,
+    "xba": 36,
+    "bb_pct": 60,
+    "sprint_speed": 45,
+    "k_pct": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 805779,
+  "name": "Jacob Wilson",
+  "team": "ATH",
+  "pa": 450,
+  "avg_exit_velo": 84.6,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 24.7,
+  "xwoba": 0.304,
+  "xba": 0.277,
+  "k_pct": 7.5,
+  "bb_pct": 5.2,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 3,
+    "max_exit_velo": 22,
+    "barrel_pct": 9,
+    "hard_hit_pct": 3,
+    "xwoba": 47,
+    "xba": 93,
+    "bb_pct": 18,
+    "sprint_speed": 36,
+    "k_pct": 100
+  }
+}

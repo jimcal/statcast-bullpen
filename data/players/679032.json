@@ -1,0 +1,26 @@
+{
+  "id": 679032,
+  "name": "Johan Rojas",
+  "team": "PHI",
+  "pa": 119,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 112.4,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 35.3,
+  "xwoba": 0.265,
+  "xba": 0.227,
+  "k_pct": 23.3,
+  "bb_pct": 7.6,
+  "sprint_speed": 30.1,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 74,
+    "barrel_pct": 13,
+    "hard_hit_pct": 27,
+    "xwoba": 13,
+    "xba": 34,
+    "bb_pct": 47,
+    "sprint_speed": 99,
+    "k_pct": 49
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 681351,
+  "name": "Logan O'Hoppe",
+  "team": "LAA",
+  "pa": 286,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 112.4,
+  "barrel_pct": 8.4,
+  "hard_hit_pct": 46.9,
+  "xwoba": 0.301,
+  "xba": 0.228,
+  "k_pct": 30.8,
+  "bb_pct": 5.3,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 74,
+    "barrel_pct": 86,
+    "hard_hit_pct": 80,
+    "xwoba": 44,
+    "xba": 34,
+    "bb_pct": 18,
+    "sprint_speed": 45,
+    "k_pct": 11
+  }
+}

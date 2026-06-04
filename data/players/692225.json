@@ -1,0 +1,26 @@
+{
+  "id": 692225,
+  "name": "Kristian Campbell",
+  "team": "BOS",
+  "pa": 158,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 3.0,
+  "hard_hit_pct": 41.8,
+  "xwoba": 0.296,
+  "xba": 0.221,
+  "k_pct": 27.4,
+  "bb_pct": 11.0,
+  "sprint_speed": 27.2,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 71,
+    "barrel_pct": 21,
+    "hard_hit_pct": 56,
+    "xwoba": 37,
+    "xba": 28,
+    "bb_pct": 81,
+    "sprint_speed": 43,
+    "k_pct": 23
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 666163,
+  "name": "Ben Rortvedt",
+  "team": "LAD",
+  "pa": 92,
+  "avg_exit_velo": 81.2,
+  "max_exit_velo": 103.9,
+  "barrel_pct": 2.3,
+  "hard_hit_pct": 19.6,
+  "xwoba": 0.24,
+  "xba": 0.185,
+  "k_pct": 18.8,
+  "bb_pct": 8.0,
+  "sprint_speed": 25.8,
+  "percentiles": {
+    "avg_exit_velo": 0,
+    "max_exit_velo": 1,
+    "barrel_pct": 13,
+    "hard_hit_pct": 1,
+    "xwoba": 4,
+    "xba": 5,
+    "bb_pct": 51,
+    "sprint_speed": 11,
+    "k_pct": 74
+  }
+}

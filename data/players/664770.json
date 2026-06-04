@@ -1,0 +1,26 @@
+{
+  "id": 664770,
+  "name": "Nathan Lukes",
+  "team": "TOR",
+  "pa": 338,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 107.7,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 37.0,
+  "xwoba": 0.315,
+  "xba": 0.259,
+  "k_pct": 13.8,
+  "bb_pct": 8.5,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 13,
+    "barrel_pct": 29,
+    "hard_hit_pct": 35,
+    "xwoba": 57,
+    "xba": 77,
+    "bb_pct": 56,
+    "sprint_speed": 45,
+    "k_pct": 93
+  }
+}

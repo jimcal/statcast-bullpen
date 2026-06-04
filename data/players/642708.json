@@ -1,0 +1,26 @@
+{
+  "id": 642708,
+  "name": "Amed Rosario",
+  "team": "NYY",
+  "pa": 151,
+  "avg_exit_velo": 91.2,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 4.7,
+  "hard_hit_pct": 45.0,
+  "xwoba": 0.331,
+  "xba": 0.288,
+  "k_pct": 15.9,
+  "bb_pct": 3.5,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 83,
+    "max_exit_velo": 55,
+    "barrel_pct": 43,
+    "hard_hit_pct": 71,
+    "xwoba": 76,
+    "xba": 97,
+    "bb_pct": 4,
+    "sprint_speed": 48,
+    "k_pct": 86
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 683737,
+  "name": "Michael Busch",
+  "team": "CHC",
+  "pa": 387,
+  "avg_exit_velo": 92.2,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 11.1,
+  "hard_hit_pct": 47.3,
+  "xwoba": 0.378,
+  "xba": 0.262,
+  "k_pct": 23.0,
+  "bb_pct": 9.5,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 92,
+    "max_exit_velo": 68,
+    "barrel_pct": 98,
+    "hard_hit_pct": 83,
+    "xwoba": 97,
+    "xba": 80,
+    "bb_pct": 69,
+    "sprint_speed": 24,
+    "k_pct": 51
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 645444,
+  "name": "Jose Herrera",
+  "team": "AZ",
+  "pa": 133,
+  "avg_exit_velo": 83.9,
+  "max_exit_velo": 106.1,
+  "barrel_pct": 0.5,
+  "hard_hit_pct": 22.6,
+  "xwoba": 0.237,
+  "xba": 0.169,
+  "k_pct": 23.0,
+  "bb_pct": 11.3,
+  "sprint_speed": 24.8,
+  "percentiles": {
+    "avg_exit_velo": 1,
+    "max_exit_velo": 5,
+    "barrel_pct": 2,
+    "hard_hit_pct": 2,
+    "xwoba": 4,
+    "xba": 2,
+    "bb_pct": 85,
+    "sprint_speed": 3,
+    "k_pct": 51
+  }
+}

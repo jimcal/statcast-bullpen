@@ -1,0 +1,26 @@
+{
+  "id": 807799,
+  "name": "Masataka Yoshida",
+  "team": "BOS",
+  "pa": 168,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 112.4,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 44.0,
+  "xwoba": 0.314,
+  "xba": 0.27,
+  "k_pct": 11.8,
+  "bb_pct": 4.7,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 74,
+    "barrel_pct": 50,
+    "hard_hit_pct": 66,
+    "xwoba": 56,
+    "xba": 88,
+    "bb_pct": 11,
+    "sprint_speed": 23,
+    "k_pct": 97
+  }
+}

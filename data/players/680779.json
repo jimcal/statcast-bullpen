@@ -1,0 +1,26 @@
+{
+  "id": 680779,
+  "name": "Henry Davis",
+  "team": "PIT",
+  "pa": 182,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 7.4,
+  "hard_hit_pct": 37.4,
+  "xwoba": 0.293,
+  "xba": 0.213,
+  "k_pct": 26.9,
+  "bb_pct": 6.4,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 64,
+    "barrel_pct": 75,
+    "hard_hit_pct": 37,
+    "xwoba": 33,
+    "xba": 20,
+    "bb_pct": 32,
+    "sprint_speed": 73,
+    "k_pct": 26
+  }
+}

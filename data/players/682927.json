@@ -1,0 +1,26 @@
+{
+  "id": 682927,
+  "name": "Ronny Simon",
+  "team": "PIT",
+  "pa": 65,
+  "avg_exit_velo": 88.4,
+  "max_exit_velo": 108.8,
+  "barrel_pct": 4.5,
+  "hard_hit_pct": 36.9,
+  "xwoba": 0.295,
+  "xba": 0.24,
+  "k_pct": 17.0,
+  "bb_pct": 9.1,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 39,
+    "max_exit_velo": 27,
+    "barrel_pct": 41,
+    "hard_hit_pct": 34,
+    "xwoba": 35,
+    "xba": 49,
+    "bb_pct": 65,
+    "sprint_speed": 85,
+    "k_pct": 83
+  }
+}

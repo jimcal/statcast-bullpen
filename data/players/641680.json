@@ -1,0 +1,26 @@
+{
+  "id": 641680,
+  "name": "Jonah Heim",
+  "team": "TEX",
+  "pa": 312,
+  "avg_exit_velo": 88.1,
+  "max_exit_velo": 109.6,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 35.9,
+  "xwoba": 0.276,
+  "xba": 0.219,
+  "k_pct": 20.3,
+  "bb_pct": 7.4,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 33,
+    "max_exit_velo": 36,
+    "barrel_pct": 38,
+    "hard_hit_pct": 30,
+    "xwoba": 21,
+    "xba": 26,
+    "bb_pct": 44,
+    "sprint_speed": 6,
+    "k_pct": 65
+  }
+}

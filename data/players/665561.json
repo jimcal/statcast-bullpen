@@ -1,0 +1,26 @@
+{
+  "id": 665561,
+  "name": "Rafael March\u00e1n",
+  "team": "PHI",
+  "pa": 90,
+  "avg_exit_velo": 85.6,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 1.7,
+  "hard_hit_pct": 22.2,
+  "xwoba": 0.261,
+  "xba": 0.213,
+  "k_pct": 14.4,
+  "bb_pct": 8.5,
+  "sprint_speed": 26.3,
+  "percentiles": {
+    "avg_exit_velo": 8,
+    "max_exit_velo": 17,
+    "barrel_pct": 8,
+    "hard_hit_pct": 2,
+    "xwoba": 11,
+    "xba": 20,
+    "bb_pct": 56,
+    "sprint_speed": 21,
+    "k_pct": 91
+  }
+}

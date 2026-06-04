@@ -1,0 +1,26 @@
+{
+  "id": 592206,
+  "name": "Nick Castellanos",
+  "team": "PHI",
+  "pa": 420,
+  "avg_exit_velo": 87.8,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 34.5,
+  "xwoba": 0.302,
+  "xba": 0.242,
+  "k_pct": 22.5,
+  "bb_pct": 5.3,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 29,
+    "max_exit_velo": 44,
+    "barrel_pct": 50,
+    "hard_hit_pct": 24,
+    "xwoba": 45,
+    "xba": 52,
+    "bb_pct": 18,
+    "sprint_speed": 56,
+    "k_pct": 53
+  }
+}

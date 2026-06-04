@@ -1,0 +1,26 @@
+{
+  "id": 671277,
+  "name": "Luis Garc\u00eda Jr.",
+  "team": "WSH",
+  "pa": 413,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 7.0,
+  "hard_hit_pct": 45.8,
+  "xwoba": 0.339,
+  "xba": 0.281,
+  "k_pct": 16.0,
+  "bb_pct": 5.1,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 65,
+    "barrel_pct": 72,
+    "hard_hit_pct": 75,
+    "xwoba": 83,
+    "xba": 95,
+    "bb_pct": 16,
+    "sprint_speed": 24,
+    "k_pct": 86
+  }
+}

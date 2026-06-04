@@ -1,0 +1,26 @@
+{
+  "id": 682829,
+  "name": "Elly De La Cruz",
+  "team": "CIN",
+  "pa": 449,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 117.4,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 44.2,
+  "xwoba": 0.322,
+  "xba": 0.251,
+  "k_pct": 26.2,
+  "bb_pct": 9.8,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 97,
+    "barrel_pct": 67,
+    "hard_hit_pct": 67,
+    "xwoba": 65,
+    "xba": 67,
+    "bb_pct": 72,
+    "sprint_speed": 91,
+    "k_pct": 31
+  }
+}

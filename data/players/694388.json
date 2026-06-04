@@ -1,0 +1,26 @@
+{
+  "id": 694388,
+  "name": "Joey Loperfido",
+  "team": "TOR",
+  "pa": 70,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 107.2,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 37.1,
+  "xwoba": 0.316,
+  "xba": 0.266,
+  "k_pct": 25.7,
+  "bb_pct": 3.8,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 9,
+    "barrel_pct": 31,
+    "hard_hit_pct": 35,
+    "xwoba": 59,
+    "xba": 83,
+    "bb_pct": 5,
+    "sprint_speed": 79,
+    "k_pct": 34
+  }
+}

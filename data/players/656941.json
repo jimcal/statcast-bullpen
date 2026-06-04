@@ -1,0 +1,26 @@
+{
+  "id": 656941,
+  "name": "Kyle Schwarber",
+  "team": "PHI",
+  "pa": 408,
+  "avg_exit_velo": 94.3,
+  "max_exit_velo": 117.2,
+  "barrel_pct": 11.7,
+  "hard_hit_pct": 59.6,
+  "xwoba": 0.401,
+  "xba": 0.249,
+  "k_pct": 27.6,
+  "bb_pct": 14.8,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 98,
+    "max_exit_velo": 97,
+    "barrel_pct": 99,
+    "hard_hit_pct": 100,
+    "xwoba": 99,
+    "xba": 65,
+    "bb_pct": 97,
+    "sprint_speed": 12,
+    "k_pct": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 621020,
+  "name": "Dansby Swanson",
+  "team": "CHC",
+  "pa": 428,
+  "avg_exit_velo": 90.5,
+  "max_exit_velo": 109.3,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 47.8,
+  "xwoba": 0.345,
+  "xba": 0.267,
+  "k_pct": 27.2,
+  "bb_pct": 7.4,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 72,
+    "max_exit_velo": 34,
+    "barrel_pct": 79,
+    "hard_hit_pct": 85,
+    "xwoba": 86,
+    "xba": 85,
+    "bb_pct": 44,
+    "sprint_speed": 79,
+    "k_pct": 24
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 669221,
+  "name": "Sean Murphy",
+  "team": "ATL",
+  "pa": 189,
+  "avg_exit_velo": 89.1,
+  "max_exit_velo": 114.4,
+  "barrel_pct": 7.4,
+  "hard_hit_pct": 43.1,
+  "xwoba": 0.314,
+  "xba": 0.201,
+  "k_pct": 31.2,
+  "bb_pct": 10.4,
+  "sprint_speed": 24.8,
+  "percentiles": {
+    "avg_exit_velo": 51,
+    "max_exit_velo": 89,
+    "barrel_pct": 75,
+    "hard_hit_pct": 63,
+    "xwoba": 56,
+    "xba": 12,
+    "bb_pct": 76,
+    "sprint_speed": 3,
+    "k_pct": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 680718,
+  "name": "Addison Barger",
+  "team": "TOR",
+  "pa": 341,
+  "avg_exit_velo": 91.7,
+  "max_exit_velo": 116.5,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 51.0,
+  "xwoba": 0.331,
+  "xba": 0.255,
+  "k_pct": 23.3,
+  "bb_pct": 7.7,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 89,
+    "max_exit_velo": 96,
+    "barrel_pct": 79,
+    "hard_hit_pct": 93,
+    "xwoba": 76,
+    "xba": 73,
+    "bb_pct": 48,
+    "sprint_speed": 56,
+    "k_pct": 49
+  }
+}

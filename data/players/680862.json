@@ -1,0 +1,26 @@
+{
+  "id": 680862,
+  "name": "Willie MacIver",
+  "team": "ATH",
+  "pa": 75,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 37.3,
+  "xwoba": 0.256,
+  "xba": 0.2,
+  "k_pct": 24.3,
+  "bb_pct": 6.3,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 25,
+    "barrel_pct": 18,
+    "hard_hit_pct": 36,
+    "xwoba": 9,
+    "xba": 11,
+    "bb_pct": 31,
+    "sprint_speed": 48,
+    "k_pct": 42
+  }
+}

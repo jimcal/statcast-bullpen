@@ -1,0 +1,26 @@
+{
+  "id": 628451,
+  "name": "Andy Ib\u00e1\u00f1ez",
+  "team": "DET",
+  "pa": 151,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 108.9,
+  "barrel_pct": 3.6,
+  "hard_hit_pct": 36.4,
+  "xwoba": 0.304,
+  "xba": 0.254,
+  "k_pct": 13.4,
+  "bb_pct": 6.2,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 28,
+    "barrel_pct": 28,
+    "hard_hit_pct": 32,
+    "xwoba": 47,
+    "xba": 72,
+    "bb_pct": 29,
+    "sprint_speed": 48,
+    "k_pct": 94
+  }
+}

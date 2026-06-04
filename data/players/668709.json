@@ -1,0 +1,26 @@
+{
+  "id": 668709,
+  "name": "JJ Bleday",
+  "team": "ATH",
+  "pa": 217,
+  "avg_exit_velo": 88.7,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.276,
+  "xba": 0.197,
+  "k_pct": 26.5,
+  "bb_pct": 10.5,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 43,
+    "max_exit_velo": 40,
+    "barrel_pct": 45,
+    "hard_hit_pct": 42,
+    "xwoba": 21,
+    "xba": 10,
+    "bb_pct": 77,
+    "sprint_speed": 41,
+    "k_pct": 28
+  }
+}

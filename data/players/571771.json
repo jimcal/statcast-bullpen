@@ -1,0 +1,26 @@
+{
+  "id": 571771,
+  "name": "Enrique Hern\u00e1ndez",
+  "team": "LAD",
+  "pa": 170,
+  "avg_exit_velo": 90.3,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 37.6,
+  "xwoba": 0.287,
+  "xba": 0.221,
+  "k_pct": 28.3,
+  "bb_pct": 6.8,
+  "sprint_speed": 26.9,
+  "percentiles": {
+    "avg_exit_velo": 70,
+    "max_exit_velo": 56,
+    "barrel_pct": 63,
+    "hard_hit_pct": 37,
+    "xwoba": 28,
+    "xba": 28,
+    "bb_pct": 37,
+    "sprint_speed": 34,
+    "k_pct": 18
+  }
+}

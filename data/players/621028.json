@@ -1,0 +1,26 @@
+{
+  "id": 621028,
+  "name": "Kevin Newman",
+  "team": "LAA",
+  "pa": 92,
+  "avg_exit_velo": 86.6,
+  "max_exit_velo": 105.5,
+  "barrel_pct": 1.7,
+  "hard_hit_pct": 29.3,
+  "xwoba": 0.218,
+  "xba": 0.211,
+  "k_pct": 19.8,
+  "bb_pct": 0.9,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 4,
+    "barrel_pct": 8,
+    "hard_hit_pct": 10,
+    "xwoba": 2,
+    "xba": 19,
+    "bb_pct": 0,
+    "sprint_speed": 36,
+    "k_pct": 67
+  }
+}

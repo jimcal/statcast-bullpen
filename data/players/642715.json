@@ -1,0 +1,26 @@
+{
+  "id": 642715,
+  "name": "Willy Adames",
+  "team": "SF",
+  "pa": 421,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 7.7,
+  "hard_hit_pct": 42.8,
+  "xwoba": 0.327,
+  "xba": 0.224,
+  "k_pct": 26.1,
+  "bb_pct": 11.7,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 44,
+    "barrel_pct": 78,
+    "hard_hit_pct": 61,
+    "xwoba": 71,
+    "xba": 30,
+    "bb_pct": 87,
+    "sprint_speed": 64,
+    "k_pct": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 575929,
+  "name": "Willson Contreras",
+  "team": "STL",
+  "pa": 353,
+  "avg_exit_velo": 90.6,
+  "max_exit_velo": 114.7,
+  "barrel_pct": 8.7,
+  "hard_hit_pct": 49.0,
+  "xwoba": 0.358,
+  "xba": 0.257,
+  "k_pct": 25.2,
+  "bb_pct": 7.8,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 73,
+    "max_exit_velo": 91,
+    "barrel_pct": 88,
+    "hard_hit_pct": 87,
+    "xwoba": 92,
+    "xba": 75,
+    "bb_pct": 49,
+    "sprint_speed": 48,
+    "k_pct": 36
+  }
+}

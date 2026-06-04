@@ -1,0 +1,26 @@
+{
+  "id": 623993,
+  "name": "Anthony Santander",
+  "team": "TOR",
+  "pa": 134,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 41.0,
+  "xwoba": 0.265,
+  "xba": 0.188,
+  "k_pct": 27.8,
+  "bb_pct": 11.0,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 48,
+    "barrel_pct": 18,
+    "hard_hit_pct": 53,
+    "xwoba": 13,
+    "xba": 6,
+    "bb_pct": 81,
+    "sprint_speed": 14,
+    "k_pct": 20
+  }
+}

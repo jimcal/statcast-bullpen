@@ -1,0 +1,26 @@
+{
+  "id": 642851,
+  "name": "Austin Wynns",
+  "team": "ATH",
+  "pa": 73,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 107.9,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 46.6,
+  "xwoba": 0.295,
+  "xba": 0.233,
+  "k_pct": 29.1,
+  "bb_pct": 4.5,
+  "sprint_speed": 24.4,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 15,
+    "barrel_pct": 65,
+    "hard_hit_pct": 78,
+    "xwoba": 35,
+    "xba": 40,
+    "bb_pct": 9,
+    "sprint_speed": 2,
+    "k_pct": 16
+  }
+}

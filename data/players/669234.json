@@ -1,0 +1,26 @@
+{
+  "id": 669234,
+  "name": "Justyn-Henry Malloy",
+  "team": "DET",
+  "pa": 74,
+  "avg_exit_velo": 86.9,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 31.1,
+  "xwoba": 0.295,
+  "xba": 0.201,
+  "k_pct": 25.8,
+  "bb_pct": 15.6,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 17,
+    "max_exit_velo": 65,
+    "barrel_pct": 14,
+    "hard_hit_pct": 15,
+    "xwoba": 35,
+    "xba": 12,
+    "bb_pct": 98,
+    "sprint_speed": 29,
+    "k_pct": 34
+  }
+}

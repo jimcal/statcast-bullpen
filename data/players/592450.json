@@ -1,0 +1,26 @@
+{
+  "id": 592450,
+  "name": "Aaron Judge",
+  "team": "NYY",
+  "pa": 388,
+  "avg_exit_velo": 95.4,
+  "max_exit_velo": 118.1,
+  "barrel_pct": 14.1,
+  "hard_hit_pct": 58.2,
+  "xwoba": 0.46,
+  "xba": 0.3,
+  "k_pct": 23.2,
+  "bb_pct": 18.0,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 100,
+    "max_exit_velo": 99,
+    "barrel_pct": 100,
+    "hard_hit_pct": 99,
+    "xwoba": 100,
+    "xba": 99,
+    "bb_pct": 99,
+    "sprint_speed": 41,
+    "k_pct": 50
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 694377,
+  "name": "Nick Yorke",
+  "team": "PIT",
+  "pa": 54,
+  "avg_exit_velo": 85.6,
+  "max_exit_velo": 113.0,
+  "barrel_pct": 1.4,
+  "hard_hit_pct": 38.9,
+  "xwoba": 0.257,
+  "xba": 0.234,
+  "k_pct": 20.8,
+  "bb_pct": 4.2,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 8,
+    "max_exit_velo": 79,
+    "barrel_pct": 6,
+    "hard_hit_pct": 44,
+    "xwoba": 9,
+    "xba": 41,
+    "bb_pct": 8,
+    "sprint_speed": 67,
+    "k_pct": 63
+  }
+}

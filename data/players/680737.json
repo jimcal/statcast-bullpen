@@ -1,0 +1,26 @@
+{
+  "id": 680737,
+  "name": "Michael Helman",
+  "team": "TEX",
+  "pa": 81,
+  "avg_exit_velo": 82.7,
+  "max_exit_velo": 106.6,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 24.7,
+  "xwoba": 0.254,
+  "xba": 0.184,
+  "k_pct": 19.1,
+  "bb_pct": 6.4,
+  "sprint_speed": 29.4,
+  "percentiles": {
+    "avg_exit_velo": 0,
+    "max_exit_velo": 7,
+    "barrel_pct": 65,
+    "hard_hit_pct": 3,
+    "xwoba": 8,
+    "xba": 5,
+    "bb_pct": 32,
+    "sprint_speed": 95,
+    "k_pct": 73
+  }
+}

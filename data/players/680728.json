@@ -1,0 +1,26 @@
+{
+  "id": 680728,
+  "name": "Adrian Del Castillo",
+  "team": "AZ",
+  "pa": 75,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 49.3,
+  "xwoba": 0.269,
+  "xba": 0.206,
+  "k_pct": 35.9,
+  "bb_pct": 6.1,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 25,
+    "barrel_pct": 31,
+    "hard_hit_pct": 88,
+    "xwoba": 16,
+    "xba": 15,
+    "bb_pct": 28,
+    "sprint_speed": 12,
+    "k_pct": 3
+  }
+}

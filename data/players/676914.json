@@ -1,0 +1,26 @@
+{
+  "id": 676914,
+  "name": "Davis Schneider",
+  "team": "TOR",
+  "pa": 129,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 108.3,
+  "barrel_pct": 7.9,
+  "hard_hit_pct": 41.1,
+  "xwoba": 0.323,
+  "xba": 0.188,
+  "k_pct": 27.5,
+  "bb_pct": 15.9,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 21,
+    "barrel_pct": 81,
+    "hard_hit_pct": 54,
+    "xwoba": 66,
+    "xba": 6,
+    "bb_pct": 98,
+    "sprint_speed": 52,
+    "k_pct": 22
+  }
+}

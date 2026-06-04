@@ -1,0 +1,26 @@
+{
+  "id": 668715,
+  "name": "Spencer Steer",
+  "team": "CIN",
+  "pa": 383,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 108.3,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 33.2,
+  "xwoba": 0.293,
+  "xba": 0.219,
+  "k_pct": 22.7,
+  "bb_pct": 8.8,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 21,
+    "barrel_pct": 47,
+    "hard_hit_pct": 21,
+    "xwoba": 33,
+    "xba": 26,
+    "bb_pct": 60,
+    "sprint_speed": 64,
+    "k_pct": 52
+  }
+}

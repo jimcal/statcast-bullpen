@@ -1,0 +1,26 @@
+{
+  "id": 681715,
+  "name": "Heriberto Hern\u00e1ndez",
+  "team": "MIA",
+  "pa": 183,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 112.8,
+  "barrel_pct": 6.8,
+  "hard_hit_pct": 45.4,
+  "xwoba": 0.334,
+  "xba": 0.245,
+  "k_pct": 26.2,
+  "bb_pct": 10.5,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 78,
+    "barrel_pct": 70,
+    "hard_hit_pct": 73,
+    "xwoba": 78,
+    "xba": 58,
+    "bb_pct": 77,
+    "sprint_speed": 84,
+    "k_pct": 31
+  }
+}

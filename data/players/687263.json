@@ -1,0 +1,26 @@
+{
+  "id": 687263,
+  "name": "Zach Neto",
+  "team": "LAA",
+  "pa": 358,
+  "avg_exit_velo": 91.0,
+  "max_exit_velo": 111.3,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 46.6,
+  "xwoba": 0.344,
+  "xba": 0.251,
+  "k_pct": 26.9,
+  "bb_pct": 6.0,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 80,
+    "max_exit_velo": 61,
+    "barrel_pct": 90,
+    "hard_hit_pct": 78,
+    "xwoba": 85,
+    "xba": 67,
+    "bb_pct": 27,
+    "sprint_speed": 67,
+    "k_pct": 26
+  }
+}

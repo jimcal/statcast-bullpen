@@ -1,0 +1,26 @@
+{
+  "id": 667670,
+  "name": "Brent Rooker",
+  "team": "ATH",
+  "pa": 473,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 113.3,
+  "barrel_pct": 9.3,
+  "hard_hit_pct": 44.8,
+  "xwoba": 0.351,
+  "xba": 0.261,
+  "k_pct": 22.2,
+  "bb_pct": 9.3,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 80,
+    "barrel_pct": 93,
+    "hard_hit_pct": 71,
+    "xwoba": 89,
+    "xba": 79,
+    "bb_pct": 66,
+    "sprint_speed": 48,
+    "k_pct": 55
+  }
+}

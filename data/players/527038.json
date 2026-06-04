@@ -1,0 +1,26 @@
+{
+  "id": 527038,
+  "name": "Wilmer Flores",
+  "team": "SF",
+  "pa": 334,
+  "avg_exit_velo": 85.9,
+  "max_exit_velo": 108.6,
+  "barrel_pct": 3.5,
+  "hard_hit_pct": 26.9,
+  "xwoba": 0.281,
+  "xba": 0.225,
+  "k_pct": 19.0,
+  "bb_pct": 7.3,
+  "sprint_speed": 24.5,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 24,
+    "barrel_pct": 27,
+    "hard_hit_pct": 5,
+    "xwoba": 24,
+    "xba": 32,
+    "bb_pct": 43,
+    "sprint_speed": 2,
+    "k_pct": 73
+  }
+}

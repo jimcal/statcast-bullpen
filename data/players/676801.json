@@ -1,0 +1,26 @@
+{
+  "id": 676801,
+  "name": "Chas McCormick",
+  "team": "HOU",
+  "pa": 75,
+  "avg_exit_velo": 85.8,
+  "max_exit_velo": 106.4,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 29.3,
+  "xwoba": 0.299,
+  "xba": 0.228,
+  "k_pct": 26.7,
+  "bb_pct": 7.8,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 6,
+    "barrel_pct": 25,
+    "hard_hit_pct": 10,
+    "xwoba": 41,
+    "xba": 34,
+    "bb_pct": 49,
+    "sprint_speed": 23,
+    "k_pct": 27
+  }
+}

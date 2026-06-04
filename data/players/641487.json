@@ -1,0 +1,26 @@
+{
+  "id": 641487,
+  "name": "J.P. Crawford",
+  "team": "SEA",
+  "pa": 455,
+  "avg_exit_velo": 87.2,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 34.7,
+  "xwoba": 0.329,
+  "xba": 0.266,
+  "k_pct": 18.4,
+  "bb_pct": 11.1,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 20,
+    "max_exit_velo": 43,
+    "barrel_pct": 25,
+    "hard_hit_pct": 25,
+    "xwoba": 74,
+    "xba": 83,
+    "bb_pct": 83,
+    "sprint_speed": 29,
+    "k_pct": 76
+  }
+}

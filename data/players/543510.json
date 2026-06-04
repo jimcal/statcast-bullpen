@@ -1,0 +1,26 @@
+{
+  "id": 543510,
+  "name": "James McCann",
+  "team": "AZ",
+  "pa": 92,
+  "avg_exit_velo": 92.3,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 52.2,
+  "xwoba": 0.313,
+  "xba": 0.239,
+  "k_pct": 24.1,
+  "bb_pct": 5.8,
+  "sprint_speed": 26.4,
+  "percentiles": {
+    "avg_exit_velo": 93,
+    "max_exit_velo": 46,
+    "barrel_pct": 47,
+    "hard_hit_pct": 95,
+    "xwoba": 55,
+    "xba": 48,
+    "bb_pct": 24,
+    "sprint_speed": 23,
+    "k_pct": 43
+  }
+}

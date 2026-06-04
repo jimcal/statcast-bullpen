@@ -1,0 +1,26 @@
+{
+  "id": 657656,
+  "name": "Ram\u00f3n Laureano",
+  "team": "SD",
+  "pa": 326,
+  "avg_exit_velo": 90.3,
+  "max_exit_velo": 112.7,
+  "barrel_pct": 9.2,
+  "hard_hit_pct": 49.1,
+  "xwoba": 0.362,
+  "xba": 0.27,
+  "k_pct": 24.4,
+  "bb_pct": 7.2,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 70,
+    "max_exit_velo": 77,
+    "barrel_pct": 92,
+    "hard_hit_pct": 88,
+    "xwoba": 93,
+    "xba": 88,
+    "bb_pct": 43,
+    "sprint_speed": 58,
+    "k_pct": 41
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 593871,
+  "name": "Jorge Polanco",
+  "team": "SEA",
+  "pa": 397,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 45.8,
+  "xwoba": 0.343,
+  "xba": 0.266,
+  "k_pct": 16.3,
+  "bb_pct": 8.0,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 68,
+    "barrel_pct": 79,
+    "hard_hit_pct": 75,
+    "xwoba": 85,
+    "xba": 83,
+    "bb_pct": 51,
+    "sprint_speed": 41,
+    "k_pct": 85
+  }
+}

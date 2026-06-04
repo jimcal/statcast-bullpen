@@ -1,0 +1,26 @@
+{
+  "id": 808975,
+  "name": "Hyeseong Kim",
+  "team": "LAD",
+  "pa": 110,
+  "avg_exit_velo": 86.0,
+  "max_exit_velo": 105.4,
+  "barrel_pct": 1.8,
+  "hard_hit_pct": 28.2,
+  "xwoba": 0.251,
+  "xba": 0.221,
+  "k_pct": 30.6,
+  "bb_pct": 4.1,
+  "sprint_speed": 28.7,
+  "percentiles": {
+    "avg_exit_velo": 10,
+    "max_exit_velo": 4,
+    "barrel_pct": 9,
+    "hard_hit_pct": 8,
+    "xwoba": 7,
+    "xba": 28,
+    "bb_pct": 7,
+    "sprint_speed": 84,
+    "k_pct": 12
+  }
+}

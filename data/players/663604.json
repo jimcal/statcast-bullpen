@@ -1,0 +1,26 @@
+{
+  "id": 663604,
+  "name": "Brandon Lockridge",
+  "team": "MIL",
+  "pa": 103,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 2.0,
+  "hard_hit_pct": 32.0,
+  "xwoba": 0.267,
+  "xba": 0.233,
+  "k_pct": 24.7,
+  "bb_pct": 5.3,
+  "sprint_speed": 30.1,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 17,
+    "barrel_pct": 11,
+    "hard_hit_pct": 17,
+    "xwoba": 15,
+    "xba": 40,
+    "bb_pct": 18,
+    "sprint_speed": 99,
+    "k_pct": 40
+  }
+}

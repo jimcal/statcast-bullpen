@@ -1,0 +1,26 @@
+{
+  "id": 600869,
+  "name": "Jeimer Candelario",
+  "team": "CIN",
+  "pa": 53,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 107.5,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 28.3,
+  "xwoba": 0.213,
+  "xba": 0.126,
+  "k_pct": 31.9,
+  "bb_pct": 9.9,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 12,
+    "barrel_pct": 38,
+    "hard_hit_pct": 8,
+    "xwoba": 1,
+    "xba": 0,
+    "bb_pct": 73,
+    "sprint_speed": 29,
+    "k_pct": 9
+  }
+}

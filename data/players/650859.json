@@ -1,0 +1,26 @@
+{
+  "id": 650859,
+  "name": "Luis Rengifo",
+  "team": "LAA",
+  "pa": 401,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 3.7,
+  "hard_hit_pct": 32.7,
+  "xwoba": 0.302,
+  "xba": 0.26,
+  "k_pct": 19.2,
+  "bb_pct": 6.1,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 32,
+    "barrel_pct": 29,
+    "hard_hit_pct": 19,
+    "xwoba": 45,
+    "xba": 79,
+    "bb_pct": 28,
+    "sprint_speed": 36,
+    "k_pct": 72
+  }
+}

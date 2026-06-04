@@ -1,0 +1,26 @@
+{
+  "id": 642731,
+  "name": "Thairo Estrada",
+  "team": "COL",
+  "pa": 131,
+  "avg_exit_velo": 86.3,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 30.5,
+  "xwoba": 0.264,
+  "xba": 0.233,
+  "k_pct": 15.8,
+  "bb_pct": 3.6,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 13,
+    "max_exit_velo": 53,
+    "barrel_pct": 14,
+    "hard_hit_pct": 12,
+    "xwoba": 13,
+    "xba": 40,
+    "bb_pct": 5,
+    "sprint_speed": 58,
+    "k_pct": 87
+  }
+}

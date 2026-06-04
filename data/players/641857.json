@@ -1,0 +1,26 @@
+{
+  "id": 641857,
+  "name": "Ryan McMahon",
+  "team": "NYY",
+  "pa": 323,
+  "avg_exit_velo": 93.3,
+  "max_exit_velo": 113.6,
+  "barrel_pct": 6.7,
+  "hard_hit_pct": 50.5,
+  "xwoba": 0.322,
+  "xba": 0.219,
+  "k_pct": 31.8,
+  "bb_pct": 11.8,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 96,
+    "max_exit_velo": 82,
+    "barrel_pct": 69,
+    "hard_hit_pct": 92,
+    "xwoba": 65,
+    "xba": 26,
+    "bb_pct": 88,
+    "sprint_speed": 29,
+    "k_pct": 9
+  }
+}

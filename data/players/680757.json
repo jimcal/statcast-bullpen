@@ -1,0 +1,26 @@
+{
+  "id": 680757,
+  "name": "Steven Kwan",
+  "team": "CLE",
+  "pa": 575,
+  "avg_exit_velo": 86.2,
+  "max_exit_velo": 104.2,
+  "barrel_pct": 1.6,
+  "hard_hit_pct": 19.3,
+  "xwoba": 0.31,
+  "xba": 0.273,
+  "k_pct": 8.5,
+  "bb_pct": 7.8,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 12,
+    "max_exit_velo": 1,
+    "barrel_pct": 7,
+    "hard_hit_pct": 1,
+    "xwoba": 52,
+    "xba": 90,
+    "bb_pct": 49,
+    "sprint_speed": 45,
+    "k_pct": 99
+  }
+}

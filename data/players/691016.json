@@ -1,0 +1,26 @@
+{
+  "id": 691016,
+  "name": "Tyler Soderstrom",
+  "team": "ATH",
+  "pa": 422,
+  "avg_exit_velo": 91.6,
+  "max_exit_velo": 114.0,
+  "barrel_pct": 7.7,
+  "hard_hit_pct": 49.8,
+  "xwoba": 0.341,
+  "xba": 0.261,
+  "k_pct": 22.6,
+  "bb_pct": 8.8,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 88,
+    "max_exit_velo": 86,
+    "barrel_pct": 78,
+    "hard_hit_pct": 90,
+    "xwoba": 83,
+    "xba": 79,
+    "bb_pct": 60,
+    "sprint_speed": 47,
+    "k_pct": 52
+  }
+}

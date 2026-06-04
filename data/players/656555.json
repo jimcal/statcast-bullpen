@@ -1,0 +1,26 @@
+{
+  "id": 656555,
+  "name": "Rhys Hoskins",
+  "team": "MIL",
+  "pa": 194,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.314,
+  "xba": 0.22,
+  "k_pct": 27.7,
+  "bb_pct": 11.6,
+  "sprint_speed": 24.8,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 57,
+    "barrel_pct": 60,
+    "hard_hit_pct": 77,
+    "xwoba": 56,
+    "xba": 27,
+    "bb_pct": 87,
+    "sprint_speed": 3,
+    "k_pct": 20
+  }
+}

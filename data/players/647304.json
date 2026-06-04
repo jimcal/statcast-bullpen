@@ -1,0 +1,26 @@
+{
+  "id": 647304,
+  "name": "Josh Naylor",
+  "team": "SEA",
+  "pa": 465,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 117.9,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 41.9,
+  "xwoba": 0.335,
+  "xba": 0.271,
+  "k_pct": 13.6,
+  "bb_pct": 7.9,
+  "sprint_speed": 24.4,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 98,
+    "barrel_pct": 47,
+    "hard_hit_pct": 56,
+    "xwoba": 79,
+    "xba": 89,
+    "bb_pct": 50,
+    "sprint_speed": 2,
+    "k_pct": 94
+  }
+}

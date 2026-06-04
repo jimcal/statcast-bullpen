@@ -1,0 +1,26 @@
+{
+  "id": 521692,
+  "name": "Salvador Perez",
+  "team": "KC",
+  "pa": 473,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 114.8,
+  "barrel_pct": 10.9,
+  "hard_hit_pct": 46.7,
+  "xwoba": 0.357,
+  "xba": 0.269,
+  "k_pct": 19.5,
+  "bb_pct": 4.4,
+  "sprint_speed": 24.4,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 91,
+    "barrel_pct": 98,
+    "hard_hit_pct": 79,
+    "xwoba": 92,
+    "xba": 86,
+    "bb_pct": 9,
+    "sprint_speed": 2,
+    "k_pct": 69
+  }
+}

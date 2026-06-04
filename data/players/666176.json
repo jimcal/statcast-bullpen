@@ -1,0 +1,26 @@
+{
+  "id": 666176,
+  "name": "Jo Adell",
+  "team": "LAA",
+  "pa": 376,
+  "avg_exit_velo": 91.7,
+  "max_exit_velo": 115.7,
+  "barrel_pct": 11.3,
+  "hard_hit_pct": 50.0,
+  "xwoba": 0.365,
+  "xba": 0.26,
+  "k_pct": 26.4,
+  "bb_pct": 5.8,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 89,
+    "max_exit_velo": 94,
+    "barrel_pct": 98,
+    "hard_hit_pct": 91,
+    "xwoba": 94,
+    "xba": 79,
+    "bb_pct": 24,
+    "sprint_speed": 62,
+    "k_pct": 29
+  }
+}

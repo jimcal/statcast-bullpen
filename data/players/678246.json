@@ -1,0 +1,26 @@
+{
+  "id": 678246,
+  "name": "Miguel Vargas",
+  "team": "CWS",
+  "pa": 407,
+  "avg_exit_velo": 89.7,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 6.7,
+  "hard_hit_pct": 40.5,
+  "xwoba": 0.319,
+  "xba": 0.237,
+  "k_pct": 17.6,
+  "bb_pct": 9.8,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 59,
+    "max_exit_velo": 53,
+    "barrel_pct": 69,
+    "hard_hit_pct": 50,
+    "xwoba": 61,
+    "xba": 45,
+    "bb_pct": 72,
+    "sprint_speed": 48,
+    "k_pct": 79
+  }
+}

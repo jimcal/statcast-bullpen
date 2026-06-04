@@ -1,0 +1,26 @@
+{
+  "id": 668942,
+  "name": "Josh Rojas",
+  "team": "CWS",
+  "pa": 144,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 107.8,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 36.8,
+  "xwoba": 0.263,
+  "xba": 0.209,
+  "k_pct": 22.7,
+  "bb_pct": 9.0,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 14,
+    "barrel_pct": 14,
+    "hard_hit_pct": 33,
+    "xwoba": 12,
+    "xba": 17,
+    "bb_pct": 64,
+    "sprint_speed": 19,
+    "k_pct": 52
+  }
+}

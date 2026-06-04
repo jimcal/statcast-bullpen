@@ -1,0 +1,26 @@
+{
+  "id": 663743,
+  "name": "Nick Fortes",
+  "team": "TB",
+  "pa": 174,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 111.3,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 37.9,
+  "xwoba": 0.27,
+  "xba": 0.215,
+  "k_pct": 19.4,
+  "bb_pct": 5.8,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 61,
+    "barrel_pct": 24,
+    "hard_hit_pct": 38,
+    "xwoba": 17,
+    "xba": 23,
+    "bb_pct": 24,
+    "sprint_speed": 32,
+    "k_pct": 70
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 608369,
+  "name": "Corey Seager",
+  "team": "TEX",
+  "pa": 295,
+  "avg_exit_velo": 92.9,
+  "max_exit_velo": 112.4,
+  "barrel_pct": 10.1,
+  "hard_hit_pct": 53.6,
+  "xwoba": 0.4,
+  "xba": 0.285,
+  "k_pct": 19.6,
+  "bb_pct": 13.0,
+  "sprint_speed": 25.3,
+  "percentiles": {
+    "avg_exit_velo": 95,
+    "max_exit_velo": 74,
+    "barrel_pct": 95,
+    "hard_hit_pct": 96,
+    "xwoba": 99,
+    "xba": 96,
+    "bb_pct": 93,
+    "sprint_speed": 7,
+    "k_pct": 68
+  }
+}

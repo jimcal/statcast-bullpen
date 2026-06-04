@@ -1,0 +1,26 @@
+{
+  "id": 667472,
+  "name": "Dane Myers",
+  "team": "MIA",
+  "pa": 231,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 42.0,
+  "xwoba": 0.304,
+  "xba": 0.247,
+  "k_pct": 23.1,
+  "bb_pct": 6.9,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 17,
+    "barrel_pct": 50,
+    "hard_hit_pct": 57,
+    "xwoba": 47,
+    "xba": 62,
+    "bb_pct": 38,
+    "sprint_speed": 76,
+    "k_pct": 50
+  }
+}

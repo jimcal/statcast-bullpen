@@ -1,0 +1,26 @@
+{
+  "id": 570482,
+  "name": "Gio Urshela",
+  "team": "ATH",
+  "pa": 144,
+  "avg_exit_velo": 86.9,
+  "max_exit_velo": 107.7,
+  "barrel_pct": 1.5,
+  "hard_hit_pct": 34.0,
+  "xwoba": 0.286,
+  "xba": 0.251,
+  "k_pct": 20.3,
+  "bb_pct": 6.6,
+  "sprint_speed": 24.2,
+  "percentiles": {
+    "avg_exit_velo": 17,
+    "max_exit_velo": 13,
+    "barrel_pct": 6,
+    "hard_hit_pct": 22,
+    "xwoba": 27,
+    "xba": 67,
+    "bb_pct": 34,
+    "sprint_speed": 1,
+    "k_pct": 65
+  }
+}

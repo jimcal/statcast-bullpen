@@ -1,0 +1,26 @@
+{
+  "id": 553869,
+  "name": "Elias D\u00edaz",
+  "team": "SD",
+  "pa": 186,
+  "avg_exit_velo": 88.4,
+  "max_exit_velo": 111.4,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.267,
+  "xba": 0.202,
+  "k_pct": 26.1,
+  "bb_pct": 7.4,
+  "sprint_speed": 25.0,
+  "percentiles": {
+    "avg_exit_velo": 39,
+    "max_exit_velo": 62,
+    "barrel_pct": 45,
+    "hard_hit_pct": 42,
+    "xwoba": 15,
+    "xba": 13,
+    "bb_pct": 44,
+    "sprint_speed": 5,
+    "k_pct": 31
+  }
+}

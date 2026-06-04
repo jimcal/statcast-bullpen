@@ -1,0 +1,26 @@
+{
+  "id": 802415,
+  "name": "Chandler Simpson",
+  "team": "TB",
+  "pa": 376,
+  "avg_exit_velo": 84.3,
+  "max_exit_velo": 107.6,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 17.3,
+  "xwoba": 0.297,
+  "xba": 0.295,
+  "k_pct": 9.8,
+  "bb_pct": 4.5,
+  "sprint_speed": 29.6,
+  "percentiles": {
+    "avg_exit_velo": 1,
+    "max_exit_velo": 13,
+    "barrel_pct": 0,
+    "hard_hit_pct": 0,
+    "xwoba": 38,
+    "xba": 99,
+    "bb_pct": 9,
+    "sprint_speed": 97,
+    "k_pct": 99
+  }
+}

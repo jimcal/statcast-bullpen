@@ -1,0 +1,26 @@
+{
+  "id": 680577,
+  "name": "DaShawn Keirsey Jr.",
+  "team": "MIN",
+  "pa": 52,
+  "avg_exit_velo": 87.5,
+  "max_exit_velo": 109.0,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 34.6,
+  "xwoba": 0.173,
+  "xba": 0.144,
+  "k_pct": 37.5,
+  "bb_pct": 2.3,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 24,
+    "max_exit_velo": 29,
+    "barrel_pct": 25,
+    "hard_hit_pct": 24,
+    "xwoba": 0,
+    "xba": 0,
+    "bb_pct": 1,
+    "sprint_speed": 79,
+    "k_pct": 2
+  }
+}

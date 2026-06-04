@@ -1,0 +1,26 @@
+{
+  "id": 670764,
+  "name": "Taylor Walls",
+  "team": "TB",
+  "pa": 221,
+  "avg_exit_velo": 87.0,
+  "max_exit_velo": 104.5,
+  "barrel_pct": 2.2,
+  "hard_hit_pct": 26.4,
+  "xwoba": 0.261,
+  "xba": 0.21,
+  "k_pct": 22.1,
+  "bb_pct": 8.2,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 18,
+    "max_exit_velo": 3,
+    "barrel_pct": 12,
+    "hard_hit_pct": 5,
+    "xwoba": 11,
+    "xba": 18,
+    "bb_pct": 53,
+    "sprint_speed": 70,
+    "k_pct": 57
+  }
+}

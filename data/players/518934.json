@@ -1,0 +1,26 @@
+{
+  "id": 518934,
+  "name": "DJ LeMahieu",
+  "team": "NYY",
+  "pa": 93,
+  "avg_exit_velo": 91.7,
+  "max_exit_velo": 107.9,
+  "barrel_pct": 2.8,
+  "hard_hit_pct": 51.6,
+  "xwoba": 0.295,
+  "xba": 0.245,
+  "k_pct": 24.6,
+  "bb_pct": 9.9,
+  "sprint_speed": 25.6,
+  "percentiles": {
+    "avg_exit_velo": 89,
+    "max_exit_velo": 15,
+    "barrel_pct": 19,
+    "hard_hit_pct": 94,
+    "xwoba": 35,
+    "xba": 58,
+    "bb_pct": 73,
+    "sprint_speed": 9,
+    "k_pct": 40
+  }
+}

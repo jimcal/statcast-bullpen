@@ -1,0 +1,26 @@
+{
+  "id": 643376,
+  "name": "Danny Jansen",
+  "team": "MIL",
+  "pa": 205,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 107.4,
+  "barrel_pct": 5.3,
+  "hard_hit_pct": 39.0,
+  "xwoba": 0.299,
+  "xba": 0.199,
+  "k_pct": 25.5,
+  "bb_pct": 12.5,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 11,
+    "barrel_pct": 49,
+    "hard_hit_pct": 44,
+    "xwoba": 41,
+    "xba": 11,
+    "bb_pct": 91,
+    "sprint_speed": 17,
+    "k_pct": 35
+  }
+}

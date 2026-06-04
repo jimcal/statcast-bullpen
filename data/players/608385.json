@@ -1,0 +1,26 @@
+{
+  "id": 608385,
+  "name": "Jesse Winker",
+  "team": "NYM",
+  "pa": 51,
+  "avg_exit_velo": 89.5,
+  "max_exit_velo": 109.3,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 45.1,
+  "xwoba": 0.277,
+  "xba": 0.204,
+  "k_pct": 25.9,
+  "bb_pct": 11.1,
+  "sprint_speed": 25.8,
+  "percentiles": {
+    "avg_exit_velo": 56,
+    "max_exit_velo": 34,
+    "barrel_pct": 45,
+    "hard_hit_pct": 72,
+    "xwoba": 22,
+    "xba": 14,
+    "bb_pct": 83,
+    "sprint_speed": 11,
+    "k_pct": 33
+  }
+}

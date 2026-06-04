@@ -1,0 +1,26 @@
+{
+  "id": 663538,
+  "name": "Nico Hoerner",
+  "team": "CHC",
+  "pa": 554,
+  "avg_exit_velo": 86.7,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 2.0,
+  "hard_hit_pct": 30.3,
+  "xwoba": 0.322,
+  "xba": 0.292,
+  "k_pct": 7.5,
+  "bb_pct": 5.7,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 16,
+    "max_exit_velo": 17,
+    "barrel_pct": 11,
+    "hard_hit_pct": 12,
+    "xwoba": 65,
+    "xba": 99,
+    "bb_pct": 23,
+    "sprint_speed": 82,
+    "k_pct": 100
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 676059,
+  "name": "Jordan Westburg",
+  "team": "BAL",
+  "pa": 249,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 111.8,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 43.4,
+  "xwoba": 0.327,
+  "xba": 0.253,
+  "k_pct": 22.7,
+  "bb_pct": 4.8,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 67,
+    "barrel_pct": 82,
+    "hard_hit_pct": 64,
+    "xwoba": 71,
+    "xba": 71,
+    "bb_pct": 13,
+    "sprint_speed": 89,
+    "k_pct": 52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 606115,
+  "name": "Orlando Arcia",
+  "team": "COL",
+  "pa": 157,
+  "avg_exit_velo": 87.4,
+  "max_exit_velo": 108.0,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 33.8,
+  "xwoba": 0.236,
+  "xba": 0.207,
+  "k_pct": 22.0,
+  "bb_pct": 4.7,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 23,
+    "max_exit_velo": 16,
+    "barrel_pct": 9,
+    "hard_hit_pct": 22,
+    "xwoba": 3,
+    "xba": 16,
+    "bb_pct": 11,
+    "sprint_speed": 8,
+    "k_pct": 57
+  }
+}

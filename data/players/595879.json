@@ -1,0 +1,26 @@
+{
+  "id": 595879,
+  "name": "Javier B\u00e1ez",
+  "team": "DET",
+  "pa": 311,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 110.0,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 39.9,
+  "xwoba": 0.27,
+  "xba": 0.23,
+  "k_pct": 23.8,
+  "bb_pct": 2.3,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 42,
+    "barrel_pct": 33,
+    "hard_hit_pct": 47,
+    "xwoba": 17,
+    "xba": 36,
+    "bb_pct": 1,
+    "sprint_speed": 48,
+    "k_pct": 46
+  }
+}

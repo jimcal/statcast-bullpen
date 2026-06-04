@@ -1,0 +1,26 @@
+{
+  "id": 519317,
+  "name": "Giancarlo Stanton",
+  "team": "NYY",
+  "pa": 154,
+  "avg_exit_velo": 94.4,
+  "max_exit_velo": 118.0,
+  "barrel_pct": 12.1,
+  "hard_hit_pct": 55.2,
+  "xwoba": 0.354,
+  "xba": 0.235,
+  "k_pct": 32.8,
+  "bb_pct": 10.3,
+  "sprint_speed": 23.5,
+  "percentiles": {
+    "avg_exit_velo": 99,
+    "max_exit_velo": 99,
+    "barrel_pct": 99,
+    "hard_hit_pct": 98,
+    "xwoba": 90,
+    "xba": 43,
+    "bb_pct": 76,
+    "sprint_speed": 0,
+    "k_pct": 6
+  }
+}

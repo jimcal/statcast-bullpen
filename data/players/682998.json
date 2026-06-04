@@ -1,0 +1,26 @@
+{
+  "id": 682998,
+  "name": "Corbin Carroll",
+  "team": "AZ",
+  "pa": 415,
+  "avg_exit_velo": 92.1,
+  "max_exit_velo": 115.8,
+  "barrel_pct": 9.3,
+  "hard_hit_pct": 49.9,
+  "xwoba": 0.372,
+  "xba": 0.262,
+  "k_pct": 23.8,
+  "bb_pct": 10.4,
+  "sprint_speed": 29.8,
+  "percentiles": {
+    "avg_exit_velo": 92,
+    "max_exit_velo": 94,
+    "barrel_pct": 93,
+    "hard_hit_pct": 91,
+    "xwoba": 95,
+    "xba": 80,
+    "bb_pct": 76,
+    "sprint_speed": 98,
+    "k_pct": 46
+  }
+}

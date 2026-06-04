@@ -1,0 +1,26 @@
+{
+  "id": 678009,
+  "name": "Parker Meadows",
+  "team": "DET",
+  "pa": 136,
+  "avg_exit_velo": 86.9,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 30.9,
+  "xwoba": 0.291,
+  "xba": 0.225,
+  "k_pct": 26.9,
+  "bb_pct": 9.0,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 17,
+    "max_exit_velo": 32,
+    "barrel_pct": 24,
+    "hard_hit_pct": 14,
+    "xwoba": 32,
+    "xba": 32,
+    "bb_pct": 64,
+    "sprint_speed": 89,
+    "k_pct": 26
+  }
+}

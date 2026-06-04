@@ -1,0 +1,26 @@
+{
+  "id": 545121,
+  "name": "Ildemaro Vargas",
+  "team": "AZ",
+  "pa": 102,
+  "avg_exit_velo": 89.2,
+  "max_exit_velo": 111.9,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 37.3,
+  "xwoba": 0.287,
+  "xba": 0.262,
+  "k_pct": 12.4,
+  "bb_pct": 1.7,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 52,
+    "max_exit_velo": 68,
+    "barrel_pct": 24,
+    "hard_hit_pct": 36,
+    "xwoba": 28,
+    "xba": 80,
+    "bb_pct": 0,
+    "sprint_speed": 47,
+    "k_pct": 95
+  }
+}

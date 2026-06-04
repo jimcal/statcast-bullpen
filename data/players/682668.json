@@ -1,0 +1,26 @@
+{
+  "id": 682668,
+  "name": "Luisangel Acu\u00f1a",
+  "team": "NYM",
+  "pa": 141,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 1.0,
+  "hard_hit_pct": 35.5,
+  "xwoba": 0.271,
+  "xba": 0.235,
+  "k_pct": 19.2,
+  "bb_pct": 6.7,
+  "sprint_speed": 29.6,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 46,
+    "barrel_pct": 3,
+    "hard_hit_pct": 28,
+    "xwoba": 18,
+    "xba": 43,
+    "bb_pct": 35,
+    "sprint_speed": 97,
+    "k_pct": 72
+  }
+}

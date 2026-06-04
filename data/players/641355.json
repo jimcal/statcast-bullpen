@@ -1,0 +1,26 @@
+{
+  "id": 641355,
+  "name": "Cody Bellinger",
+  "team": "NYY",
+  "pa": 507,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.2,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 37.9,
+  "xwoba": 0.323,
+  "xba": 0.25,
+  "k_pct": 13.8,
+  "bb_pct": 8.6,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 44,
+    "barrel_pct": 56,
+    "hard_hit_pct": 38,
+    "xwoba": 66,
+    "xba": 66,
+    "bb_pct": 58,
+    "sprint_speed": 70,
+    "k_pct": 93
+  }
+}

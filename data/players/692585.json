@@ -1,0 +1,26 @@
+{
+  "id": 692585,
+  "name": "Yanquiel Fern\u00e1ndez",
+  "team": "COL",
+  "pa": 95,
+  "avg_exit_velo": 88.6,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 5.4,
+  "hard_hit_pct": 36.8,
+  "xwoba": 0.243,
+  "xba": 0.19,
+  "k_pct": 29.9,
+  "bb_pct": 5.4,
+  "sprint_speed": 25.5,
+  "percentiles": {
+    "avg_exit_velo": 41,
+    "max_exit_velo": 46,
+    "barrel_pct": 50,
+    "hard_hit_pct": 33,
+    "xwoba": 5,
+    "xba": 7,
+    "bb_pct": 20,
+    "sprint_speed": 8,
+    "k_pct": 13
+  }
+}

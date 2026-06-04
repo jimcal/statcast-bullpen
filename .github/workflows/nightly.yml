@@ -1,0 +1,41 @@
+name: nightly
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # ~3-4am PT; after all games have settled
+  workflow_dispatch: {}     # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  data-pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: astral-sh/setup-uv@v3
+
+      - name: Run pipeline
+        run: cd pipeline && uv run pull.py
+
+      - name: Commit data
+        run: |
+          git config user.email "bot@rates-barrels"
+          git config user.name "nightly-bot"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: nightly data $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy:
+    needs: data-pull
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: withastro/action@v2
+        with:
+          path: site
+      # Cloudflare Pages deploy via CF Pages GitHub integration handles this automatically.
+      # No additional step needed — Pages watches the repo.

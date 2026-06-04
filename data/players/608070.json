@@ -1,0 +1,26 @@
+{
+  "id": 608070,
+  "name": "Jos\u00e9 Ram\u00edrez",
+  "team": "CLE",
+  "pa": 525,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 5.5,
+  "hard_hit_pct": 37.0,
+  "xwoba": 0.342,
+  "xba": 0.284,
+  "k_pct": 11.1,
+  "bb_pct": 10.2,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 64,
+    "barrel_pct": 52,
+    "hard_hit_pct": 35,
+    "xwoba": 84,
+    "xba": 96,
+    "bb_pct": 75,
+    "sprint_speed": 76,
+    "k_pct": 98
+  }
+}

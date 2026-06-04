@@ -1,0 +1,26 @@
+{
+  "id": 686948,
+  "name": "Drake Baldwin",
+  "team": "ATL",
+  "pa": 337,
+  "avg_exit_velo": 91.7,
+  "max_exit_velo": 112.5,
+  "barrel_pct": 8.3,
+  "hard_hit_pct": 49.6,
+  "xwoba": 0.353,
+  "xba": 0.272,
+  "k_pct": 15.2,
+  "bb_pct": 8.5,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 89,
+    "max_exit_velo": 74,
+    "barrel_pct": 86,
+    "hard_hit_pct": 89,
+    "xwoba": 90,
+    "xba": 90,
+    "bb_pct": 56,
+    "sprint_speed": 17,
+    "k_pct": 88
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 502671,
+  "name": "Paul Goldschmidt",
+  "team": "NYY",
+  "pa": 391,
+  "avg_exit_velo": 90.4,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 43.7,
+  "xwoba": 0.329,
+  "xba": 0.266,
+  "k_pct": 18.5,
+  "bb_pct": 6.8,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 71,
+    "max_exit_velo": 59,
+    "barrel_pct": 56,
+    "hard_hit_pct": 65,
+    "xwoba": 74,
+    "xba": 83,
+    "bb_pct": 37,
+    "sprint_speed": 17,
+    "k_pct": 75
+  }
+}

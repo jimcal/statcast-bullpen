@@ -1,0 +1,26 @@
+{
+  "id": 686527,
+  "name": "Dominic Canzone",
+  "team": "SEA",
+  "pa": 187,
+  "avg_exit_velo": 92.3,
+  "max_exit_velo": 115.9,
+  "barrel_pct": 10.0,
+  "hard_hit_pct": 49.7,
+  "xwoba": 0.376,
+  "xba": 0.29,
+  "k_pct": 23.2,
+  "bb_pct": 7.0,
+  "sprint_speed": 26.5,
+  "percentiles": {
+    "avg_exit_velo": 93,
+    "max_exit_velo": 95,
+    "barrel_pct": 95,
+    "hard_hit_pct": 90,
+    "xwoba": 97,
+    "xba": 98,
+    "bb_pct": 40,
+    "sprint_speed": 24,
+    "k_pct": 50
+  }
+}

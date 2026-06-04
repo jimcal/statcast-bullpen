@@ -1,0 +1,26 @@
+{
+  "id": 670541,
+  "name": "Yordan Alvarez",
+  "team": "HOU",
+  "pa": 138,
+  "avg_exit_velo": 94.7,
+  "max_exit_velo": 115.4,
+  "barrel_pct": 9.5,
+  "hard_hit_pct": 52.9,
+  "xwoba": 0.393,
+  "xba": 0.284,
+  "k_pct": 16.6,
+  "bb_pct": 14.1,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 99,
+    "max_exit_velo": 92,
+    "barrel_pct": 94,
+    "hard_hit_pct": 96,
+    "xwoba": 98,
+    "xba": 96,
+    "bb_pct": 96,
+    "sprint_speed": 19,
+    "k_pct": 84
+  }
+}

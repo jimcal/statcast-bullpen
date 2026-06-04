@@ -1,0 +1,26 @@
+{
+  "id": 678662,
+  "name": "Ezequiel Tovar",
+  "team": "COL",
+  "pa": 270,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 112.5,
+  "barrel_pct": 6.4,
+  "hard_hit_pct": 38.9,
+  "xwoba": 0.319,
+  "xba": 0.261,
+  "k_pct": 25.1,
+  "bb_pct": 5.4,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 74,
+    "barrel_pct": 65,
+    "hard_hit_pct": 44,
+    "xwoba": 61,
+    "xba": 79,
+    "bb_pct": 20,
+    "sprint_speed": 52,
+    "k_pct": 37
+  }
+}

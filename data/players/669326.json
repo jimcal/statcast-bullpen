@@ -1,0 +1,26 @@
+{
+  "id": 669326,
+  "name": "Bryce Teodosio",
+  "team": "LAA",
+  "pa": 94,
+  "avg_exit_velo": 84.3,
+  "max_exit_velo": 110.1,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 26.6,
+  "xwoba": 0.222,
+  "xba": 0.185,
+  "k_pct": 31.3,
+  "bb_pct": 3.3,
+  "sprint_speed": 29.9,
+  "percentiles": {
+    "avg_exit_velo": 1,
+    "max_exit_velo": 43,
+    "barrel_pct": 18,
+    "hard_hit_pct": 5,
+    "xwoba": 2,
+    "xba": 5,
+    "bb_pct": 3,
+    "sprint_speed": 98,
+    "k_pct": 10
+  }
+}

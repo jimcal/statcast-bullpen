@@ -1,0 +1,26 @@
+{
+  "id": 518692,
+  "name": "Freddie Freeman",
+  "team": "LAD",
+  "pa": 433,
+  "avg_exit_velo": 90.9,
+  "max_exit_velo": 114.1,
+  "barrel_pct": 7.2,
+  "hard_hit_pct": 45.7,
+  "xwoba": 0.35,
+  "xba": 0.268,
+  "k_pct": 20.4,
+  "bb_pct": 9.9,
+  "sprint_speed": 25.6,
+  "percentiles": {
+    "avg_exit_velo": 78,
+    "max_exit_velo": 87,
+    "barrel_pct": 74,
+    "hard_hit_pct": 74,
+    "xwoba": 89,
+    "xba": 86,
+    "bb_pct": 73,
+    "sprint_speed": 9,
+    "k_pct": 65
+  }
+}

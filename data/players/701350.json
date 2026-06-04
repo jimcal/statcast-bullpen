@@ -1,0 +1,26 @@
+{
+  "id": 701350,
+  "name": "Roman Anthony",
+  "team": "BOS",
+  "pa": 174,
+  "avg_exit_velo": 94.5,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 8.9,
+  "hard_hit_pct": 60.3,
+  "xwoba": 0.372,
+  "xba": 0.258,
+  "k_pct": 27.7,
+  "bb_pct": 13.2,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 99,
+    "max_exit_velo": 83,
+    "barrel_pct": 90,
+    "hard_hit_pct": 100,
+    "xwoba": 95,
+    "xba": 76,
+    "bb_pct": 94,
+    "sprint_speed": 58,
+    "k_pct": 20
+  }
+}

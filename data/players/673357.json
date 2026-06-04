@@ -1,0 +1,26 @@
+{
+  "id": 673357,
+  "name": "Luis Robert Jr.",
+  "team": "CWS",
+  "pa": 274,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 115.8,
+  "barrel_pct": 6.5,
+  "hard_hit_pct": 41.6,
+  "xwoba": 0.321,
+  "xba": 0.246,
+  "k_pct": 26.0,
+  "bb_pct": 9.3,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 94,
+    "barrel_pct": 67,
+    "hard_hit_pct": 55,
+    "xwoba": 63,
+    "xba": 60,
+    "bb_pct": 66,
+    "sprint_speed": 89,
+    "k_pct": 33
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 682985,
+  "name": "Riley Greene",
+  "team": "DET",
+  "pa": 404,
+  "avg_exit_velo": 89.9,
+  "max_exit_velo": 115.1,
+  "barrel_pct": 10.5,
+  "hard_hit_pct": 45.5,
+  "xwoba": 0.332,
+  "xba": 0.236,
+  "k_pct": 30.4,
+  "bb_pct": 7.0,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 62,
+    "max_exit_velo": 92,
+    "barrel_pct": 97,
+    "hard_hit_pct": 73,
+    "xwoba": 77,
+    "xba": 44,
+    "bb_pct": 40,
+    "sprint_speed": 29,
+    "k_pct": 12
+  }
+}

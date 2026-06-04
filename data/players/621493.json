@@ -1,0 +1,26 @@
+{
+  "id": 621493,
+  "name": "Taylor Ward",
+  "team": "LAA",
+  "pa": 410,
+  "avg_exit_velo": 90.1,
+  "max_exit_velo": 111.0,
+  "barrel_pct": 8.4,
+  "hard_hit_pct": 42.7,
+  "xwoba": 0.333,
+  "xba": 0.231,
+  "k_pct": 26.4,
+  "bb_pct": 11.3,
+  "sprint_speed": 27.3,
+  "percentiles": {
+    "avg_exit_velo": 66,
+    "max_exit_velo": 56,
+    "barrel_pct": 86,
+    "hard_hit_pct": 60,
+    "xwoba": 78,
+    "xba": 37,
+    "bb_pct": 85,
+    "sprint_speed": 45,
+    "k_pct": 29
+  }
+}

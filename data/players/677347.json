@@ -1,0 +1,26 @@
+{
+  "id": 677347,
+  "name": "Kyren Paris",
+  "team": "LAA",
+  "pa": 67,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 7.9,
+  "hard_hit_pct": 47.8,
+  "xwoba": 0.265,
+  "xba": 0.173,
+  "k_pct": 42.1,
+  "bb_pct": 7.1,
+  "sprint_speed": 29.0,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 25,
+    "barrel_pct": 81,
+    "hard_hit_pct": 85,
+    "xwoba": 13,
+    "xba": 3,
+    "bb_pct": 41,
+    "sprint_speed": 89,
+    "k_pct": 0
+  }
+}

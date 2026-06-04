@@ -1,0 +1,26 @@
+{
+  "id": 671213,
+  "name": "Triston Casas",
+  "team": "BOS",
+  "pa": 72,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 44.4,
+  "xwoba": 0.304,
+  "xba": 0.212,
+  "k_pct": 24.1,
+  "bb_pct": 9.8,
+  "sprint_speed": 24.4,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 55,
+    "barrel_pct": 63,
+    "hard_hit_pct": 68,
+    "xwoba": 47,
+    "xba": 20,
+    "bb_pct": 72,
+    "sprint_speed": 2,
+    "k_pct": 43
+  }
+}

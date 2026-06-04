@@ -1,0 +1,26 @@
+{
+  "id": 668939,
+  "name": "Adley Rutschman",
+  "team": "BAL",
+  "pa": 267,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 111.3,
+  "barrel_pct": 5.5,
+  "hard_hit_pct": 38.6,
+  "xwoba": 0.325,
+  "xba": 0.241,
+  "k_pct": 15.6,
+  "bb_pct": 11.0,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 61,
+    "barrel_pct": 52,
+    "hard_hit_pct": 41,
+    "xwoba": 69,
+    "xba": 51,
+    "bb_pct": 81,
+    "sprint_speed": 29,
+    "k_pct": 87
+  }
+}

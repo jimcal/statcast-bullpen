@@ -1,0 +1,26 @@
+{
+  "id": 665862,
+  "name": "Jazz Chisholm Jr.",
+  "team": "NYY",
+  "pa": 319,
+  "avg_exit_velo": 89.0,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 9.0,
+  "hard_hit_pct": 43.3,
+  "xwoba": 0.346,
+  "xba": 0.234,
+  "k_pct": 27.5,
+  "bb_pct": 11.0,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 50,
+    "max_exit_velo": 71,
+    "barrel_pct": 90,
+    "hard_hit_pct": 64,
+    "xwoba": 87,
+    "xba": 41,
+    "bb_pct": 81,
+    "sprint_speed": 52,
+    "k_pct": 22
+  }
+}

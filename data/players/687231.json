@@ -1,0 +1,26 @@
+{
+  "id": 687231,
+  "name": "Darell Hernaiz",
+  "team": "ATH",
+  "pa": 156,
+  "avg_exit_velo": 85.0,
+  "max_exit_velo": 109.2,
+  "barrel_pct": 2.5,
+  "hard_hit_pct": 30.1,
+  "xwoba": 0.305,
+  "xba": 0.255,
+  "k_pct": 12.2,
+  "bb_pct": 8.6,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 5,
+    "max_exit_velo": 32,
+    "barrel_pct": 16,
+    "hard_hit_pct": 12,
+    "xwoba": 49,
+    "xba": 73,
+    "bb_pct": 58,
+    "sprint_speed": 70,
+    "k_pct": 96
+  }
+}

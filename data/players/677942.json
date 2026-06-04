@@ -1,0 +1,26 @@
+{
+  "id": 677942,
+  "name": "Blaze Alexander",
+  "team": "AZ",
+  "pa": 148,
+  "avg_exit_velo": 90.2,
+  "max_exit_velo": 110.7,
+  "barrel_pct": 7.1,
+  "hard_hit_pct": 43.2,
+  "xwoba": 0.305,
+  "xba": 0.211,
+  "k_pct": 32.3,
+  "bb_pct": 8.3,
+  "sprint_speed": 28.8,
+  "percentiles": {
+    "avg_exit_velo": 67,
+    "max_exit_velo": 52,
+    "barrel_pct": 73,
+    "hard_hit_pct": 63,
+    "xwoba": 49,
+    "xba": 19,
+    "bb_pct": 54,
+    "sprint_speed": 85,
+    "k_pct": 7
+  }
+}

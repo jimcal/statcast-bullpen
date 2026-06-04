@@ -1,0 +1,26 @@
+{
+  "id": 669364,
+  "name": "Xavier Edwards",
+  "team": "MIA",
+  "pa": 479,
+  "avg_exit_velo": 86.8,
+  "max_exit_velo": 109.0,
+  "barrel_pct": 0.6,
+  "hard_hit_pct": 29.4,
+  "xwoba": 0.295,
+  "xba": 0.262,
+  "k_pct": 14.2,
+  "bb_pct": 7.9,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 16,
+    "max_exit_velo": 29,
+    "barrel_pct": 2,
+    "hard_hit_pct": 10,
+    "xwoba": 35,
+    "xba": 80,
+    "bb_pct": 50,
+    "sprint_speed": 73,
+    "k_pct": 92
+  }
+}

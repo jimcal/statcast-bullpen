@@ -1,0 +1,26 @@
+{
+  "id": 669369,
+  "name": "Bryce Johnson",
+  "team": "SD",
+  "pa": 60,
+  "avg_exit_velo": 88.4,
+  "max_exit_velo": 106.7,
+  "barrel_pct": 3.6,
+  "hard_hit_pct": 33.3,
+  "xwoba": 0.328,
+  "xba": 0.298,
+  "k_pct": 23.0,
+  "bb_pct": 3.4,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 39,
+    "max_exit_velo": 7,
+    "barrel_pct": 28,
+    "hard_hit_pct": 21,
+    "xwoba": 72,
+    "xba": 99,
+    "bb_pct": 4,
+    "sprint_speed": 79,
+    "k_pct": 51
+  }
+}

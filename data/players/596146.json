@@ -1,0 +1,26 @@
+{
+  "id": 596146,
+  "name": "Max Kepler",
+  "team": "PHI",
+  "pa": 329,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 111.8,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 44.7,
+  "xwoba": 0.332,
+  "xba": 0.243,
+  "k_pct": 19.4,
+  "bb_pct": 10.4,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 67,
+    "barrel_pct": 82,
+    "hard_hit_pct": 70,
+    "xwoba": 77,
+    "xba": 54,
+    "bb_pct": 76,
+    "sprint_speed": 36,
+    "k_pct": 70
+  }
+}

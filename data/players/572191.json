@@ -1,0 +1,26 @@
+{
+  "id": 572191,
+  "name": "Michael A. Taylor",
+  "team": "CWS",
+  "pa": 191,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 114.5,
+  "barrel_pct": 6.2,
+  "hard_hit_pct": 42.9,
+  "xwoba": 0.271,
+  "xba": 0.186,
+  "k_pct": 33.8,
+  "bb_pct": 7.1,
+  "sprint_speed": 27.8,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 89,
+    "barrel_pct": 62,
+    "hard_hit_pct": 61,
+    "xwoba": 18,
+    "xba": 6,
+    "bb_pct": 41,
+    "sprint_speed": 58,
+    "k_pct": 5
+  }
+}

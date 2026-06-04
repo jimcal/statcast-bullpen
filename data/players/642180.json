@@ -1,0 +1,26 @@
+{
+  "id": 642180,
+  "name": "Tyler Wade",
+  "team": "SD",
+  "pa": 80,
+  "avg_exit_velo": 82.6,
+  "max_exit_velo": 100.5,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 15.0,
+  "xwoba": 0.247,
+  "xba": 0.185,
+  "k_pct": 24.4,
+  "bb_pct": 11.8,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 0,
+    "max_exit_velo": 0,
+    "barrel_pct": 0,
+    "hard_hit_pct": 0,
+    "xwoba": 6,
+    "xba": 5,
+    "bb_pct": 88,
+    "sprint_speed": 67,
+    "k_pct": 41
+  }
+}

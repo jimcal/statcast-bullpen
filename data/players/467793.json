@@ -1,0 +1,26 @@
+{
+  "id": 467793,
+  "name": "Carlos Santana",
+  "team": "CHC",
+  "pa": 328,
+  "avg_exit_velo": 87.6,
+  "max_exit_velo": 113.2,
+  "barrel_pct": 3.4,
+  "hard_hit_pct": 37.8,
+  "xwoba": 0.29,
+  "xba": 0.216,
+  "k_pct": 19.2,
+  "bb_pct": 11.0,
+  "sprint_speed": 25.6,
+  "percentiles": {
+    "avg_exit_velo": 26,
+    "max_exit_velo": 80,
+    "barrel_pct": 25,
+    "hard_hit_pct": 38,
+    "xwoba": 31,
+    "xba": 24,
+    "bb_pct": 81,
+    "sprint_speed": 9,
+    "k_pct": 72
+  }
+}

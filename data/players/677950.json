@@ -1,0 +1,26 @@
+{
+  "id": 677950,
+  "name": "Alek Thomas",
+  "team": "AZ",
+  "pa": 321,
+  "avg_exit_velo": 89.6,
+  "max_exit_velo": 110.6,
+  "barrel_pct": 5.3,
+  "hard_hit_pct": 39.3,
+  "xwoba": 0.289,
+  "xba": 0.242,
+  "k_pct": 26.0,
+  "bb_pct": 4.5,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 58,
+    "max_exit_velo": 51,
+    "barrel_pct": 49,
+    "hard_hit_pct": 46,
+    "xwoba": 30,
+    "xba": 52,
+    "bb_pct": 9,
+    "sprint_speed": 73,
+    "k_pct": 33
+  }
+}

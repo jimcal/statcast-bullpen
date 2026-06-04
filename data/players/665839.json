@@ -1,0 +1,26 @@
+{
+  "id": 665839,
+  "name": "Enmanuel Valdez",
+  "team": "PIT",
+  "pa": 75,
+  "avg_exit_velo": 89.8,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 5.9,
+  "hard_hit_pct": 42.7,
+  "xwoba": 0.327,
+  "xba": 0.254,
+  "k_pct": 15.7,
+  "bb_pct": 10.8,
+  "sprint_speed": 26.1,
+  "percentiles": {
+    "avg_exit_velo": 61,
+    "max_exit_velo": 22,
+    "barrel_pct": 58,
+    "hard_hit_pct": 60,
+    "xwoba": 71,
+    "xba": 72,
+    "bb_pct": 80,
+    "sprint_speed": 17,
+    "k_pct": 87
+  }
+}

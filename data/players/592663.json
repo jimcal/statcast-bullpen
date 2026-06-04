@@ -1,0 +1,26 @@
+{
+  "id": 592663,
+  "name": "J.T. Realmuto",
+  "team": "PHI",
+  "pa": 376,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 45.5,
+  "xwoba": 0.316,
+  "xba": 0.253,
+  "k_pct": 23.3,
+  "bb_pct": 6.2,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 48,
+    "barrel_pct": 59,
+    "hard_hit_pct": 73,
+    "xwoba": 59,
+    "xba": 71,
+    "bb_pct": 29,
+    "sprint_speed": 76,
+    "k_pct": 49
+  }
+}

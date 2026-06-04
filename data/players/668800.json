@@ -1,0 +1,26 @@
+{
+  "id": 668800,
+  "name": "Andrew Knizner",
+  "team": "SF",
+  "pa": 69,
+  "avg_exit_velo": 84.2,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 1.1,
+  "hard_hit_pct": 23.2,
+  "xwoba": 0.278,
+  "xba": 0.226,
+  "k_pct": 11.4,
+  "bb_pct": 8.0,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 1,
+    "max_exit_velo": 17,
+    "barrel_pct": 4,
+    "hard_hit_pct": 2,
+    "xwoba": 22,
+    "xba": 33,
+    "bb_pct": 51,
+    "sprint_speed": 12,
+    "k_pct": 98
+  }
+}

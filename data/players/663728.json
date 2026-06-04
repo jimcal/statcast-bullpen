@@ -1,0 +1,26 @@
+{
+  "id": 663728,
+  "name": "Cal Raleigh",
+  "team": "SEA",
+  "pa": 411,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 114.7,
+  "barrel_pct": 11.3,
+  "hard_hit_pct": 49.6,
+  "xwoba": 0.371,
+  "xba": 0.231,
+  "k_pct": 27.0,
+  "bb_pct": 13.8,
+  "sprint_speed": 26.0,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 91,
+    "barrel_pct": 98,
+    "hard_hit_pct": 89,
+    "xwoba": 95,
+    "xba": 37,
+    "bb_pct": 95,
+    "sprint_speed": 14,
+    "k_pct": 24
+  }
+}

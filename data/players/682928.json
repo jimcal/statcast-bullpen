@@ -1,0 +1,26 @@
+{
+  "id": 682928,
+  "name": "CJ Abrams",
+  "team": "WSH",
+  "pa": 459,
+  "avg_exit_velo": 88.7,
+  "max_exit_velo": 112.7,
+  "barrel_pct": 5.5,
+  "hard_hit_pct": 39.2,
+  "xwoba": 0.309,
+  "xba": 0.245,
+  "k_pct": 19.7,
+  "bb_pct": 5.8,
+  "sprint_speed": 28.2,
+  "percentiles": {
+    "avg_exit_velo": 43,
+    "max_exit_velo": 77,
+    "barrel_pct": 52,
+    "hard_hit_pct": 45,
+    "xwoba": 52,
+    "xba": 58,
+    "bb_pct": 24,
+    "sprint_speed": 70,
+    "k_pct": 67
+  }
+}

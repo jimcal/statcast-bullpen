@@ -1,0 +1,26 @@
+{
+  "id": 700246,
+  "name": "Carson Williams",
+  "team": "TB",
+  "pa": 56,
+  "avg_exit_velo": 85.9,
+  "max_exit_velo": 109.5,
+  "barrel_pct": 4.7,
+  "hard_hit_pct": 35.7,
+  "xwoba": 0.233,
+  "xba": 0.169,
+  "k_pct": 41.5,
+  "bb_pct": 5.7,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 9,
+    "max_exit_velo": 35,
+    "barrel_pct": 43,
+    "hard_hit_pct": 29,
+    "xwoba": 3,
+    "xba": 2,
+    "bb_pct": 23,
+    "sprint_speed": 62,
+    "k_pct": 1
+  }
+}

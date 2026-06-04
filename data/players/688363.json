@@ -1,0 +1,26 @@
+{
+  "id": 688363,
+  "name": "Graham Pauley",
+  "team": "MIA",
+  "pa": 127,
+  "avg_exit_velo": 86.6,
+  "max_exit_velo": 111.1,
+  "barrel_pct": 3.8,
+  "hard_hit_pct": 35.4,
+  "xwoba": 0.299,
+  "xba": 0.223,
+  "k_pct": 19.6,
+  "bb_pct": 11.4,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 57,
+    "barrel_pct": 31,
+    "hard_hit_pct": 28,
+    "xwoba": 41,
+    "xba": 30,
+    "bb_pct": 85,
+    "sprint_speed": 26,
+    "k_pct": 68
+  }
+}

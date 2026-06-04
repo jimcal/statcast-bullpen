@@ -1,0 +1,26 @@
+{
+  "id": 687363,
+  "name": "Victor Scott II",
+  "team": "STL",
+  "pa": 300,
+  "avg_exit_velo": 86.1,
+  "max_exit_velo": 106.7,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 26.0,
+  "xwoba": 0.287,
+  "xba": 0.225,
+  "k_pct": 24.0,
+  "bb_pct": 9.1,
+  "sprint_speed": 30.2,
+  "percentiles": {
+    "avg_exit_velo": 11,
+    "max_exit_velo": 7,
+    "barrel_pct": 14,
+    "hard_hit_pct": 4,
+    "xwoba": 28,
+    "xba": 32,
+    "bb_pct": 65,
+    "sprint_speed": 99,
+    "k_pct": 44
+  }
+}

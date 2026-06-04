@@ -1,0 +1,26 @@
+{
+  "id": 596115,
+  "name": "Trevor Story",
+  "team": "BOS",
+  "pa": 438,
+  "avg_exit_velo": 91.4,
+  "max_exit_velo": 111.7,
+  "barrel_pct": 6.6,
+  "hard_hit_pct": 47.0,
+  "xwoba": 0.311,
+  "xba": 0.249,
+  "k_pct": 27.0,
+  "bb_pct": 4.9,
+  "sprint_speed": 28.6,
+  "percentiles": {
+    "avg_exit_velo": 86,
+    "max_exit_velo": 65,
+    "barrel_pct": 67,
+    "hard_hit_pct": 81,
+    "xwoba": 54,
+    "xba": 65,
+    "bb_pct": 14,
+    "sprint_speed": 82,
+    "k_pct": 24
+  }
+}

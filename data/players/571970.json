@@ -1,0 +1,26 @@
+{
+  "id": 571970,
+  "name": "Max Muncy",
+  "team": "LAD",
+  "pa": 235,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 110.5,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 51.5,
+  "xwoba": 0.374,
+  "xba": 0.238,
+  "k_pct": 21.9,
+  "bb_pct": 16.4,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 49,
+    "barrel_pct": 85,
+    "hard_hit_pct": 93,
+    "xwoba": 96,
+    "xba": 47,
+    "bb_pct": 99,
+    "sprint_speed": 36,
+    "k_pct": 58
+  }
+}

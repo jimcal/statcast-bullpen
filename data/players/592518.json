@@ -1,0 +1,26 @@
+{
+  "id": 592518,
+  "name": "Manny Machado",
+  "team": "SD",
+  "pa": 489,
+  "avg_exit_velo": 92.9,
+  "max_exit_velo": 114.8,
+  "barrel_pct": 9.3,
+  "hard_hit_pct": 51.5,
+  "xwoba": 0.355,
+  "xba": 0.271,
+  "k_pct": 19.4,
+  "bb_pct": 8.3,
+  "sprint_speed": 25.8,
+  "percentiles": {
+    "avg_exit_velo": 95,
+    "max_exit_velo": 91,
+    "barrel_pct": 93,
+    "hard_hit_pct": 93,
+    "xwoba": 91,
+    "xba": 89,
+    "bb_pct": 54,
+    "sprint_speed": 11,
+    "k_pct": 70
+  }
+}

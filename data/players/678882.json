@@ -1,0 +1,26 @@
+{
+  "id": 678882,
+  "name": "Ceddanne Rafaela",
+  "team": "BOS",
+  "pa": 434,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 112.1,
+  "barrel_pct": 6.8,
+  "hard_hit_pct": 38.7,
+  "xwoba": 0.305,
+  "xba": 0.242,
+  "k_pct": 20.2,
+  "bb_pct": 5.0,
+  "sprint_speed": 29.1,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 70,
+    "barrel_pct": 70,
+    "hard_hit_pct": 42,
+    "xwoba": 49,
+    "xba": 52,
+    "bb_pct": 15,
+    "sprint_speed": 91,
+    "k_pct": 66
+  }
+}

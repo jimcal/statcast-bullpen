@@ -1,0 +1,26 @@
+{
+  "id": 665161,
+  "name": "Jeremy Pe\u00f1a",
+  "team": "HOU",
+  "pa": 403,
+  "avg_exit_velo": 88.9,
+  "max_exit_velo": 109.9,
+  "barrel_pct": 6.1,
+  "hard_hit_pct": 42.9,
+  "xwoba": 0.334,
+  "xba": 0.27,
+  "k_pct": 17.1,
+  "bb_pct": 6.4,
+  "sprint_speed": 29.6,
+  "percentiles": {
+    "avg_exit_velo": 47,
+    "max_exit_velo": 40,
+    "barrel_pct": 60,
+    "hard_hit_pct": 61,
+    "xwoba": 78,
+    "xba": 88,
+    "bb_pct": 32,
+    "sprint_speed": 97,
+    "k_pct": 81
+  }
+}

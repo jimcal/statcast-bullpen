@@ -1,0 +1,26 @@
+{
+  "id": 630105,
+  "name": "Jake Cronenworth",
+  "team": "SD",
+  "pa": 323,
+  "avg_exit_velo": 88.5,
+  "max_exit_velo": 109.1,
+  "barrel_pct": 3.9,
+  "hard_hit_pct": 39.0,
+  "xwoba": 0.319,
+  "xba": 0.225,
+  "k_pct": 20.9,
+  "bb_pct": 13.1,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 40,
+    "max_exit_velo": 30,
+    "barrel_pct": 33,
+    "hard_hit_pct": 44,
+    "xwoba": 61,
+    "xba": 32,
+    "bb_pct": 94,
+    "sprint_speed": 67,
+    "k_pct": 62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 656716,
+  "name": "Zach McKinstry",
+  "team": "DET",
+  "pa": 347,
+  "avg_exit_velo": 85.7,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 4.1,
+  "hard_hit_pct": 30.5,
+  "xwoba": 0.305,
+  "xba": 0.247,
+  "k_pct": 22.2,
+  "bb_pct": 9.2,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 8,
+    "max_exit_velo": 25,
+    "barrel_pct": 35,
+    "hard_hit_pct": 12,
+    "xwoba": 49,
+    "xba": 62,
+    "bb_pct": 66,
+    "sprint_speed": 73,
+    "k_pct": 55
+  }
+}

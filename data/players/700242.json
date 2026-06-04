@@ -1,0 +1,26 @@
+{
+  "id": 700242,
+  "name": "Trey Sweeney",
+  "team": "DET",
+  "pa": 208,
+  "avg_exit_velo": 87.9,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 4.3,
+  "hard_hit_pct": 35.1,
+  "xwoba": 0.245,
+  "xba": 0.191,
+  "k_pct": 28.2,
+  "bb_pct": 8.0,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 30,
+    "max_exit_velo": 53,
+    "barrel_pct": 37,
+    "hard_hit_pct": 26,
+    "xwoba": 5,
+    "xba": 7,
+    "bb_pct": 51,
+    "sprint_speed": 76,
+    "k_pct": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 650402,
+  "name": "Gleyber Torres",
+  "team": "DET",
+  "pa": 438,
+  "avg_exit_velo": 90.0,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 39.0,
+  "xwoba": 0.363,
+  "xba": 0.269,
+  "k_pct": 16.7,
+  "bb_pct": 13.2,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 64,
+    "max_exit_velo": 55,
+    "barrel_pct": 55,
+    "hard_hit_pct": 44,
+    "xwoba": 93,
+    "xba": 86,
+    "bb_pct": 94,
+    "sprint_speed": 19,
+    "k_pct": 84
+  }
+}

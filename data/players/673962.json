@@ -1,0 +1,26 @@
+{
+  "id": 673962,
+  "name": "Josh Jung",
+  "team": "TEX",
+  "pa": 353,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 111.2,
+  "barrel_pct": 5.7,
+  "hard_hit_pct": 46.7,
+  "xwoba": 0.304,
+  "xba": 0.245,
+  "k_pct": 25.2,
+  "bb_pct": 5.3,
+  "sprint_speed": 26.6,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 59,
+    "barrel_pct": 55,
+    "hard_hit_pct": 79,
+    "xwoba": 47,
+    "xba": 58,
+    "bb_pct": 18,
+    "sprint_speed": 26,
+    "k_pct": 36
+  }
+}

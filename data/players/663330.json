@@ -1,0 +1,26 @@
+{
+  "id": 663330,
+  "name": "Jahmai Jones",
+  "team": "DET",
+  "pa": 97,
+  "avg_exit_velo": 91.5,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 8.7,
+  "hard_hit_pct": 53.6,
+  "xwoba": 0.399,
+  "xba": 0.291,
+  "k_pct": 21.4,
+  "bb_pct": 13.0,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 87,
+    "max_exit_velo": 53,
+    "barrel_pct": 88,
+    "hard_hit_pct": 96,
+    "xwoba": 99,
+    "xba": 98,
+    "bb_pct": 93,
+    "sprint_speed": 67,
+    "k_pct": 60
+  }
+}

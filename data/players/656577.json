@@ -1,0 +1,26 @@
+{
+  "id": 656577,
+  "name": "Alex Jackson",
+  "team": "BAL",
+  "pa": 54,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 108.7,
+  "barrel_pct": 8.0,
+  "hard_hit_pct": 40.7,
+  "xwoba": 0.27,
+  "xba": 0.178,
+  "k_pct": 37.0,
+  "bb_pct": 5.0,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 25,
+    "barrel_pct": 82,
+    "hard_hit_pct": 51,
+    "xwoba": 17,
+    "xba": 4,
+    "bb_pct": 15,
+    "sprint_speed": 52,
+    "k_pct": 2
+  }
+}

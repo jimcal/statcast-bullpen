@@ -1,0 +1,26 @@
+{
+  "id": 694671,
+  "name": "Wyatt Langford",
+  "team": "TEX",
+  "pa": 343,
+  "avg_exit_velo": 91.4,
+  "max_exit_velo": 113.1,
+  "barrel_pct": 8.4,
+  "hard_hit_pct": 48.4,
+  "xwoba": 0.346,
+  "xba": 0.239,
+  "k_pct": 26.4,
+  "bb_pct": 12.9,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 86,
+    "max_exit_velo": 79,
+    "barrel_pct": 86,
+    "hard_hit_pct": 86,
+    "xwoba": 87,
+    "xba": 48,
+    "bb_pct": 92,
+    "sprint_speed": 87,
+    "k_pct": 29
+  }
+}

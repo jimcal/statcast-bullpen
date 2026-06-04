@@ -1,0 +1,26 @@
+{
+  "id": 595978,
+  "name": "Austin Hedges",
+  "team": "CLE",
+  "pa": 118,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 108.6,
+  "barrel_pct": 2.2,
+  "hard_hit_pct": 32.2,
+  "xwoba": 0.249,
+  "xba": 0.177,
+  "k_pct": 24.0,
+  "bb_pct": 10.9,
+  "sprint_speed": 25.0,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 24,
+    "barrel_pct": 12,
+    "hard_hit_pct": 18,
+    "xwoba": 7,
+    "xba": 4,
+    "bb_pct": 81,
+    "sprint_speed": 5,
+    "k_pct": 44
+  }
+}

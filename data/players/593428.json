@@ -1,0 +1,26 @@
+{
+  "id": 593428,
+  "name": "Xander Bogaerts",
+  "team": "SD",
+  "pa": 406,
+  "avg_exit_velo": 89.0,
+  "max_exit_velo": 112.2,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 39.2,
+  "xwoba": 0.327,
+  "xba": 0.267,
+  "k_pct": 17.2,
+  "bb_pct": 8.5,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 50,
+    "max_exit_velo": 71,
+    "barrel_pct": 47,
+    "hard_hit_pct": 45,
+    "xwoba": 71,
+    "xba": 85,
+    "bb_pct": 56,
+    "sprint_speed": 52,
+    "k_pct": 81
+  }
+}

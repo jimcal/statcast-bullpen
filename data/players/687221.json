@@ -1,0 +1,26 @@
+{
+  "id": 687221,
+  "name": "Dalton Rushing",
+  "team": "LAD",
+  "pa": 86,
+  "avg_exit_velo": 90.8,
+  "max_exit_velo": 112.0,
+  "barrel_pct": 7.7,
+  "hard_hit_pct": 45.3,
+  "xwoba": 0.283,
+  "xba": 0.203,
+  "k_pct": 37.8,
+  "bb_pct": 6.4,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 76,
+    "max_exit_velo": 69,
+    "barrel_pct": 78,
+    "hard_hit_pct": 72,
+    "xwoba": 26,
+    "xba": 13,
+    "bb_pct": 32,
+    "sprint_speed": 56,
+    "k_pct": 1
+  }
+}

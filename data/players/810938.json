@@ -1,0 +1,26 @@
+{
+  "id": 810938,
+  "name": "Ben Williamson",
+  "team": "SEA",
+  "pa": 215,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 110.4,
+  "barrel_pct": 2.4,
+  "hard_hit_pct": 40.5,
+  "xwoba": 0.269,
+  "xba": 0.241,
+  "k_pct": 21.7,
+  "bb_pct": 5.1,
+  "sprint_speed": 28.1,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 48,
+    "barrel_pct": 14,
+    "hard_hit_pct": 50,
+    "xwoba": 16,
+    "xba": 51,
+    "bb_pct": 16,
+    "sprint_speed": 67,
+    "k_pct": 58
+  }
+}

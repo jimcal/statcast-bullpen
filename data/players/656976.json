@@ -1,0 +1,26 @@
+{
+  "id": 656976,
+  "name": "Pavin Smith",
+  "team": "AZ",
+  "pa": 154,
+  "avg_exit_velo": 90.1,
+  "max_exit_velo": 110.9,
+  "barrel_pct": 6.3,
+  "hard_hit_pct": 46.1,
+  "xwoba": 0.319,
+  "xba": 0.215,
+  "k_pct": 31.9,
+  "bb_pct": 14.2,
+  "sprint_speed": 26.3,
+  "percentiles": {
+    "avg_exit_velo": 66,
+    "max_exit_velo": 55,
+    "barrel_pct": 63,
+    "hard_hit_pct": 76,
+    "xwoba": 61,
+    "xba": 23,
+    "bb_pct": 96,
+    "sprint_speed": 21,
+    "k_pct": 9
+  }
+}

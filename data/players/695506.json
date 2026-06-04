@@ -1,0 +1,26 @@
+{
+  "id": 695506,
+  "name": "Jac Caglianone",
+  "team": "KC",
+  "pa": 158,
+  "avg_exit_velo": 89.4,
+  "max_exit_velo": 114.1,
+  "barrel_pct": 8.2,
+  "hard_hit_pct": 42.4,
+  "xwoba": 0.321,
+  "xba": 0.237,
+  "k_pct": 22.4,
+  "bb_pct": 7.8,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 55,
+    "max_exit_velo": 87,
+    "barrel_pct": 85,
+    "hard_hit_pct": 59,
+    "xwoba": 63,
+    "xba": 45,
+    "bb_pct": 49,
+    "sprint_speed": 32,
+    "k_pct": 54
+  }
+}

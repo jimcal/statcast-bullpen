@@ -1,0 +1,26 @@
+{
+  "id": 663624,
+  "name": "Ryan Mountcastle",
+  "team": "BAL",
+  "pa": 240,
+  "avg_exit_velo": 90.7,
+  "max_exit_velo": 116.7,
+  "barrel_pct": 7.8,
+  "hard_hit_pct": 47.1,
+  "xwoba": 0.313,
+  "xba": 0.253,
+  "k_pct": 27.5,
+  "bb_pct": 4.2,
+  "sprint_speed": 27.6,
+  "percentiles": {
+    "avg_exit_velo": 74,
+    "max_exit_velo": 96,
+    "barrel_pct": 79,
+    "hard_hit_pct": 82,
+    "xwoba": 55,
+    "xba": 71,
+    "bb_pct": 8,
+    "sprint_speed": 52,
+    "k_pct": 22
+  }
+}

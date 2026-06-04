@@ -1,0 +1,26 @@
+{
+  "id": 663457,
+  "name": "Lars Nootbaar",
+  "team": "STL",
+  "pa": 394,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 113.0,
+  "barrel_pct": 6.9,
+  "hard_hit_pct": 50.0,
+  "xwoba": 0.317,
+  "xba": 0.231,
+  "k_pct": 20.4,
+  "bb_pct": 11.0,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 79,
+    "barrel_pct": 71,
+    "hard_hit_pct": 91,
+    "xwoba": 60,
+    "xba": 37,
+    "bb_pct": 81,
+    "sprint_speed": 36,
+    "k_pct": 65
+  }
+}

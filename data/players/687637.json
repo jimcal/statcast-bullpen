@@ -1,0 +1,26 @@
+{
+  "id": 687637,
+  "name": "Dylan Beavers",
+  "team": "BAL",
+  "pa": 75,
+  "avg_exit_velo": 88.8,
+  "max_exit_velo": 107.7,
+  "barrel_pct": 5.1,
+  "hard_hit_pct": 28.0,
+  "xwoba": 0.344,
+  "xba": 0.213,
+  "k_pct": 26.3,
+  "bb_pct": 19.0,
+  "sprint_speed": 28.9,
+  "percentiles": {
+    "avg_exit_velo": 44,
+    "max_exit_velo": 13,
+    "barrel_pct": 47,
+    "hard_hit_pct": 8,
+    "xwoba": 85,
+    "xba": 20,
+    "bb_pct": 100,
+    "sprint_speed": 87,
+    "k_pct": 30
+  }
+}

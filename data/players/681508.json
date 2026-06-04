@@ -1,0 +1,26 @@
+{
+  "id": 681508,
+  "name": "Mickey Gasper",
+  "team": "MIN",
+  "pa": 77,
+  "avg_exit_velo": 87.8,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 0.9,
+  "hard_hit_pct": 31.2,
+  "xwoba": 0.236,
+  "xba": 0.167,
+  "k_pct": 18.2,
+  "bb_pct": 9.1,
+  "sprint_speed": 26.8,
+  "percentiles": {
+    "avg_exit_velo": 29,
+    "max_exit_velo": 22,
+    "barrel_pct": 3,
+    "hard_hit_pct": 16,
+    "xwoba": 3,
+    "xba": 2,
+    "bb_pct": 65,
+    "sprint_speed": 32,
+    "k_pct": 77
+  }
+}

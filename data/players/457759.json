@@ -1,0 +1,26 @@
+{
+  "id": 457759,
+  "name": "Justin Turner",
+  "team": "CHC",
+  "pa": 136,
+  "avg_exit_velo": 88.3,
+  "max_exit_velo": 108.0,
+  "barrel_pct": 2.6,
+  "hard_hit_pct": 30.9,
+  "xwoba": 0.297,
+  "xba": 0.237,
+  "k_pct": 19.2,
+  "bb_pct": 8.8,
+  "sprint_speed": 25.3,
+  "percentiles": {
+    "avg_exit_velo": 36,
+    "max_exit_velo": 16,
+    "barrel_pct": 17,
+    "hard_hit_pct": 14,
+    "xwoba": 38,
+    "xba": 45,
+    "bb_pct": 60,
+    "sprint_speed": 7,
+    "k_pct": 72
+  }
+}

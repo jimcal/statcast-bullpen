@@ -1,0 +1,26 @@
+{
+  "id": 668227,
+  "name": "Randy Arozarena",
+  "team": "SEA",
+  "pa": 427,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 112.3,
+  "barrel_pct": 6.9,
+  "hard_hit_pct": 50.6,
+  "xwoba": 0.327,
+  "xba": 0.227,
+  "k_pct": 27.5,
+  "bb_pct": 8.9,
+  "sprint_speed": 27.7,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 72,
+    "barrel_pct": 71,
+    "hard_hit_pct": 92,
+    "xwoba": 71,
+    "xba": 34,
+    "bb_pct": 62,
+    "sprint_speed": 56,
+    "k_pct": 22
+  }
+}

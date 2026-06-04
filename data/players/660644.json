@@ -1,0 +1,26 @@
+{
+  "id": 660644,
+  "name": "Vidal Bruj\u00e1n",
+  "team": "ATL",
+  "pa": 67,
+  "avg_exit_velo": 88.2,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 37.3,
+  "xwoba": 0.266,
+  "xba": 0.224,
+  "k_pct": 22.1,
+  "bb_pct": 6.3,
+  "sprint_speed": 27.0,
+  "percentiles": {
+    "avg_exit_velo": 34,
+    "max_exit_velo": 46,
+    "barrel_pct": 0,
+    "hard_hit_pct": 36,
+    "xwoba": 14,
+    "xba": 30,
+    "bb_pct": 31,
+    "sprint_speed": 36,
+    "k_pct": 57
+  }
+}

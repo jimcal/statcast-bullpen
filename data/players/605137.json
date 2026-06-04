@@ -1,0 +1,26 @@
+{
+  "id": 605137,
+  "name": "Josh Bell",
+  "team": "WSH",
+  "pa": 383,
+  "avg_exit_velo": 90.4,
+  "max_exit_velo": 114.1,
+  "barrel_pct": 8.6,
+  "hard_hit_pct": 47.0,
+  "xwoba": 0.359,
+  "xba": 0.256,
+  "k_pct": 16.5,
+  "bb_pct": 10.7,
+  "sprint_speed": 25.2,
+  "percentiles": {
+    "avg_exit_velo": 71,
+    "max_exit_velo": 87,
+    "barrel_pct": 87,
+    "hard_hit_pct": 81,
+    "xwoba": 92,
+    "xba": 74,
+    "bb_pct": 80,
+    "sprint_speed": 6,
+    "k_pct": 84
+  }
+}

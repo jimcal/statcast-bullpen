@@ -1,0 +1,26 @@
+{
+  "id": 683002,
+  "name": "Gunnar Henderson",
+  "team": "BAL",
+  "pa": 445,
+  "avg_exit_velo": 92.1,
+  "max_exit_velo": 113.9,
+  "barrel_pct": 5.8,
+  "hard_hit_pct": 49.2,
+  "xwoba": 0.341,
+  "xba": 0.276,
+  "k_pct": 21.0,
+  "bb_pct": 9.5,
+  "sprint_speed": 28.5,
+  "percentiles": {
+    "avg_exit_velo": 92,
+    "max_exit_velo": 86,
+    "barrel_pct": 56,
+    "hard_hit_pct": 88,
+    "xwoba": 83,
+    "xba": 93,
+    "bb_pct": 69,
+    "sprint_speed": 79,
+    "k_pct": 61
+  }
+}

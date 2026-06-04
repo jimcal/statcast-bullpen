@@ -1,0 +1,26 @@
+{
+  "id": 680474,
+  "name": "Max Schuemann",
+  "team": "ATH",
+  "pa": 152,
+  "avg_exit_velo": 87.3,
+  "max_exit_velo": 107.6,
+  "barrel_pct": 1.9,
+  "hard_hit_pct": 32.9,
+  "xwoba": 0.297,
+  "xba": 0.23,
+  "k_pct": 16.4,
+  "bb_pct": 10.3,
+  "sprint_speed": 28.3,
+  "percentiles": {
+    "avg_exit_velo": 21,
+    "max_exit_velo": 13,
+    "barrel_pct": 9,
+    "hard_hit_pct": 20,
+    "xwoba": 38,
+    "xba": 36,
+    "bb_pct": 76,
+    "sprint_speed": 73,
+    "k_pct": 85
+  }
+}

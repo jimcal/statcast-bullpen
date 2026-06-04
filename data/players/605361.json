@@ -1,0 +1,26 @@
+{
+  "id": 605361,
+  "name": "Nick Martini",
+  "team": "COL",
+  "pa": 84,
+  "avg_exit_velo": 85.7,
+  "max_exit_velo": 105.6,
+  "barrel_pct": 2.7,
+  "hard_hit_pct": 31.0,
+  "xwoba": 0.253,
+  "xba": 0.215,
+  "k_pct": 16.2,
+  "bb_pct": 8.1,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 8,
+    "max_exit_velo": 5,
+    "barrel_pct": 18,
+    "hard_hit_pct": 15,
+    "xwoba": 8,
+    "xba": 23,
+    "bb_pct": 52,
+    "sprint_speed": 47,
+    "k_pct": 85
+  }
+}

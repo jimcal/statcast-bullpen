@@ -1,0 +1,26 @@
+{
+  "id": 673548,
+  "name": "Seiya Suzuki",
+  "team": "CHC",
+  "pa": 415,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 116.2,
+  "barrel_pct": 10.6,
+  "hard_hit_pct": 48.7,
+  "xwoba": 0.352,
+  "xba": 0.247,
+  "k_pct": 25.5,
+  "bb_pct": 10.5,
+  "sprint_speed": 28.4,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 95,
+    "barrel_pct": 97,
+    "hard_hit_pct": 87,
+    "xwoba": 90,
+    "xba": 62,
+    "bb_pct": 77,
+    "sprint_speed": 76,
+    "k_pct": 35
+  }
+}

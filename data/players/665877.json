@@ -1,0 +1,26 @@
+{
+  "id": 665877,
+  "name": "Jos\u00e9 Ferm\u00edn",
+  "team": "STL",
+  "pa": 51,
+  "avg_exit_velo": 87.1,
+  "max_exit_velo": 105.5,
+  "barrel_pct": 0.0,
+  "hard_hit_pct": 29.4,
+  "xwoba": 0.332,
+  "xba": 0.275,
+  "k_pct": 14.3,
+  "bb_pct": 11.4,
+  "sprint_speed": 27.1,
+  "percentiles": {
+    "avg_exit_velo": 19,
+    "max_exit_velo": 4,
+    "barrel_pct": 0,
+    "hard_hit_pct": 10,
+    "xwoba": 77,
+    "xba": 92,
+    "bb_pct": 85,
+    "sprint_speed": 41,
+    "k_pct": 91
+  }
+}

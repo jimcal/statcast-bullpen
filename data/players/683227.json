@@ -1,0 +1,26 @@
+{
+  "id": 683227,
+  "name": "Cody Freeman",
+  "team": "TEX",
+  "pa": 97,
+  "avg_exit_velo": 84.9,
+  "max_exit_velo": 104.3,
+  "barrel_pct": 3.3,
+  "hard_hit_pct": 25.8,
+  "xwoba": 0.269,
+  "xba": 0.244,
+  "k_pct": 15.7,
+  "bb_pct": 4.1,
+  "sprint_speed": 27.5,
+  "percentiles": {
+    "avg_exit_velo": 4,
+    "max_exit_velo": 2,
+    "barrel_pct": 24,
+    "hard_hit_pct": 4,
+    "xwoba": 16,
+    "xba": 57,
+    "bb_pct": 7,
+    "sprint_speed": 48,
+    "k_pct": 87
+  }
+}

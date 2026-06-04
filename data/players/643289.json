@@ -1,0 +1,26 @@
+{
+  "id": 643289,
+  "name": "Mauricio Dub\u00f3n",
+  "team": "HOU",
+  "pa": 331,
+  "avg_exit_velo": 84.5,
+  "max_exit_velo": 110.8,
+  "barrel_pct": 1.0,
+  "hard_hit_pct": 26.3,
+  "xwoba": 0.278,
+  "xba": 0.247,
+  "k_pct": 10.6,
+  "bb_pct": 6.0,
+  "sprint_speed": 28.0,
+  "percentiles": {
+    "avg_exit_velo": 2,
+    "max_exit_velo": 53,
+    "barrel_pct": 3,
+    "hard_hit_pct": 4,
+    "xwoba": 22,
+    "xba": 62,
+    "bb_pct": 27,
+    "sprint_speed": 64,
+    "k_pct": 98
+  }
+}

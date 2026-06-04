@@ -1,0 +1,26 @@
+{
+  "id": 694192,
+  "name": "Jackson Chourio",
+  "team": "MIL",
+  "pa": 435,
+  "avg_exit_velo": 89.3,
+  "max_exit_velo": 113.7,
+  "barrel_pct": 7.1,
+  "hard_hit_pct": 42.3,
+  "xwoba": 0.307,
+  "xba": 0.247,
+  "k_pct": 20.8,
+  "bb_pct": 5.0,
+  "sprint_speed": 29.2,
+  "percentiles": {
+    "avg_exit_velo": 53,
+    "max_exit_velo": 83,
+    "barrel_pct": 73,
+    "hard_hit_pct": 58,
+    "xwoba": 51,
+    "xba": 62,
+    "bb_pct": 15,
+    "sprint_speed": 92,
+    "k_pct": 63
+  }
+}

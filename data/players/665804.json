@@ -1,0 +1,26 @@
+{
+  "id": 665804,
+  "name": "Miguel Amaya",
+  "team": "CHC",
+  "pa": 76,
+  "avg_exit_velo": 86.4,
+  "max_exit_velo": 108.1,
+  "barrel_pct": 4.9,
+  "hard_hit_pct": 32.9,
+  "xwoba": 0.295,
+  "xba": 0.244,
+  "k_pct": 21.4,
+  "bb_pct": 3.9,
+  "sprint_speed": 25.9,
+  "percentiles": {
+    "avg_exit_velo": 14,
+    "max_exit_velo": 17,
+    "barrel_pct": 45,
+    "hard_hit_pct": 20,
+    "xwoba": 35,
+    "xba": 57,
+    "bb_pct": 6,
+    "sprint_speed": 12,
+    "k_pct": 60
+  }
+}

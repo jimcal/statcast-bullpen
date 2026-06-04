@@ -1,0 +1,26 @@
+{
+  "id": 663757,
+  "name": "Trent Grisham",
+  "team": "NYY",
+  "pa": 358,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 109.8,
+  "barrel_pct": 8.8,
+  "hard_hit_pct": 46.4,
+  "xwoba": 0.37,
+  "xba": 0.248,
+  "k_pct": 24.0,
+  "bb_pct": 13.9,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 38,
+    "barrel_pct": 89,
+    "hard_hit_pct": 77,
+    "xwoba": 94,
+    "xba": 64,
+    "bb_pct": 96,
+    "sprint_speed": 29,
+    "k_pct": 44
+  }
+}

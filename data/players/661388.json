@@ -1,0 +1,26 @@
+{
+  "id": 661388,
+  "name": "William Contreras",
+  "team": "MIL",
+  "pa": 452,
+  "avg_exit_velo": 91.1,
+  "max_exit_velo": 114.1,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 48.5,
+  "xwoba": 0.328,
+  "xba": 0.248,
+  "k_pct": 18.2,
+  "bb_pct": 12.5,
+  "sprint_speed": 26.2,
+  "percentiles": {
+    "avg_exit_velo": 81,
+    "max_exit_velo": 87,
+    "barrel_pct": 38,
+    "hard_hit_pct": 86,
+    "xwoba": 72,
+    "xba": 64,
+    "bb_pct": 91,
+    "sprint_speed": 19,
+    "k_pct": 77
+  }
+}

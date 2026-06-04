@@ -1,0 +1,26 @@
+{
+  "id": 682641,
+  "name": "Luis Matos",
+  "team": "SF",
+  "pa": 146,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 111.6,
+  "barrel_pct": 6.0,
+  "hard_hit_pct": 37.7,
+  "xwoba": 0.274,
+  "xba": 0.219,
+  "k_pct": 14.7,
+  "bb_pct": 6.0,
+  "sprint_speed": 27.4,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 64,
+    "barrel_pct": 59,
+    "hard_hit_pct": 38,
+    "xwoba": 20,
+    "xba": 26,
+    "bb_pct": 27,
+    "sprint_speed": 47,
+    "k_pct": 89
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 643217,
+  "name": "Andrew Benintendi",
+  "team": "CWS",
+  "pa": 344,
+  "avg_exit_velo": 88.0,
+  "max_exit_velo": 108.5,
+  "barrel_pct": 8.1,
+  "hard_hit_pct": 36.9,
+  "xwoba": 0.32,
+  "xba": 0.234,
+  "k_pct": 17.4,
+  "bb_pct": 8.5,
+  "sprint_speed": 26.7,
+  "percentiles": {
+    "avg_exit_velo": 32,
+    "max_exit_velo": 22,
+    "barrel_pct": 83,
+    "hard_hit_pct": 34,
+    "xwoba": 62,
+    "xba": 41,
+    "bb_pct": 56,
+    "sprint_speed": 29,
+    "k_pct": 80
+  }
+}

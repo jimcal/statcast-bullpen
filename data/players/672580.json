@@ -1,0 +1,26 @@
+{
+  "id": 672580,
+  "name": "Maikel Garcia",
+  "team": "KC",
+  "pa": 519,
+  "avg_exit_velo": 91.3,
+  "max_exit_velo": 110.3,
+  "barrel_pct": 4.4,
+  "hard_hit_pct": 45.1,
+  "xwoba": 0.335,
+  "xba": 0.276,
+  "k_pct": 12.6,
+  "bb_pct": 9.3,
+  "sprint_speed": 27.9,
+  "percentiles": {
+    "avg_exit_velo": 85,
+    "max_exit_velo": 46,
+    "barrel_pct": 38,
+    "hard_hit_pct": 72,
+    "xwoba": 79,
+    "xba": 93,
+    "bb_pct": 66,
+    "sprint_speed": 62,
+    "k_pct": 95
+  }
+}

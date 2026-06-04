@@ -1,0 +1,26 @@
+{
+  "id": 666149,
+  "name": "Tyler Fitzgerald",
+  "team": "SF",
+  "pa": 154,
+  "avg_exit_velo": 84.5,
+  "max_exit_velo": 107.0,
+  "barrel_pct": 2.9,
+  "hard_hit_pct": 27.9,
+  "xwoba": 0.242,
+  "xba": 0.192,
+  "k_pct": 28.8,
+  "bb_pct": 7.0,
+  "sprint_speed": 29.6,
+  "percentiles": {
+    "avg_exit_velo": 2,
+    "max_exit_velo": 8,
+    "barrel_pct": 20,
+    "hard_hit_pct": 8,
+    "xwoba": 5,
+    "xba": 8,
+    "bb_pct": 40,
+    "sprint_speed": 97,
+    "k_pct": 16
+  }
+}
