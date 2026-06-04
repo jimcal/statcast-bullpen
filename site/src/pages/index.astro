@@ -1,0 +1,202 @@
+---
+import Base from "@/layouts/Base.astro";
+import { loadIndex, loadMeta } from "@/lib/data";
+
+const players = loadIndex();
+const meta = loadMeta();
+
+const cols = [
+  { key: "name", label: "Player", numeric: false },
+  { key: "team", label: "Team", numeric: false },
+  { key: "pa", label: "PA", numeric: true, digits: 0 },
+  { key: "avg_exit_velo", label: "EV", numeric: true, digits: 1 },
+  { key: "max_exit_velo", label: "maxEV", numeric: true, digits: 1 },
+  { key: "barrel_pct", label: "Brl%", numeric: true, digits: 1 },
+  { key: "hard_hit_pct", label: "HH%", numeric: true, digits: 1 },
+  { key: "xwoba", label: "xwOBA", numeric: true, digits: 3 },
+  { key: "xba", label: "xBA", numeric: true, digits: 3 },
+  { key: "k_pct", label: "K%", numeric: true, digits: 1 },
+  { key: "bb_pct", label: "BB%", numeric: true, digits: 1 },
+  { key: "sprint_speed", label: "Sprint", numeric: true, digits: 1 },
+] as const;
+
+function fmt(v: number | string | null, digits: number): string {
+  if (v === null || v === undefined) return "—";
+  if (typeof v === "string") return v;
+  return v.toFixed(digits);
+}
+---
+<Base title="Statcast Bullpen — 2025">
+  <span slot="meta">{meta.player_count} players · season {meta.season} · updated {meta.updated_at}</span>
+
+  <div class="controls">
+    <input id="search" type="search" placeholder="Filter by name or team…" autocomplete="off" />
+    <span id="count">{players.length} shown</span>
+  </div>
+
+  <div class="table-wrap">
+    <table id="players">
+      <thead>
+        <tr>
+          {cols.map((c, i) => (
+            <th data-key={c.key} data-numeric={c.numeric} class:list={[{ numeric: c.numeric }]}>
+              {c.label}<span class="caret"></span>
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {players.map((p) => (
+          <tr data-name={p.name.toLowerCase()} data-team={(p.team || "").toLowerCase()}>
+            {cols.map((c) => {
+              const v = (p as any)[c.key];
+              if (c.key === "name") {
+                return <td><a href={`/player/${p.id}/`}>{p.name}</a></td>;
+              }
+              if (c.key === "team") {
+                return <td>{p.team ?? "—"}</td>;
+              }
+              return (
+                <td class="numeric" data-value={v ?? ""}>
+                  {fmt(v, (c as any).digits ?? 1)}
+                </td>
+              );
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>
+
+<style>
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  #search {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 10px;
+    border-radius: 4px;
+    width: 280px;
+    font-size: 13px;
+  }
+  #count { color: var(--muted); font-size: 12px; }
+  .table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--panel);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  th, td {
+    padding: 8px 10px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
+  th {
+    background: #1a1f2b;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    position: sticky;
+    top: 0;
+  }
+  th:hover { color: var(--text); }
+  th.numeric, td.numeric { text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr:hover { background: #1a1f2b; }
+  .caret { display: inline-block; width: 10px; margin-left: 4px; opacity: 0.6; }
+  th.sort-asc .caret::after { content: "▲"; }
+  th.sort-desc .caret::after { content: "▼"; }
+</style>
+
+<script>
+  const table = document.getElementById("players") as HTMLTableElement;
+  const tbody = table.querySelector("tbody")!;
+  const search = document.getElementById("search") as HTMLInputElement;
+  const count = document.getElementById("count")!;
+  const headers = Array.from(table.querySelectorAll("th"));
+  let sortKey: string | null = null;
+  let sortDir: 1 | -1 = 1;
+
+  function getCell(row: HTMLTableRowElement, idx: number): string {
+    return row.cells[idx]?.textContent?.trim() ?? "";
+  }
+
+  function getValue(row: HTMLTableRowElement, idx: number, numeric: boolean): number | string {
+    if (numeric) {
+      const v = row.cells[idx]?.getAttribute("data-value");
+      if (v === null || v === "") return -Infinity;
+      const n = parseFloat(v);
+      return Number.isNaN(n) ? -Infinity : n;
+    }
+    return getCell(row, idx).toLowerCase();
+  }
+
+  function applySort() {
+    if (!sortKey) return;
+    const idx = headers.findIndex((h) => h.getAttribute("data-key") === sortKey);
+    if (idx < 0) return;
+    const numeric = headers[idx].getAttribute("data-numeric") === "true";
+    const rows = Array.from(tbody.querySelectorAll("tr"));
+    rows.sort((a, b) => {
+      const va = getValue(a, idx, numeric);
+      const vb = getValue(b, idx, numeric);
+      if (va < vb) return -1 * sortDir;
+      if (va > vb) return 1 * sortDir;
+      return 0;
+    });
+    rows.forEach((r) => tbody.appendChild(r));
+    headers.forEach((h) => h.classList.remove("sort-asc", "sort-desc"));
+    headers[idx].classList.add(sortDir === 1 ? "sort-asc" : "sort-desc");
+  }
+
+  headers.forEach((h) => {
+    h.addEventListener("click", () => {
+      const key = h.getAttribute("data-key");
+      if (!key) return;
+      if (sortKey === key) {
+        sortDir = (sortDir === 1 ? -1 : 1);
+      } else {
+        sortKey = key;
+        const numeric = h.getAttribute("data-numeric") === "true";
+        sortDir = numeric ? -1 : 1;
+      }
+      applySort();
+    });
+  });
+
+  function applyFilter() {
+    const q = search.value.trim().toLowerCase();
+    const rows = Array.from(tbody.querySelectorAll("tr"));
+    let shown = 0;
+    rows.forEach((r) => {
+      const name = r.getAttribute("data-name") ?? "";
+      const team = r.getAttribute("data-team") ?? "";
+      const match = !q || name.includes(q) || team.includes(q);
+      (r as HTMLElement).style.display = match ? "" : "none";
+      if (match) shown++;
+    });
+    count.textContent = `${shown} shown`;
+  }
+
+  search.addEventListener("input", applyFilter);
+
+  // Default sort: PA desc
+  sortKey = "pa";
+  sortDir = -1;
+  applySort();
+</script>

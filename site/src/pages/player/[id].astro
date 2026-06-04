@@ -1,0 +1,137 @@
+---
+import Base from "@/layouts/Base.astro";
+import { allPlayerIds, loadPlayer } from "@/lib/data";
+
+export function getStaticPaths() {
+  return allPlayerIds().map((id) => ({ params: { id: String(id) } }));
+}
+
+const { id } = Astro.params;
+const player = loadPlayer(id!);
+
+const STATS: {
+  key: keyof typeof player;
+  label: string;
+  digits: number;
+  unit?: string;
+}[] = [
+  { key: "avg_exit_velo", label: "Avg Exit Velo", digits: 1, unit: "mph" },
+  { key: "max_exit_velo", label: "Max Exit Velo", digits: 1, unit: "mph" },
+  { key: "barrel_pct", label: "Barrel %", digits: 1, unit: "%" },
+  { key: "hard_hit_pct", label: "Hard-Hit %", digits: 1, unit: "%" },
+  { key: "xwoba", label: "xwOBA", digits: 3 },
+  { key: "xba", label: "xBA", digits: 3 },
+  { key: "k_pct", label: "K %", digits: 1, unit: "%" },
+  { key: "bb_pct", label: "BB %", digits: 1, unit: "%" },
+  { key: "sprint_speed", label: "Sprint Speed", digits: 1, unit: "ft/s" },
+];
+
+function fmt(v: number | null | undefined, digits: number): string {
+  if (v === null || v === undefined) return "—";
+  return v.toFixed(digits);
+}
+
+function barColor(pct: number | null | undefined): string {
+  if (pct === null || pct === undefined) return "#444";
+  // Savant-style red→gray→blue gradient
+  if (pct >= 75) return "#dc2626";
+  if (pct >= 60) return "#ef6845";
+  if (pct >= 40) return "#94a3b8";
+  if (pct >= 25) return "#5a8cd6";
+  return "#2563eb";
+}
+---
+<Base title={`${player.name} — Statcast Bullpen`}>
+  <span slot="meta">
+    <a href="/">← all players</a>
+  </span>
+
+  <div class="player-head">
+    <div>
+      <h2>{player.name}</h2>
+      <div class="sub">{player.team ?? "—"} · {player.pa} PA</div>
+    </div>
+  </div>
+
+  <div class="bars">
+    {STATS.map((s) => {
+      const val = player[s.key] as number | null;
+      const pct = player.percentiles?.[s.key] ?? null;
+      const color = barColor(pct);
+      return (
+        <div class="bar-row">
+          <div class="bar-label">{s.label}</div>
+          <div class="bar-val">{fmt(val, s.digits)}{s.unit ? ` ${s.unit}` : ""}</div>
+          <div class="bar-track">
+            {pct !== null && pct !== undefined ? (
+              <div
+                class="bar-fill"
+                style={`width: ${pct}%; background: ${color};`}
+              ></div>
+            ) : null}
+            <div class="bar-mid"></div>
+          </div>
+          <div class="bar-pct" style={`background: ${color};`}>
+            {pct ?? "—"}
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</Base>
+
+<style>
+  .player-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .player-head h2 { margin: 0; font-size: 24px; }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+  .bars {
+    display: grid;
+    gap: 10px;
+    max-width: 900px;
+  }
+  .bar-row {
+    display: grid;
+    grid-template-columns: 160px 90px 1fr 48px;
+    align-items: center;
+    gap: 12px;
+  }
+  .bar-label { color: var(--muted); font-size: 13px; }
+  .bar-val { font-variant-numeric: tabular-nums; font-weight: 600; }
+  .bar-track {
+    position: relative;
+    height: 14px;
+    background: #1a1f2b;
+    border-radius: 7px;
+    overflow: hidden;
+  }
+  .bar-fill {
+    height: 100%;
+    border-radius: 7px;
+    transition: width 0.3s;
+  }
+  .bar-mid {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border);
+  }
+  .bar-pct {
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 2px 0;
+    border-radius: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+</style>
