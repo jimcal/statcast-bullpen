@@ -105,21 +105,6 @@
     "sprint_speed": 27.4
   },
   {
-    "id": 686469,
-    "name": "Vinnie Pasquantino",
-    "team": "KC",
-    "pa": 519,
-    "avg_exit_velo": 90.9,
-    "max_exit_velo": 114.4,
-    "barrel_pct": 8.2,
-    "hard_hit_pct": 44.7,
-    "xwoba": 0.334,
-    "xba": 0.259,
-    "k_pct": 15.7,
-    "bb_pct": 7.2,
-    "sprint_speed": 25.5
-  },
-  {
     "id": 672580,
     "name": "Maikel Garcia",
     "team": "KC",
@@ -133,6 +118,21 @@
     "k_pct": 12.6,
     "bb_pct": 9.3,
     "sprint_speed": 27.9
+  },
+  {
+    "id": 686469,
+    "name": "Vinnie Pasquantino",
+    "team": "KC",
+    "pa": 519,
+    "avg_exit_velo": 90.9,
+    "max_exit_velo": 114.4,
+    "barrel_pct": 8.2,
+    "hard_hit_pct": 44.7,
+    "xwoba": 0.334,
+    "xba": 0.259,
+    "k_pct": 15.7,
+    "bb_pct": 7.2,
+    "sprint_speed": 25.5
   },
   {
     "id": 645277,
@@ -240,21 +240,6 @@
     "sprint_speed": 28.6
   },
   {
-    "id": 671739,
-    "name": "Michael Harris II",
-    "team": "ATL",
-    "pa": 494,
-    "avg_exit_velo": 90.2,
-    "max_exit_velo": 114.1,
-    "barrel_pct": 7.0,
-    "hard_hit_pct": 43.4,
-    "xwoba": 0.315,
-    "xba": 0.268,
-    "k_pct": 20.0,
-    "bb_pct": 2.5,
-    "sprint_speed": 28.5
-  },
-  {
     "id": 666182,
     "name": "Bo Bichette",
     "team": "TOR",
@@ -268,6 +253,21 @@
     "k_pct": 14.5,
     "bb_pct": 6.7,
     "sprint_speed": 26.1
+  },
+  {
+    "id": 671739,
+    "name": "Michael Harris II",
+    "team": "ATL",
+    "pa": 494,
+    "avg_exit_velo": 90.2,
+    "max_exit_velo": 114.1,
+    "barrel_pct": 7.0,
+    "hard_hit_pct": 43.4,
+    "xwoba": 0.315,
+    "xba": 0.268,
+    "k_pct": 20.0,
+    "bb_pct": 2.5,
+    "sprint_speed": 28.5
   },
   {
     "id": 808982,
@@ -510,21 +510,6 @@
     "sprint_speed": 28.9
   },
   {
-    "id": 680776,
-    "name": "Jarren Duran",
-    "team": "BOS",
-    "pa": 455,
-    "avg_exit_velo": 91.8,
-    "max_exit_velo": 117.7,
-    "barrel_pct": 6.3,
-    "hard_hit_pct": 46.8,
-    "xwoba": 0.326,
-    "xba": 0.248,
-    "k_pct": 24.4,
-    "bb_pct": 8.5,
-    "sprint_speed": 29.1
-  },
-  {
     "id": 641487,
     "name": "J.P. Crawford",
     "team": "SEA",
@@ -538,6 +523,21 @@
     "k_pct": 18.4,
     "bb_pct": 11.1,
     "sprint_speed": 26.7
+  },
+  {
+    "id": 680776,
+    "name": "Jarren Duran",
+    "team": "BOS",
+    "pa": 455,
+    "avg_exit_velo": 91.8,
+    "max_exit_velo": 117.7,
+    "barrel_pct": 6.3,
+    "hard_hit_pct": 46.8,
+    "xwoba": 0.326,
+    "xba": 0.248,
+    "k_pct": 24.4,
+    "bb_pct": 8.5,
+    "sprint_speed": 29.1
   },
   {
     "id": 607043,
@@ -585,21 +585,6 @@
     "sprint_speed": 25.2
   },
   {
-    "id": 681624,
-    "name": "Andy Pages",
-    "team": "LAD",
-    "pa": 452,
-    "avg_exit_velo": 88.6,
-    "max_exit_velo": 110.6,
-    "barrel_pct": 6.1,
-    "hard_hit_pct": 37.2,
-    "xwoba": 0.316,
-    "xba": 0.258,
-    "k_pct": 21.5,
-    "bb_pct": 4.3,
-    "sprint_speed": 28.1
-  },
-  {
     "id": 661388,
     "name": "William Contreras",
     "team": "MIL",
@@ -613,6 +598,21 @@
     "k_pct": 18.2,
     "bb_pct": 12.5,
     "sprint_speed": 26.2
+  },
+  {
+    "id": 681624,
+    "name": "Andy Pages",
+    "team": "LAD",
+    "pa": 452,
+    "avg_exit_velo": 88.6,
+    "max_exit_velo": 110.6,
+    "barrel_pct": 6.1,
+    "hard_hit_pct": 37.2,
+    "xwoba": 0.316,
+    "xba": 0.258,
+    "k_pct": 21.5,
+    "bb_pct": 4.3,
+    "sprint_speed": 28.1
   },
   {
     "id": 673237,
@@ -660,21 +660,6 @@
     "sprint_speed": 29.1
   },
   {
-    "id": 665742,
-    "name": "Juan Soto",
-    "team": "NYM",
-    "pa": 447,
-    "avg_exit_velo": 93.8,
-    "max_exit_velo": 115.0,
-    "barrel_pct": 11.3,
-    "hard_hit_pct": 55.3,
-    "xwoba": 0.429,
-    "xba": 0.288,
-    "k_pct": 19.2,
-    "bb_pct": 17.8,
-    "sprint_speed": 25.8
-  },
-  {
     "id": 702616,
     "name": "Jackson Holliday",
     "team": "BAL",
@@ -688,6 +673,21 @@
     "k_pct": 21.6,
     "bb_pct": 8.6,
     "sprint_speed": 28.6
+  },
+  {
+    "id": 665742,
+    "name": "Juan Soto",
+    "team": "NYM",
+    "pa": 447,
+    "avg_exit_velo": 93.8,
+    "max_exit_velo": 115.0,
+    "barrel_pct": 11.3,
+    "hard_hit_pct": 55.3,
+    "xwoba": 0.429,
+    "xba": 0.288,
+    "k_pct": 19.2,
+    "bb_pct": 17.8,
+    "sprint_speed": 25.8
   },
   {
     "id": 683002,
@@ -810,21 +810,6 @@
     "sprint_speed": 25.6
   },
   {
-    "id": 682663,
-    "name": "Agust\u00edn Ram\u00edrez",
-    "team": "MIA",
-    "pa": 428,
-    "avg_exit_velo": 90.8,
-    "max_exit_velo": 116.9,
-    "barrel_pct": 8.0,
-    "hard_hit_pct": 47.0,
-    "xwoba": 0.332,
-    "xba": 0.259,
-    "k_pct": 19.3,
-    "bb_pct": 6.2,
-    "sprint_speed": 26.7
-  },
-  {
     "id": 621020,
     "name": "Dansby Swanson",
     "team": "CHC",
@@ -838,6 +823,21 @@
     "k_pct": 27.2,
     "bb_pct": 7.4,
     "sprint_speed": 28.5
+  },
+  {
+    "id": 682663,
+    "name": "Agust\u00edn Ram\u00edrez",
+    "team": "MIA",
+    "pa": 428,
+    "avg_exit_velo": 90.8,
+    "max_exit_velo": 116.9,
+    "barrel_pct": 8.0,
+    "hard_hit_pct": 47.0,
+    "xwoba": 0.332,
+    "xba": 0.259,
+    "k_pct": 19.3,
+    "bb_pct": 6.2,
+    "sprint_speed": 26.7
   },
   {
     "id": 668227,
@@ -1035,21 +1035,6 @@
     "sprint_speed": 26.5
   },
   {
-    "id": 682998,
-    "name": "Corbin Carroll",
-    "team": "AZ",
-    "pa": 415,
-    "avg_exit_velo": 92.1,
-    "max_exit_velo": 115.8,
-    "barrel_pct": 9.3,
-    "hard_hit_pct": 49.9,
-    "xwoba": 0.372,
-    "xba": 0.262,
-    "k_pct": 23.8,
-    "bb_pct": 10.4,
-    "sprint_speed": 29.8
-  },
-  {
     "id": 673548,
     "name": "Seiya Suzuki",
     "team": "CHC",
@@ -1063,6 +1048,21 @@
     "k_pct": 25.5,
     "bb_pct": 10.5,
     "sprint_speed": 28.4
+  },
+  {
+    "id": 682998,
+    "name": "Corbin Carroll",
+    "team": "AZ",
+    "pa": 415,
+    "avg_exit_velo": 92.1,
+    "max_exit_velo": 115.8,
+    "barrel_pct": 9.3,
+    "hard_hit_pct": 49.9,
+    "xwoba": 0.372,
+    "xba": 0.262,
+    "k_pct": 23.8,
+    "bb_pct": 10.4,
+    "sprint_speed": 29.8
   },
   {
     "id": 681082,
@@ -1155,21 +1155,6 @@
     "sprint_speed": 25.9
   },
   {
-    "id": 678246,
-    "name": "Miguel Vargas",
-    "team": "CWS",
-    "pa": 407,
-    "avg_exit_velo": 89.7,
-    "max_exit_velo": 110.8,
-    "barrel_pct": 6.7,
-    "hard_hit_pct": 40.5,
-    "xwoba": 0.319,
-    "xba": 0.237,
-    "k_pct": 17.6,
-    "bb_pct": 9.8,
-    "sprint_speed": 27.5
-  },
-  {
     "id": 592885,
     "name": "Christian Yelich",
     "team": "MIL",
@@ -1183,6 +1168,21 @@
     "k_pct": 25.8,
     "bb_pct": 10.1,
     "sprint_speed": 28.2
+  },
+  {
+    "id": 678246,
+    "name": "Miguel Vargas",
+    "team": "CWS",
+    "pa": 407,
+    "avg_exit_velo": 89.7,
+    "max_exit_velo": 110.8,
+    "barrel_pct": 6.7,
+    "hard_hit_pct": 40.5,
+    "xwoba": 0.319,
+    "xba": 0.237,
+    "k_pct": 17.6,
+    "bb_pct": 9.8,
+    "sprint_speed": 27.5
   },
   {
     "id": 593428,
@@ -1305,6 +1305,21 @@
     "sprint_speed": 26.1
   },
   {
+    "id": 553993,
+    "name": "Eugenio Su\u00e1rez",
+    "team": "SEA",
+    "pa": 399,
+    "avg_exit_velo": 90.2,
+    "max_exit_velo": 113.8,
+    "barrel_pct": 8.7,
+    "hard_hit_pct": 47.6,
+    "xwoba": 0.32,
+    "xba": 0.211,
+    "k_pct": 30.2,
+    "bb_pct": 7.1,
+    "sprint_speed": 26.4
+  },
+  {
     "id": 683011,
     "name": "Anthony Volpe",
     "team": "NYY",
@@ -1318,21 +1333,6 @@
     "k_pct": 26.7,
     "bb_pct": 6.9,
     "sprint_speed": 28.3
-  },
-  {
-    "id": 680977,
-    "name": "Brendan Donovan",
-    "team": "STL",
-    "pa": 399,
-    "avg_exit_velo": 89.7,
-    "max_exit_velo": 109.6,
-    "barrel_pct": 6.8,
-    "hard_hit_pct": 40.9,
-    "xwoba": 0.346,
-    "xba": 0.28,
-    "k_pct": 13.0,
-    "bb_pct": 8.2,
-    "sprint_speed": 26.6
   },
   {
     "id": 669701,
@@ -1350,19 +1350,19 @@
     "sprint_speed": 27.5
   },
   {
-    "id": 553993,
-    "name": "Eugenio Su\u00e1rez",
-    "team": "SEA",
+    "id": 680977,
+    "name": "Brendan Donovan",
+    "team": "STL",
     "pa": 399,
-    "avg_exit_velo": 90.2,
-    "max_exit_velo": 113.8,
-    "barrel_pct": 8.7,
-    "hard_hit_pct": 47.6,
-    "xwoba": 0.32,
-    "xba": 0.211,
-    "k_pct": 30.2,
-    "bb_pct": 7.1,
-    "sprint_speed": 26.4
+    "avg_exit_velo": 89.7,
+    "max_exit_velo": 109.6,
+    "barrel_pct": 6.8,
+    "hard_hit_pct": 40.9,
+    "xwoba": 0.346,
+    "xba": 0.28,
+    "k_pct": 13.0,
+    "bb_pct": 8.2,
+    "sprint_speed": 26.6
   },
   {
     "id": 679529,
@@ -1545,6 +1545,21 @@
     "sprint_speed": 27.0
   },
   {
+    "id": 664761,
+    "name": "Alec Bohm",
+    "team": "PHI",
+    "pa": 388,
+    "avg_exit_velo": 90.8,
+    "max_exit_velo": 109.6,
+    "barrel_pct": 4.8,
+    "hard_hit_pct": 46.4,
+    "xwoba": 0.324,
+    "xba": 0.275,
+    "k_pct": 15.9,
+    "bb_pct": 6.7,
+    "sprint_speed": 26.5
+  },
+  {
     "id": 592450,
     "name": "Aaron Judge",
     "team": "NYY",
@@ -1560,18 +1575,18 @@
     "sprint_speed": 27.1
   },
   {
-    "id": 664761,
-    "name": "Alec Bohm",
-    "team": "PHI",
-    "pa": 388,
-    "avg_exit_velo": 90.8,
-    "max_exit_velo": 109.6,
-    "barrel_pct": 4.8,
-    "hard_hit_pct": 46.4,
-    "xwoba": 0.324,
-    "xba": 0.275,
-    "k_pct": 15.9,
-    "bb_pct": 6.7,
+    "id": 683737,
+    "name": "Michael Busch",
+    "team": "CHC",
+    "pa": 387,
+    "avg_exit_velo": 92.2,
+    "max_exit_velo": 111.9,
+    "barrel_pct": 11.1,
+    "hard_hit_pct": 47.3,
+    "xwoba": 0.378,
+    "xba": 0.262,
+    "k_pct": 23.0,
+    "bb_pct": 9.5,
     "sprint_speed": 26.5
   },
   {
@@ -1588,21 +1603,6 @@
     "k_pct": 21.5,
     "bb_pct": 9.3,
     "sprint_speed": 26.1
-  },
-  {
-    "id": 683737,
-    "name": "Michael Busch",
-    "team": "CHC",
-    "pa": 387,
-    "avg_exit_velo": 92.2,
-    "max_exit_velo": 111.9,
-    "barrel_pct": 11.1,
-    "hard_hit_pct": 47.3,
-    "xwoba": 0.378,
-    "xba": 0.262,
-    "k_pct": 23.0,
-    "bb_pct": 9.5,
-    "sprint_speed": 26.5
   },
   {
     "id": 543760,
@@ -1635,6 +1635,36 @@
     "sprint_speed": 26.2
   },
   {
+    "id": 605137,
+    "name": "Josh Bell",
+    "team": "WSH",
+    "pa": 383,
+    "avg_exit_velo": 90.4,
+    "max_exit_velo": 114.1,
+    "barrel_pct": 8.6,
+    "hard_hit_pct": 47.0,
+    "xwoba": 0.359,
+    "xba": 0.256,
+    "k_pct": 16.5,
+    "bb_pct": 10.7,
+    "sprint_speed": 25.2
+  },
+  {
+    "id": 669127,
+    "name": "Shea Langeliers",
+    "team": "ATH",
+    "pa": 383,
+    "avg_exit_velo": 90.9,
+    "max_exit_velo": 114.5,
+    "barrel_pct": 8.2,
+    "hard_hit_pct": 44.9,
+    "xwoba": 0.328,
+    "xba": 0.251,
+    "k_pct": 19.7,
+    "bb_pct": 6.9,
+    "sprint_speed": 28.6
+  },
+  {
     "id": 547180,
     "name": "Bryce Harper",
     "team": "PHI",
@@ -1665,34 +1695,19 @@
     "sprint_speed": 28.0
   },
   {
-    "id": 669127,
-    "name": "Shea Langeliers",
-    "team": "ATH",
-    "pa": 383,
-    "avg_exit_velo": 90.9,
-    "max_exit_velo": 114.5,
-    "barrel_pct": 8.2,
-    "hard_hit_pct": 44.9,
-    "xwoba": 0.328,
-    "xba": 0.251,
-    "k_pct": 19.7,
-    "bb_pct": 6.9,
-    "sprint_speed": 28.6
-  },
-  {
-    "id": 605137,
-    "name": "Josh Bell",
-    "team": "WSH",
-    "pa": 383,
-    "avg_exit_velo": 90.4,
-    "max_exit_velo": 114.1,
-    "barrel_pct": 8.6,
-    "hard_hit_pct": 47.0,
-    "xwoba": 0.359,
-    "xba": 0.256,
-    "k_pct": 16.5,
-    "bb_pct": 10.7,
-    "sprint_speed": 25.2
+    "id": 805367,
+    "name": "Chase Meidroth",
+    "team": "CWS",
+    "pa": 382,
+    "avg_exit_velo": 88.2,
+    "max_exit_velo": 107.1,
+    "barrel_pct": 1.2,
+    "hard_hit_pct": 36.1,
+    "xwoba": 0.3,
+    "xba": 0.254,
+    "k_pct": 14.3,
+    "bb_pct": 8.9,
+    "sprint_speed": 27.0
   },
   {
     "id": 606192,
@@ -1708,21 +1723,6 @@
     "k_pct": 24.9,
     "bb_pct": 5.0,
     "sprint_speed": 28.1
-  },
-  {
-    "id": 805367,
-    "name": "Chase Meidroth",
-    "team": "CWS",
-    "pa": 382,
-    "avg_exit_velo": 88.2,
-    "max_exit_velo": 107.1,
-    "barrel_pct": 1.2,
-    "hard_hit_pct": 36.1,
-    "xwoba": 0.3,
-    "xba": 0.254,
-    "k_pct": 14.3,
-    "bb_pct": 8.9,
-    "sprint_speed": 27.0
   },
   {
     "id": 676572,
@@ -1770,19 +1770,19 @@
     "sprint_speed": 27.0
   },
   {
-    "id": 802415,
-    "name": "Chandler Simpson",
-    "team": "TB",
+    "id": 573262,
+    "name": "Mike Yastrzemski",
+    "team": "KC",
     "pa": 376,
-    "avg_exit_velo": 84.3,
-    "max_exit_velo": 107.6,
-    "barrel_pct": 0.0,
-    "hard_hit_pct": 17.3,
-    "xwoba": 0.297,
-    "xba": 0.295,
-    "k_pct": 9.8,
-    "bb_pct": 4.5,
-    "sprint_speed": 29.6
+    "avg_exit_velo": 90.8,
+    "max_exit_velo": 109.3,
+    "barrel_pct": 5.7,
+    "hard_hit_pct": 42.6,
+    "xwoba": 0.329,
+    "xba": 0.237,
+    "k_pct": 19.4,
+    "bb_pct": 12.9,
+    "sprint_speed": 26.9
   },
   {
     "id": 666176,
@@ -1800,21 +1800,6 @@
     "sprint_speed": 27.9
   },
   {
-    "id": 573262,
-    "name": "Mike Yastrzemski",
-    "team": "KC",
-    "pa": 376,
-    "avg_exit_velo": 90.8,
-    "max_exit_velo": 109.3,
-    "barrel_pct": 5.7,
-    "hard_hit_pct": 42.6,
-    "xwoba": 0.329,
-    "xba": 0.237,
-    "k_pct": 19.4,
-    "bb_pct": 12.9,
-    "sprint_speed": 26.9
-  },
-  {
     "id": 592663,
     "name": "J.T. Realmuto",
     "team": "PHI",
@@ -1828,6 +1813,21 @@
     "k_pct": 23.3,
     "bb_pct": 6.2,
     "sprint_speed": 28.4
+  },
+  {
+    "id": 802415,
+    "name": "Chandler Simpson",
+    "team": "TB",
+    "pa": 376,
+    "avg_exit_velo": 84.3,
+    "max_exit_velo": 107.6,
+    "barrel_pct": 0.0,
+    "hard_hit_pct": 17.3,
+    "xwoba": 0.297,
+    "xba": 0.295,
+    "k_pct": 9.8,
+    "bb_pct": 4.5,
+    "sprint_speed": 29.6
   },
   {
     "id": 686668,
@@ -1905,21 +1905,6 @@
     "sprint_speed": 26.0
   },
   {
-    "id": 664034,
-    "name": "Ty France",
-    "team": "TOR",
-    "pa": 364,
-    "avg_exit_velo": 89.5,
-    "max_exit_velo": 110.5,
-    "barrel_pct": 5.7,
-    "hard_hit_pct": 44.2,
-    "xwoba": 0.328,
-    "xba": 0.259,
-    "k_pct": 17.0,
-    "bb_pct": 4.5,
-    "sprint_speed": 25.1
-  },
-  {
     "id": 664040,
     "name": "Brandon Lowe",
     "team": "TB",
@@ -1933,6 +1918,21 @@
     "k_pct": 26.9,
     "bb_pct": 6.9,
     "sprint_speed": 26.9
+  },
+  {
+    "id": 664034,
+    "name": "Ty France",
+    "team": "TOR",
+    "pa": 364,
+    "avg_exit_velo": 89.5,
+    "max_exit_velo": 110.5,
+    "barrel_pct": 5.7,
+    "hard_hit_pct": 44.2,
+    "xwoba": 0.328,
+    "xba": 0.259,
+    "k_pct": 17.0,
+    "bb_pct": 4.5,
+    "sprint_speed": 25.1
   },
   {
     "id": 457705,
@@ -1965,21 +1965,6 @@
     "sprint_speed": 27.4
   },
   {
-    "id": 687263,
-    "name": "Zach Neto",
-    "team": "LAA",
-    "pa": 358,
-    "avg_exit_velo": 91.0,
-    "max_exit_velo": 111.3,
-    "barrel_pct": 9.0,
-    "hard_hit_pct": 46.6,
-    "xwoba": 0.344,
-    "xba": 0.251,
-    "k_pct": 26.9,
-    "bb_pct": 6.0,
-    "sprint_speed": 28.1
-  },
-  {
     "id": 663757,
     "name": "Trent Grisham",
     "team": "NYY",
@@ -1993,6 +1978,21 @@
     "k_pct": 24.0,
     "bb_pct": 13.9,
     "sprint_speed": 26.7
+  },
+  {
+    "id": 687263,
+    "name": "Zach Neto",
+    "team": "LAA",
+    "pa": 358,
+    "avg_exit_velo": 91.0,
+    "max_exit_velo": 111.3,
+    "barrel_pct": 9.0,
+    "hard_hit_pct": 46.6,
+    "xwoba": 0.344,
+    "xba": 0.251,
+    "k_pct": 26.9,
+    "bb_pct": 6.0,
+    "sprint_speed": 28.1
   },
   {
     "id": 571448,
@@ -2040,21 +2040,6 @@
     "sprint_speed": 26.6
   },
   {
-    "id": 542303,
-    "name": "Marcell Ozuna",
-    "team": "ATL",
-    "pa": 350,
-    "avg_exit_velo": 89.9,
-    "max_exit_velo": 112.1,
-    "barrel_pct": 6.8,
-    "hard_hit_pct": 44.6,
-    "xwoba": 0.354,
-    "xba": 0.239,
-    "k_pct": 24.3,
-    "bb_pct": 15.9,
-    "sprint_speed": 25.3
-  },
-  {
     "id": 643446,
     "name": "Jeff McNeil",
     "team": "NYM",
@@ -2083,6 +2068,21 @@
     "k_pct": 29.4,
     "bb_pct": 9.6,
     "sprint_speed": 29.2
+  },
+  {
+    "id": 542303,
+    "name": "Marcell Ozuna",
+    "team": "ATL",
+    "pa": 350,
+    "avg_exit_velo": 89.9,
+    "max_exit_velo": 112.1,
+    "barrel_pct": 6.8,
+    "hard_hit_pct": 44.6,
+    "xwoba": 0.354,
+    "xba": 0.239,
+    "k_pct": 24.3,
+    "bb_pct": 15.9,
+    "sprint_speed": 25.3
   },
   {
     "id": 656716,
@@ -2160,6 +2160,21 @@
     "sprint_speed": 26.6
   },
   {
+    "id": 663968,
+    "name": "Jake Mangum",
+    "team": "TB",
+    "pa": 343,
+    "avg_exit_velo": 87.3,
+    "max_exit_velo": 108.3,
+    "barrel_pct": 2.1,
+    "hard_hit_pct": 33.4,
+    "xwoba": 0.276,
+    "xba": 0.251,
+    "k_pct": 15.0,
+    "bb_pct": 4.4,
+    "sprint_speed": 29.1
+  },
+  {
     "id": 694671,
     "name": "Wyatt Langford",
     "team": "TEX",
@@ -2188,21 +2203,6 @@
     "k_pct": 22.1,
     "bb_pct": 8.5,
     "sprint_speed": 27.0
-  },
-  {
-    "id": 663968,
-    "name": "Jake Mangum",
-    "team": "TB",
-    "pa": 343,
-    "avg_exit_velo": 87.3,
-    "max_exit_velo": 108.3,
-    "barrel_pct": 2.1,
-    "hard_hit_pct": 33.4,
-    "xwoba": 0.276,
-    "xba": 0.251,
-    "k_pct": 15.0,
-    "bb_pct": 4.4,
-    "sprint_speed": 29.1
   },
   {
     "id": 680718,
@@ -2595,21 +2595,6 @@
     "sprint_speed": 26.0
   },
   {
-    "id": 693304,
-    "name": "Nick Gonzales",
-    "team": "PIT",
-    "pa": 312,
-    "avg_exit_velo": 88.8,
-    "max_exit_velo": 109.9,
-    "barrel_pct": 3.4,
-    "hard_hit_pct": 38.8,
-    "xwoba": 0.291,
-    "xba": 0.254,
-    "k_pct": 17.9,
-    "bb_pct": 5.1,
-    "sprint_speed": 28.9
-  },
-  {
     "id": 641680,
     "name": "Jonah Heim",
     "team": "TEX",
@@ -2623,6 +2608,21 @@
     "k_pct": 20.3,
     "bb_pct": 7.4,
     "sprint_speed": 25.2
+  },
+  {
+    "id": 693304,
+    "name": "Nick Gonzales",
+    "team": "PIT",
+    "pa": 312,
+    "avg_exit_velo": 88.8,
+    "max_exit_velo": 109.9,
+    "barrel_pct": 3.4,
+    "hard_hit_pct": 38.8,
+    "xwoba": 0.291,
+    "xba": 0.254,
+    "k_pct": 17.9,
+    "bb_pct": 5.1,
+    "sprint_speed": 28.9
   },
   {
     "id": 595879,
@@ -2745,21 +2745,6 @@
     "sprint_speed": 29.2
   },
   {
-    "id": 624424,
-    "name": "Michael Conforto",
-    "team": "LAD",
-    "pa": 300,
-    "avg_exit_velo": 89.9,
-    "max_exit_velo": 112.9,
-    "barrel_pct": 6.0,
-    "hard_hit_pct": 44.0,
-    "xwoba": 0.33,
-    "xba": 0.233,
-    "k_pct": 24.9,
-    "bb_pct": 11.5,
-    "sprint_speed": 26.0
-  },
-  {
     "id": 687363,
     "name": "Victor Scott II",
     "team": "STL",
@@ -2773,6 +2758,21 @@
     "k_pct": 24.0,
     "bb_pct": 9.1,
     "sprint_speed": 30.2
+  },
+  {
+    "id": 624424,
+    "name": "Michael Conforto",
+    "team": "LAD",
+    "pa": 300,
+    "avg_exit_velo": 89.9,
+    "max_exit_velo": 112.9,
+    "barrel_pct": 6.0,
+    "hard_hit_pct": 44.0,
+    "xwoba": 0.33,
+    "xba": 0.233,
+    "k_pct": 24.9,
+    "bb_pct": 11.5,
+    "sprint_speed": 26.0
   },
   {
     "id": 668904,
@@ -2790,21 +2790,6 @@
     "sprint_speed": 26.8
   },
   {
-    "id": 665966,
-    "name": "Carlos Narv\u00e1ez",
-    "team": "BOS",
-    "pa": 296,
-    "avg_exit_velo": 91.1,
-    "max_exit_velo": 111.2,
-    "barrel_pct": 6.1,
-    "hard_hit_pct": 44.6,
-    "xwoba": 0.293,
-    "xba": 0.22,
-    "k_pct": 25.2,
-    "bb_pct": 9.0,
-    "sprint_speed": 25.6
-  },
-  {
     "id": 700337,
     "name": "Edgar Quero",
     "team": "CWS",
@@ -2818,6 +2803,21 @@
     "k_pct": 17.6,
     "bb_pct": 7.9,
     "sprint_speed": 24.9
+  },
+  {
+    "id": 665966,
+    "name": "Carlos Narv\u00e1ez",
+    "team": "BOS",
+    "pa": 296,
+    "avg_exit_velo": 91.1,
+    "max_exit_velo": 111.2,
+    "barrel_pct": 6.1,
+    "hard_hit_pct": 44.6,
+    "xwoba": 0.293,
+    "xba": 0.22,
+    "k_pct": 25.2,
+    "bb_pct": 9.0,
+    "sprint_speed": 25.6
   },
   {
     "id": 608369,
@@ -2865,21 +2865,6 @@
     "sprint_speed": 26.0
   },
   {
-    "id": 687462,
-    "name": "Spencer Horwitz",
-    "team": "PIT",
-    "pa": 292,
-    "avg_exit_velo": 87.4,
-    "max_exit_velo": 107.3,
-    "barrel_pct": 5.8,
-    "hard_hit_pct": 36.0,
-    "xwoba": 0.326,
-    "xba": 0.251,
-    "k_pct": 17.8,
-    "bb_pct": 10.7,
-    "sprint_speed": 25.5
-  },
-  {
     "id": 650489,
     "name": "Willi Castro",
     "team": "CHC",
@@ -2893,6 +2878,21 @@
     "k_pct": 24.4,
     "bb_pct": 8.8,
     "sprint_speed": 28.2
+  },
+  {
+    "id": 687462,
+    "name": "Spencer Horwitz",
+    "team": "PIT",
+    "pa": 292,
+    "avg_exit_velo": 87.4,
+    "max_exit_velo": 107.3,
+    "barrel_pct": 5.8,
+    "hard_hit_pct": 36.0,
+    "xwoba": 0.326,
+    "xba": 0.251,
+    "k_pct": 17.8,
+    "bb_pct": 10.7,
+    "sprint_speed": 25.5
   },
   {
     "id": 669242,
@@ -3150,21 +3150,6 @@
     "sprint_speed": 27.0
   },
   {
-    "id": 677800,
-    "name": "Wilyer Abreu",
-    "team": "BOS",
-    "pa": 276,
-    "avg_exit_velo": 90.8,
-    "max_exit_velo": 111.7,
-    "barrel_pct": 8.2,
-    "hard_hit_pct": 44.9,
-    "xwoba": 0.335,
-    "xba": 0.243,
-    "k_pct": 24.6,
-    "bb_pct": 9.5,
-    "sprint_speed": 27.6
-  },
-  {
     "id": 669016,
     "name": "Brandon Marsh",
     "team": "PHI",
@@ -3178,6 +3163,21 @@
     "k_pct": 26.1,
     "bb_pct": 8.9,
     "sprint_speed": 28.3
+  },
+  {
+    "id": 677800,
+    "name": "Wilyer Abreu",
+    "team": "BOS",
+    "pa": 276,
+    "avg_exit_velo": 90.8,
+    "max_exit_velo": 111.7,
+    "barrel_pct": 8.2,
+    "hard_hit_pct": 44.9,
+    "xwoba": 0.335,
+    "xba": 0.243,
+    "k_pct": 24.6,
+    "bb_pct": 9.5,
+    "sprint_speed": 27.6
   },
   {
     "id": 672356,
@@ -3195,21 +3195,6 @@
     "sprint_speed": 27.0
   },
   {
-    "id": 673357,
-    "name": "Luis Robert Jr.",
-    "team": "CWS",
-    "pa": 274,
-    "avg_exit_velo": 89.4,
-    "max_exit_velo": 115.8,
-    "barrel_pct": 6.5,
-    "hard_hit_pct": 41.6,
-    "xwoba": 0.321,
-    "xba": 0.246,
-    "k_pct": 26.0,
-    "bb_pct": 9.3,
-    "sprint_speed": 29.0
-  },
-  {
     "id": 602104,
     "name": "Ram\u00f3n Ur\u00edas",
     "team": "HOU",
@@ -3223,6 +3208,21 @@
     "k_pct": 22.5,
     "bb_pct": 6.9,
     "sprint_speed": 27.0
+  },
+  {
+    "id": 673357,
+    "name": "Luis Robert Jr.",
+    "team": "CWS",
+    "pa": 274,
+    "avg_exit_velo": 89.4,
+    "max_exit_velo": 115.8,
+    "barrel_pct": 6.5,
+    "hard_hit_pct": 41.6,
+    "xwoba": 0.321,
+    "xba": 0.246,
+    "k_pct": 26.0,
+    "bb_pct": 9.3,
+    "sprint_speed": 29.0
   },
   {
     "id": 609280,
@@ -3255,21 +3255,6 @@
     "sprint_speed": 27.1
   },
   {
-    "id": 678662,
-    "name": "Ezequiel Tovar",
-    "team": "COL",
-    "pa": 270,
-    "avg_exit_velo": 89.4,
-    "max_exit_velo": 112.5,
-    "barrel_pct": 6.4,
-    "hard_hit_pct": 38.9,
-    "xwoba": 0.319,
-    "xba": 0.261,
-    "k_pct": 25.1,
-    "bb_pct": 5.4,
-    "sprint_speed": 27.6
-  },
-  {
     "id": 691176,
     "name": "Jasson Dom\u00ednguez",
     "team": "NYY",
@@ -3285,19 +3270,19 @@
     "sprint_speed": 28.7
   },
   {
-    "id": 696285,
-    "name": "Jacob Young",
-    "team": "WSH",
-    "pa": 269,
-    "avg_exit_velo": 87.6,
-    "max_exit_velo": 107.0,
-    "barrel_pct": 1.4,
-    "hard_hit_pct": 34.2,
-    "xwoba": 0.297,
-    "xba": 0.262,
-    "k_pct": 17.9,
-    "bb_pct": 7.4,
-    "sprint_speed": 29.3
+    "id": 678662,
+    "name": "Ezequiel Tovar",
+    "team": "COL",
+    "pa": 270,
+    "avg_exit_velo": 89.4,
+    "max_exit_velo": 112.5,
+    "barrel_pct": 6.4,
+    "hard_hit_pct": 38.9,
+    "xwoba": 0.319,
+    "xba": 0.261,
+    "k_pct": 25.1,
+    "bb_pct": 5.4,
+    "sprint_speed": 27.6
   },
   {
     "id": 666310,
@@ -3313,6 +3298,21 @@
     "k_pct": 23.7,
     "bb_pct": 10.7,
     "sprint_speed": 27.6
+  },
+  {
+    "id": 696285,
+    "name": "Jacob Young",
+    "team": "WSH",
+    "pa": 269,
+    "avg_exit_velo": 87.6,
+    "max_exit_velo": 107.0,
+    "barrel_pct": 1.4,
+    "hard_hit_pct": 34.2,
+    "xwoba": 0.297,
+    "xba": 0.262,
+    "k_pct": 17.9,
+    "bb_pct": 7.4,
+    "sprint_speed": 29.3
   },
   {
     "id": 695734,
@@ -3345,21 +3345,6 @@
     "sprint_speed": 27.1
   },
   {
-    "id": 668939,
-    "name": "Adley Rutschman",
-    "team": "BAL",
-    "pa": 267,
-    "avg_exit_velo": 89.4,
-    "max_exit_velo": 111.3,
-    "barrel_pct": 5.5,
-    "hard_hit_pct": 38.6,
-    "xwoba": 0.325,
-    "xba": 0.241,
-    "k_pct": 15.6,
-    "bb_pct": 11.0,
-    "sprint_speed": 26.7
-  },
-  {
     "id": 665926,
     "name": "Andr\u00e9s Gim\u00e9nez",
     "team": "TOR",
@@ -3373,6 +3358,21 @@
     "k_pct": 18.5,
     "bb_pct": 6.5,
     "sprint_speed": 28.0
+  },
+  {
+    "id": 668939,
+    "name": "Adley Rutschman",
+    "team": "BAL",
+    "pa": 267,
+    "avg_exit_velo": 89.4,
+    "max_exit_velo": 111.3,
+    "barrel_pct": 5.5,
+    "hard_hit_pct": 38.6,
+    "xwoba": 0.325,
+    "xba": 0.241,
+    "k_pct": 15.6,
+    "bb_pct": 11.0,
+    "sprint_speed": 26.7
   },
   {
     "id": 669394,
@@ -3510,21 +3510,6 @@
     "sprint_speed": 27.9
   },
   {
-    "id": 682622,
-    "name": "Noelvi Marte",
-    "team": "CIN",
-    "pa": 256,
-    "avg_exit_velo": 88.5,
-    "max_exit_velo": 116.7,
-    "barrel_pct": 6.4,
-    "hard_hit_pct": 36.3,
-    "xwoba": 0.304,
-    "xba": 0.245,
-    "k_pct": 23.9,
-    "bb_pct": 4.7,
-    "sprint_speed": 29.0
-  },
-  {
     "id": 578428,
     "name": "Jose Iglesias",
     "team": "SD",
@@ -3538,6 +3523,21 @@
     "k_pct": 16.2,
     "bb_pct": 7.0,
     "sprint_speed": 27.8
+  },
+  {
+    "id": 682622,
+    "name": "Noelvi Marte",
+    "team": "CIN",
+    "pa": 256,
+    "avg_exit_velo": 88.5,
+    "max_exit_velo": 116.7,
+    "barrel_pct": 6.4,
+    "hard_hit_pct": 36.3,
+    "xwoba": 0.304,
+    "xba": 0.245,
+    "k_pct": 23.9,
+    "bb_pct": 4.7,
+    "sprint_speed": 29.0
   },
   {
     "id": 643565,
@@ -3885,21 +3885,6 @@
     "sprint_speed": 28.8
   },
   {
-    "id": 676609,
-    "name": "Jos\u00e9 Caballero",
-    "team": "NYY",
-    "pa": 222,
-    "avg_exit_velo": 86.0,
-    "max_exit_velo": 114.4,
-    "barrel_pct": 3.5,
-    "hard_hit_pct": 30.6,
-    "xwoba": 0.299,
-    "xba": 0.218,
-    "k_pct": 26.4,
-    "bb_pct": 12.5,
-    "sprint_speed": 28.3
-  },
-  {
     "id": 647351,
     "name": "Abraham Toro",
     "team": "BOS",
@@ -3913,6 +3898,21 @@
     "k_pct": 14.8,
     "bb_pct": 4.9,
     "sprint_speed": 27.9
+  },
+  {
+    "id": 676609,
+    "name": "Jos\u00e9 Caballero",
+    "team": "NYY",
+    "pa": 222,
+    "avg_exit_velo": 86.0,
+    "max_exit_velo": 114.4,
+    "barrel_pct": 3.5,
+    "hard_hit_pct": 30.6,
+    "xwoba": 0.299,
+    "xba": 0.218,
+    "k_pct": 26.4,
+    "bb_pct": 12.5,
+    "sprint_speed": 28.3
   },
   {
     "id": 670764,
@@ -3960,21 +3960,6 @@
     "sprint_speed": 25.9
   },
   {
-    "id": 668709,
-    "name": "JJ Bleday",
-    "team": "ATH",
-    "pa": 217,
-    "avg_exit_velo": 88.7,
-    "max_exit_velo": 109.9,
-    "barrel_pct": 4.9,
-    "hard_hit_pct": 38.7,
-    "xwoba": 0.276,
-    "xba": 0.197,
-    "k_pct": 26.5,
-    "bb_pct": 10.5,
-    "sprint_speed": 27.1
-  },
-  {
     "id": 686611,
     "name": "Dylan Crews",
     "team": "WSH",
@@ -3988,6 +3973,21 @@
     "k_pct": 23.6,
     "bb_pct": 7.5,
     "sprint_speed": 29.0
+  },
+  {
+    "id": 668709,
+    "name": "JJ Bleday",
+    "team": "ATH",
+    "pa": 217,
+    "avg_exit_velo": 88.7,
+    "max_exit_velo": 109.9,
+    "barrel_pct": 4.9,
+    "hard_hit_pct": 38.7,
+    "xwoba": 0.276,
+    "xba": 0.197,
+    "k_pct": 26.5,
+    "bb_pct": 10.5,
+    "sprint_speed": 27.1
   },
   {
     "id": 810938,
@@ -4215,6 +4215,21 @@
     "sprint_speed": 24.8
   },
   {
+    "id": 691781,
+    "name": "Brady House",
+    "team": "WSH",
+    "pa": 188,
+    "avg_exit_velo": 89.8,
+    "max_exit_velo": 111.5,
+    "barrel_pct": 2.9,
+    "hard_hit_pct": 46.3,
+    "xwoba": 0.284,
+    "xba": 0.256,
+    "k_pct": 28.5,
+    "bb_pct": 2.9,
+    "sprint_speed": 27.8
+  },
+  {
     "id": 624585,
     "name": "Jorge Soler",
     "team": "LAA",
@@ -4245,19 +4260,19 @@
     "sprint_speed": 29.9
   },
   {
-    "id": 691781,
-    "name": "Brady House",
-    "team": "WSH",
-    "pa": 188,
-    "avg_exit_velo": 89.8,
-    "max_exit_velo": 111.5,
-    "barrel_pct": 2.9,
-    "hard_hit_pct": 46.3,
-    "xwoba": 0.284,
-    "xba": 0.256,
-    "k_pct": 28.5,
-    "bb_pct": 2.9,
-    "sprint_speed": 27.8
+    "id": 686527,
+    "name": "Dominic Canzone",
+    "team": "SEA",
+    "pa": 187,
+    "avg_exit_velo": 92.3,
+    "max_exit_velo": 115.9,
+    "barrel_pct": 10.0,
+    "hard_hit_pct": 49.7,
+    "xwoba": 0.376,
+    "xba": 0.29,
+    "k_pct": 23.2,
+    "bb_pct": 7.0,
+    "sprint_speed": 26.5
   },
   {
     "id": 663886,
@@ -4273,21 +4288,6 @@
     "k_pct": 34.3,
     "bb_pct": 10.6,
     "sprint_speed": 26.8
-  },
-  {
-    "id": 686527,
-    "name": "Dominic Canzone",
-    "team": "SEA",
-    "pa": 187,
-    "avg_exit_velo": 92.3,
-    "max_exit_velo": 115.9,
-    "barrel_pct": 10.0,
-    "hard_hit_pct": 49.7,
-    "xwoba": 0.376,
-    "xba": 0.29,
-    "k_pct": 23.2,
-    "bb_pct": 7.0,
-    "sprint_speed": 26.5
   },
   {
     "id": 553869,
@@ -4365,21 +4365,6 @@
     "sprint_speed": 27.9
   },
   {
-    "id": 691019,
-    "name": "Kyle Teel",
-    "team": "CWS",
-    "pa": 178,
-    "avg_exit_velo": 88.3,
-    "max_exit_velo": 113.7,
-    "barrel_pct": 5.7,
-    "hard_hit_pct": 37.6,
-    "xwoba": 0.337,
-    "xba": 0.237,
-    "k_pct": 25.9,
-    "bb_pct": 12.5,
-    "sprint_speed": 27.5
-  },
-  {
     "id": 678554,
     "name": "Curtis Mead",
     "team": "CWS",
@@ -4393,6 +4378,21 @@
     "k_pct": 23.9,
     "bb_pct": 5.7,
     "sprint_speed": 26.9
+  },
+  {
+    "id": 691019,
+    "name": "Kyle Teel",
+    "team": "CWS",
+    "pa": 178,
+    "avg_exit_velo": 88.3,
+    "max_exit_velo": 113.7,
+    "barrel_pct": 5.7,
+    "hard_hit_pct": 37.6,
+    "xwoba": 0.337,
+    "xba": 0.237,
+    "k_pct": 25.9,
+    "bb_pct": 12.5,
+    "sprint_speed": 27.5
   },
   {
     "id": 641598,
@@ -4455,21 +4455,6 @@
     "sprint_speed": 26.2
   },
   {
-    "id": 701350,
-    "name": "Roman Anthony",
-    "team": "BOS",
-    "pa": 174,
-    "avg_exit_velo": 94.5,
-    "max_exit_velo": 113.7,
-    "barrel_pct": 8.9,
-    "hard_hit_pct": 60.3,
-    "xwoba": 0.372,
-    "xba": 0.258,
-    "k_pct": 27.7,
-    "bb_pct": 13.2,
-    "sprint_speed": 27.8
-  },
-  {
     "id": 663743,
     "name": "Nick Fortes",
     "team": "TB",
@@ -4485,19 +4470,19 @@
     "sprint_speed": 26.8
   },
   {
-    "id": 682626,
-    "name": "Francisco Alvarez",
-    "team": "NYM",
-    "pa": 173,
-    "avg_exit_velo": 93.1,
-    "max_exit_velo": 115.0,
-    "barrel_pct": 7.6,
-    "hard_hit_pct": 54.3,
-    "xwoba": 0.326,
-    "xba": 0.229,
-    "k_pct": 26.4,
-    "bb_pct": 9.7,
-    "sprint_speed": 26.0
+    "id": 701350,
+    "name": "Roman Anthony",
+    "team": "BOS",
+    "pa": 174,
+    "avg_exit_velo": 94.5,
+    "max_exit_velo": 113.7,
+    "barrel_pct": 8.9,
+    "hard_hit_pct": 60.3,
+    "xwoba": 0.372,
+    "xba": 0.258,
+    "k_pct": 27.7,
+    "bb_pct": 13.2,
+    "sprint_speed": 27.8
   },
   {
     "id": 695657,
@@ -4513,6 +4498,21 @@
     "k_pct": 29.2,
     "bb_pct": 8.8,
     "sprint_speed": 27.3
+  },
+  {
+    "id": 682626,
+    "name": "Francisco Alvarez",
+    "team": "NYM",
+    "pa": 173,
+    "avg_exit_velo": 93.1,
+    "max_exit_velo": 115.0,
+    "barrel_pct": 7.6,
+    "hard_hit_pct": 54.3,
+    "xwoba": 0.326,
+    "xba": 0.229,
+    "k_pct": 26.4,
+    "bb_pct": 9.7,
+    "sprint_speed": 26.0
   },
   {
     "id": 571771,
@@ -4665,21 +4665,6 @@
     "sprint_speed": 28.1
   },
   {
-    "id": 695506,
-    "name": "Jac Caglianone",
-    "team": "KC",
-    "pa": 158,
-    "avg_exit_velo": 89.4,
-    "max_exit_velo": 114.1,
-    "barrel_pct": 8.2,
-    "hard_hit_pct": 42.4,
-    "xwoba": 0.321,
-    "xba": 0.237,
-    "k_pct": 22.4,
-    "bb_pct": 7.8,
-    "sprint_speed": 26.8
-  },
-  {
     "id": 692225,
     "name": "Kristian Campbell",
     "team": "BOS",
@@ -4695,19 +4680,19 @@
     "sprint_speed": 27.2
   },
   {
-    "id": 606115,
-    "name": "Orlando Arcia",
-    "team": "COL",
-    "pa": 157,
-    "avg_exit_velo": 87.4,
-    "max_exit_velo": 108.0,
-    "barrel_pct": 1.9,
-    "hard_hit_pct": 33.8,
-    "xwoba": 0.236,
-    "xba": 0.207,
-    "k_pct": 22.0,
-    "bb_pct": 4.7,
-    "sprint_speed": 25.5
+    "id": 695506,
+    "name": "Jac Caglianone",
+    "team": "KC",
+    "pa": 158,
+    "avg_exit_velo": 89.4,
+    "max_exit_velo": 114.1,
+    "barrel_pct": 8.2,
+    "hard_hit_pct": 42.4,
+    "xwoba": 0.321,
+    "xba": 0.237,
+    "k_pct": 22.4,
+    "bb_pct": 7.8,
+    "sprint_speed": 26.8
   },
   {
     "id": 543877,
@@ -4725,6 +4710,21 @@
     "sprint_speed": 24.7
   },
   {
+    "id": 606115,
+    "name": "Orlando Arcia",
+    "team": "COL",
+    "pa": 157,
+    "avg_exit_velo": 87.4,
+    "max_exit_velo": 108.0,
+    "barrel_pct": 1.9,
+    "hard_hit_pct": 33.8,
+    "xwoba": 0.236,
+    "xba": 0.207,
+    "k_pct": 22.0,
+    "bb_pct": 4.7,
+    "sprint_speed": 25.5
+  },
+  {
     "id": 687231,
     "name": "Darell Hernaiz",
     "team": "ATH",
@@ -4738,51 +4738,6 @@
     "k_pct": 12.2,
     "bb_pct": 8.6,
     "sprint_speed": 28.2
-  },
-  {
-    "id": 807712,
-    "name": "Luke Keaschall",
-    "team": "MIN",
-    "pa": 154,
-    "avg_exit_velo": 86.2,
-    "max_exit_velo": 109.2,
-    "barrel_pct": 3.9,
-    "hard_hit_pct": 31.2,
-    "xwoba": 0.324,
-    "xba": 0.263,
-    "k_pct": 14.0,
-    "bb_pct": 9.2,
-    "sprint_speed": 28.7
-  },
-  {
-    "id": 664774,
-    "name": "LaMonte Wade Jr.",
-    "team": "LAA",
-    "pa": 154,
-    "avg_exit_velo": 89.7,
-    "max_exit_velo": 108.5,
-    "barrel_pct": 2.9,
-    "hard_hit_pct": 31.8,
-    "xwoba": 0.281,
-    "xba": 0.205,
-    "k_pct": 24.0,
-    "bb_pct": 11.2,
-    "sprint_speed": 26.0
-  },
-  {
-    "id": 666149,
-    "name": "Tyler Fitzgerald",
-    "team": "SF",
-    "pa": 154,
-    "avg_exit_velo": 84.5,
-    "max_exit_velo": 107.0,
-    "barrel_pct": 2.9,
-    "hard_hit_pct": 27.9,
-    "xwoba": 0.242,
-    "xba": 0.192,
-    "k_pct": 28.8,
-    "bb_pct": 7.0,
-    "sprint_speed": 29.6
   },
   {
     "id": 656976,
@@ -4815,6 +4770,51 @@
     "sprint_speed": 23.5
   },
   {
+    "id": 666149,
+    "name": "Tyler Fitzgerald",
+    "team": "SF",
+    "pa": 154,
+    "avg_exit_velo": 84.5,
+    "max_exit_velo": 107.0,
+    "barrel_pct": 2.9,
+    "hard_hit_pct": 27.9,
+    "xwoba": 0.242,
+    "xba": 0.192,
+    "k_pct": 28.8,
+    "bb_pct": 7.0,
+    "sprint_speed": 29.6
+  },
+  {
+    "id": 807712,
+    "name": "Luke Keaschall",
+    "team": "MIN",
+    "pa": 154,
+    "avg_exit_velo": 86.2,
+    "max_exit_velo": 109.2,
+    "barrel_pct": 3.9,
+    "hard_hit_pct": 31.2,
+    "xwoba": 0.324,
+    "xba": 0.263,
+    "k_pct": 14.0,
+    "bb_pct": 9.2,
+    "sprint_speed": 28.7
+  },
+  {
+    "id": 664774,
+    "name": "LaMonte Wade Jr.",
+    "team": "LAA",
+    "pa": 154,
+    "avg_exit_velo": 89.7,
+    "max_exit_velo": 108.5,
+    "barrel_pct": 2.9,
+    "hard_hit_pct": 31.8,
+    "xwoba": 0.281,
+    "xba": 0.205,
+    "k_pct": 24.0,
+    "bb_pct": 11.2,
+    "sprint_speed": 26.0
+  },
+  {
     "id": 694497,
     "name": "Evan Carter",
     "team": "TEX",
@@ -4845,21 +4845,6 @@
     "sprint_speed": 26.6
   },
   {
-    "id": 677649,
-    "name": "Ezequiel Duran",
-    "team": "TEX",
-    "pa": 152,
-    "avg_exit_velo": 85.3,
-    "max_exit_velo": 109.1,
-    "barrel_pct": 1.8,
-    "hard_hit_pct": 30.9,
-    "xwoba": 0.247,
-    "xba": 0.214,
-    "k_pct": 25.1,
-    "bb_pct": 3.7,
-    "sprint_speed": 28.8
-  },
-  {
     "id": 680474,
     "name": "Max Schuemann",
     "team": "ATH",
@@ -4873,6 +4858,21 @@
     "k_pct": 16.4,
     "bb_pct": 10.3,
     "sprint_speed": 28.3
+  },
+  {
+    "id": 677649,
+    "name": "Ezequiel Duran",
+    "team": "TEX",
+    "pa": 152,
+    "avg_exit_velo": 85.3,
+    "max_exit_velo": 109.1,
+    "barrel_pct": 1.8,
+    "hard_hit_pct": 30.9,
+    "xwoba": 0.247,
+    "xba": 0.214,
+    "k_pct": 25.1,
+    "bb_pct": 3.7,
+    "sprint_speed": 28.8
   },
   {
     "id": 642708,
@@ -4950,19 +4950,19 @@
     "sprint_speed": 27.6
   },
   {
-    "id": 679845,
-    "name": "Nick Loftin",
-    "team": "KC",
+    "id": 668942,
+    "name": "Josh Rojas",
+    "team": "CWS",
     "pa": 144,
-    "avg_exit_velo": 88.2,
-    "max_exit_velo": 105.3,
-    "barrel_pct": 4.8,
-    "hard_hit_pct": 34.0,
-    "xwoba": 0.294,
-    "xba": 0.232,
-    "k_pct": 14.4,
-    "bb_pct": 7.4,
-    "sprint_speed": 28.4
+    "avg_exit_velo": 89.6,
+    "max_exit_velo": 107.8,
+    "barrel_pct": 2.4,
+    "hard_hit_pct": 36.8,
+    "xwoba": 0.263,
+    "xba": 0.209,
+    "k_pct": 22.7,
+    "bb_pct": 9.0,
+    "sprint_speed": 26.2
   },
   {
     "id": 570482,
@@ -4980,34 +4980,19 @@
     "sprint_speed": 24.2
   },
   {
-    "id": 668942,
-    "name": "Josh Rojas",
-    "team": "CWS",
+    "id": 679845,
+    "name": "Nick Loftin",
+    "team": "KC",
     "pa": 144,
-    "avg_exit_velo": 89.6,
-    "max_exit_velo": 107.8,
-    "barrel_pct": 2.4,
-    "hard_hit_pct": 36.8,
-    "xwoba": 0.263,
-    "xba": 0.209,
-    "k_pct": 22.7,
-    "bb_pct": 9.0,
-    "sprint_speed": 26.2
-  },
-  {
-    "id": 805373,
-    "name": "Nacho Alvarez Jr.",
-    "team": "ATL",
-    "pa": 142,
-    "avg_exit_velo": 84.9,
-    "max_exit_velo": 108.2,
-    "barrel_pct": 1.0,
-    "hard_hit_pct": 26.8,
-    "xwoba": 0.27,
-    "xba": 0.228,
-    "k_pct": 23.6,
-    "bb_pct": 5.8,
-    "sprint_speed": 26.8
+    "avg_exit_velo": 88.2,
+    "max_exit_velo": 105.3,
+    "barrel_pct": 4.8,
+    "hard_hit_pct": 34.0,
+    "xwoba": 0.294,
+    "xba": 0.232,
+    "k_pct": 14.4,
+    "bb_pct": 7.4,
+    "sprint_speed": 28.4
   },
   {
     "id": 641584,
@@ -5023,6 +5008,21 @@
     "k_pct": 22.6,
     "bb_pct": 11.5,
     "sprint_speed": 28.4
+  },
+  {
+    "id": 805373,
+    "name": "Nacho Alvarez Jr.",
+    "team": "ATL",
+    "pa": 142,
+    "avg_exit_velo": 84.9,
+    "max_exit_velo": 108.2,
+    "barrel_pct": 1.0,
+    "hard_hit_pct": 26.8,
+    "xwoba": 0.27,
+    "xba": 0.228,
+    "k_pct": 23.6,
+    "bb_pct": 5.8,
+    "sprint_speed": 26.8
   },
   {
     "id": 682668,
@@ -5235,21 +5235,6 @@
     "sprint_speed": 29.1
   },
   {
-    "id": 641933,
-    "name": "Tyler O'Neill",
-    "team": "BAL",
-    "pa": 133,
-    "avg_exit_velo": 88.8,
-    "max_exit_velo": 113.6,
-    "barrel_pct": 10.5,
-    "hard_hit_pct": 39.1,
-    "xwoba": 0.36,
-    "xba": 0.243,
-    "k_pct": 24.4,
-    "bb_pct": 10.5,
-    "sprint_speed": 28.3
-  },
-  {
     "id": 666152,
     "name": "David Hamilton",
     "team": "BOS",
@@ -5278,6 +5263,21 @@
     "k_pct": 23.0,
     "bb_pct": 11.3,
     "sprint_speed": 24.8
+  },
+  {
+    "id": 641933,
+    "name": "Tyler O'Neill",
+    "team": "BAL",
+    "pa": 133,
+    "avg_exit_velo": 88.8,
+    "max_exit_velo": 113.6,
+    "barrel_pct": 10.5,
+    "hard_hit_pct": 39.1,
+    "xwoba": 0.36,
+    "xba": 0.243,
+    "k_pct": 24.4,
+    "bb_pct": 10.5,
+    "sprint_speed": 28.3
   },
   {
     "id": 805249,
@@ -5370,21 +5370,6 @@
     "sprint_speed": 28.5
   },
   {
-    "id": 676914,
-    "name": "Davis Schneider",
-    "team": "TOR",
-    "pa": 129,
-    "avg_exit_velo": 90.8,
-    "max_exit_velo": 108.3,
-    "barrel_pct": 7.9,
-    "hard_hit_pct": 41.1,
-    "xwoba": 0.323,
-    "xba": 0.188,
-    "k_pct": 27.5,
-    "bb_pct": 15.9,
-    "sprint_speed": 27.6
-  },
-  {
     "id": 657136,
     "name": "Connor Wong",
     "team": "BOS",
@@ -5398,6 +5383,21 @@
     "k_pct": 22.3,
     "bb_pct": 8.5,
     "sprint_speed": 28.0
+  },
+  {
+    "id": 676914,
+    "name": "Davis Schneider",
+    "team": "TOR",
+    "pa": 129,
+    "avg_exit_velo": 90.8,
+    "max_exit_velo": 108.3,
+    "barrel_pct": 7.9,
+    "hard_hit_pct": 41.1,
+    "xwoba": 0.323,
+    "xba": 0.188,
+    "k_pct": 27.5,
+    "bb_pct": 15.9,
+    "sprint_speed": 27.6
   },
   {
     "id": 456781,
@@ -5415,21 +5415,6 @@
     "sprint_speed": 25.0
   },
   {
-    "id": 668885,
-    "name": "Austin Martin",
-    "team": "MIN",
-    "pa": 127,
-    "avg_exit_velo": 86.2,
-    "max_exit_velo": 106.8,
-    "barrel_pct": 3.9,
-    "hard_hit_pct": 38.6,
-    "xwoba": 0.345,
-    "xba": 0.279,
-    "k_pct": 17.1,
-    "bb_pct": 12.2,
-    "sprint_speed": 28.3
-  },
-  {
     "id": 688363,
     "name": "Graham Pauley",
     "team": "MIA",
@@ -5445,19 +5430,19 @@
     "sprint_speed": 26.6
   },
   {
-    "id": 657557,
-    "name": "Paul DeJong",
-    "team": "WSH",
-    "pa": 126,
-    "avg_exit_velo": 88.1,
-    "max_exit_velo": 110.6,
-    "barrel_pct": 6.3,
-    "hard_hit_pct": 39.7,
-    "xwoba": 0.259,
-    "xba": 0.194,
-    "k_pct": 33.7,
-    "bb_pct": 5.3,
-    "sprint_speed": 26.5
+    "id": 668885,
+    "name": "Austin Martin",
+    "team": "MIN",
+    "pa": 127,
+    "avg_exit_velo": 86.2,
+    "max_exit_velo": 106.8,
+    "barrel_pct": 3.9,
+    "hard_hit_pct": 38.6,
+    "xwoba": 0.345,
+    "xba": 0.279,
+    "k_pct": 17.1,
+    "bb_pct": 12.2,
+    "sprint_speed": 28.3
   },
   {
     "id": 664059,
@@ -5475,19 +5460,19 @@
     "sprint_speed": 28.9
   },
   {
-    "id": 623168,
-    "name": "Tyler Heineman",
-    "team": "TOR",
-    "pa": 125,
-    "avg_exit_velo": 84.4,
-    "max_exit_velo": 104.5,
-    "barrel_pct": 2.3,
-    "hard_hit_pct": 22.4,
-    "xwoba": 0.273,
-    "xba": 0.215,
-    "k_pct": 18.1,
-    "bb_pct": 6.8,
-    "sprint_speed": 26.3
+    "id": 657557,
+    "name": "Paul DeJong",
+    "team": "WSH",
+    "pa": 126,
+    "avg_exit_velo": 88.1,
+    "max_exit_velo": 110.6,
+    "barrel_pct": 6.3,
+    "hard_hit_pct": 39.7,
+    "xwoba": 0.259,
+    "xba": 0.194,
+    "k_pct": 33.7,
+    "bb_pct": 5.3,
+    "sprint_speed": 26.5
   },
   {
     "id": 641343,
@@ -5505,6 +5490,21 @@
     "sprint_speed": 27.1
   },
   {
+    "id": 623168,
+    "name": "Tyler Heineman",
+    "team": "TOR",
+    "pa": 125,
+    "avg_exit_velo": 84.4,
+    "max_exit_velo": 104.5,
+    "barrel_pct": 2.3,
+    "hard_hit_pct": 22.4,
+    "xwoba": 0.273,
+    "xba": 0.215,
+    "k_pct": 18.1,
+    "bb_pct": 6.8,
+    "sprint_speed": 26.3
+  },
+  {
     "id": 665750,
     "name": "Leody Taveras",
     "team": "SEA",
@@ -5520,21 +5520,6 @@
     "sprint_speed": 28.8
   },
   {
-    "id": 666397,
-    "name": "Edouard Julien",
-    "team": "MIN",
-    "pa": 123,
-    "avg_exit_velo": 89.2,
-    "max_exit_velo": 110.1,
-    "barrel_pct": 7.2,
-    "hard_hit_pct": 42.3,
-    "xwoba": 0.329,
-    "xba": 0.242,
-    "k_pct": 29.3,
-    "bb_pct": 10.6,
-    "sprint_speed": 27.5
-  },
-  {
     "id": 670042,
     "name": "Luke Raley",
     "team": "SEA",
@@ -5548,6 +5533,21 @@
     "k_pct": 29.5,
     "bb_pct": 8.5,
     "sprint_speed": 28.7
+  },
+  {
+    "id": 666397,
+    "name": "Edouard Julien",
+    "team": "MIN",
+    "pa": 123,
+    "avg_exit_velo": 89.2,
+    "max_exit_velo": 110.1,
+    "barrel_pct": 7.2,
+    "hard_hit_pct": 42.3,
+    "xwoba": 0.329,
+    "xba": 0.242,
+    "k_pct": 29.3,
+    "bb_pct": 10.6,
+    "sprint_speed": 27.5
   },
   {
     "id": 669236,
@@ -5625,21 +5625,6 @@
     "sprint_speed": 27.7
   },
   {
-    "id": 682653,
-    "name": "Warming Bernabel",
-    "team": "COL",
-    "pa": 114,
-    "avg_exit_velo": 85.4,
-    "max_exit_velo": 108.1,
-    "barrel_pct": 2.1,
-    "hard_hit_pct": 32.5,
-    "xwoba": 0.273,
-    "xba": 0.247,
-    "k_pct": 17.1,
-    "bb_pct": 4.8,
-    "sprint_speed": 28.4
-  },
-  {
     "id": 677595,
     "name": "Ronny Mauricio",
     "team": "NYM",
@@ -5653,6 +5638,21 @@
     "k_pct": 29.3,
     "bb_pct": 8.2,
     "sprint_speed": 25.8
+  },
+  {
+    "id": 682653,
+    "name": "Warming Bernabel",
+    "team": "COL",
+    "pa": 114,
+    "avg_exit_velo": 85.4,
+    "max_exit_velo": 108.1,
+    "barrel_pct": 2.1,
+    "hard_hit_pct": 32.5,
+    "xwoba": 0.273,
+    "xba": 0.247,
+    "k_pct": 17.1,
+    "bb_pct": 4.8,
+    "sprint_speed": 28.4
   },
   {
     "id": 642136,
@@ -5685,21 +5685,6 @@
     "sprint_speed": 27.7
   },
   {
-    "id": 670231,
-    "name": "John Rave",
-    "team": "KC",
-    "pa": 110,
-    "avg_exit_velo": 88.3,
-    "max_exit_velo": 109.5,
-    "barrel_pct": 3.4,
-    "hard_hit_pct": 40.0,
-    "xwoba": 0.302,
-    "xba": 0.228,
-    "k_pct": 26.3,
-    "bb_pct": 10.3,
-    "sprint_speed": 28.9
-  },
-  {
     "id": 808975,
     "name": "Hyeseong Kim",
     "team": "LAD",
@@ -5713,6 +5698,21 @@
     "k_pct": 30.6,
     "bb_pct": 4.1,
     "sprint_speed": 28.7
+  },
+  {
+    "id": 670231,
+    "name": "John Rave",
+    "team": "KC",
+    "pa": 110,
+    "avg_exit_velo": 88.3,
+    "max_exit_velo": 109.5,
+    "barrel_pct": 3.4,
+    "hard_hit_pct": 40.0,
+    "xwoba": 0.302,
+    "xba": 0.228,
+    "k_pct": 26.3,
+    "bb_pct": 10.3,
+    "sprint_speed": 28.9
   },
   {
     "id": 624512,
@@ -5865,19 +5865,19 @@
     "sprint_speed": 27.5
   },
   {
-    "id": 663330,
-    "name": "Jahmai Jones",
-    "team": "DET",
+    "id": 683227,
+    "name": "Cody Freeman",
+    "team": "TEX",
     "pa": 97,
-    "avg_exit_velo": 91.5,
-    "max_exit_velo": 110.8,
-    "barrel_pct": 8.7,
-    "hard_hit_pct": 53.6,
-    "xwoba": 0.399,
-    "xba": 0.291,
-    "k_pct": 21.4,
-    "bb_pct": 13.0,
-    "sprint_speed": 28.1
+    "avg_exit_velo": 84.9,
+    "max_exit_velo": 104.3,
+    "barrel_pct": 3.3,
+    "hard_hit_pct": 25.8,
+    "xwoba": 0.264,
+    "xba": 0.239,
+    "k_pct": 15.7,
+    "bb_pct": 4.1,
+    "sprint_speed": 27.5
   },
   {
     "id": 678877,
@@ -5895,34 +5895,19 @@
     "sprint_speed": 27.1
   },
   {
-    "id": 683227,
-    "name": "Cody Freeman",
-    "team": "TEX",
+    "id": 663330,
+    "name": "Jahmai Jones",
+    "team": "DET",
     "pa": 97,
-    "avg_exit_velo": 84.9,
-    "max_exit_velo": 104.3,
-    "barrel_pct": 3.3,
-    "hard_hit_pct": 25.8,
-    "xwoba": 0.264,
-    "xba": 0.239,
-    "k_pct": 15.7,
-    "bb_pct": 4.1,
-    "sprint_speed": 27.5
-  },
-  {
-    "id": 656896,
-    "name": "Emmanuel Rivera",
-    "team": "BAL",
-    "pa": 96,
-    "avg_exit_velo": 86.7,
-    "max_exit_velo": 109.1,
-    "barrel_pct": 0.8,
-    "hard_hit_pct": 32.3,
-    "xwoba": 0.267,
-    "xba": 0.246,
-    "k_pct": 18.9,
-    "bb_pct": 4.7,
-    "sprint_speed": 25.9
+    "avg_exit_velo": 91.5,
+    "max_exit_velo": 110.8,
+    "barrel_pct": 8.7,
+    "hard_hit_pct": 53.6,
+    "xwoba": 0.399,
+    "xba": 0.291,
+    "k_pct": 21.4,
+    "bb_pct": 13.0,
+    "sprint_speed": 28.1
   },
   {
     "id": 455117,
@@ -5940,6 +5925,21 @@
     "sprint_speed": 23.1
   },
   {
+    "id": 656896,
+    "name": "Emmanuel Rivera",
+    "team": "BAL",
+    "pa": 96,
+    "avg_exit_velo": 86.7,
+    "max_exit_velo": 109.1,
+    "barrel_pct": 0.8,
+    "hard_hit_pct": 32.3,
+    "xwoba": 0.267,
+    "xba": 0.246,
+    "k_pct": 18.9,
+    "bb_pct": 4.7,
+    "sprint_speed": 25.9
+  },
+  {
     "id": 692585,
     "name": "Yanquiel Fern\u00e1ndez",
     "team": "COL",
@@ -5953,21 +5953,6 @@
     "k_pct": 29.9,
     "bb_pct": 5.4,
     "sprint_speed": 25.5
-  },
-  {
-    "id": 655316,
-    "name": "Andruw Monasterio",
-    "team": "MIL",
-    "pa": 94,
-    "avg_exit_velo": 87.0,
-    "max_exit_velo": 110.1,
-    "barrel_pct": 3.7,
-    "hard_hit_pct": 35.1,
-    "xwoba": 0.28,
-    "xba": 0.224,
-    "k_pct": 23.5,
-    "bb_pct": 5.9,
-    "sprint_speed": 27.7
   },
   {
     "id": 669326,
@@ -5985,34 +5970,19 @@
     "sprint_speed": 29.9
   },
   {
-    "id": 518934,
-    "name": "DJ LeMahieu",
-    "team": "NYY",
-    "pa": 93,
-    "avg_exit_velo": 91.7,
-    "max_exit_velo": 107.9,
-    "barrel_pct": 2.8,
-    "hard_hit_pct": 51.6,
-    "xwoba": 0.295,
-    "xba": 0.245,
-    "k_pct": 24.6,
-    "bb_pct": 9.9,
-    "sprint_speed": 25.6
-  },
-  {
-    "id": 641943,
-    "name": "Joshua Palacios",
-    "team": "CWS",
-    "pa": 93,
-    "avg_exit_velo": 88.3,
-    "max_exit_velo": 110.3,
-    "barrel_pct": 5.5,
-    "hard_hit_pct": 39.8,
-    "xwoba": 0.299,
-    "xba": 0.222,
-    "k_pct": 24.8,
-    "bb_pct": 8.3,
-    "sprint_speed": 26.8
+    "id": 655316,
+    "name": "Andruw Monasterio",
+    "team": "MIL",
+    "pa": 94,
+    "avg_exit_velo": 87.0,
+    "max_exit_velo": 110.1,
+    "barrel_pct": 3.7,
+    "hard_hit_pct": 35.1,
+    "xwoba": 0.28,
+    "xba": 0.224,
+    "k_pct": 23.5,
+    "bb_pct": 5.9,
+    "sprint_speed": 27.7
   },
   {
     "id": 669261,
@@ -6030,6 +6000,36 @@
     "sprint_speed": 27.9
   },
   {
+    "id": 641943,
+    "name": "Joshua Palacios",
+    "team": "CWS",
+    "pa": 93,
+    "avg_exit_velo": 88.3,
+    "max_exit_velo": 110.3,
+    "barrel_pct": 5.5,
+    "hard_hit_pct": 39.8,
+    "xwoba": 0.299,
+    "xba": 0.222,
+    "k_pct": 24.8,
+    "bb_pct": 8.3,
+    "sprint_speed": 26.8
+  },
+  {
+    "id": 518934,
+    "name": "DJ LeMahieu",
+    "team": "NYY",
+    "pa": 93,
+    "avg_exit_velo": 91.7,
+    "max_exit_velo": 107.9,
+    "barrel_pct": 2.8,
+    "hard_hit_pct": 51.6,
+    "xwoba": 0.295,
+    "xba": 0.245,
+    "k_pct": 24.6,
+    "bb_pct": 9.9,
+    "sprint_speed": 25.6
+  },
+  {
     "id": 621028,
     "name": "Kevin Newman",
     "team": "LAA",
@@ -6045,21 +6045,6 @@
     "sprint_speed": 27.0
   },
   {
-    "id": 543510,
-    "name": "James McCann",
-    "team": "AZ",
-    "pa": 92,
-    "avg_exit_velo": 92.3,
-    "max_exit_velo": 110.3,
-    "barrel_pct": 5.1,
-    "hard_hit_pct": 52.2,
-    "xwoba": 0.313,
-    "xba": 0.239,
-    "k_pct": 24.1,
-    "bb_pct": 5.8,
-    "sprint_speed": 26.4
-  },
-  {
     "id": 666163,
     "name": "Ben Rortvedt",
     "team": "LAD",
@@ -6073,6 +6058,21 @@
     "k_pct": 18.8,
     "bb_pct": 8.0,
     "sprint_speed": 25.8
+  },
+  {
+    "id": 543510,
+    "name": "James McCann",
+    "team": "AZ",
+    "pa": 92,
+    "avg_exit_velo": 92.3,
+    "max_exit_velo": 110.3,
+    "barrel_pct": 5.1,
+    "hard_hit_pct": 52.2,
+    "xwoba": 0.313,
+    "xba": 0.239,
+    "k_pct": 24.1,
+    "bb_pct": 5.8,
+    "sprint_speed": 26.4
   },
   {
     "id": 592192,
@@ -6105,21 +6105,6 @@
     "sprint_speed": 26.3
   },
   {
-    "id": 656537,
-    "name": "Derek Hill",
-    "team": "CWS",
-    "pa": 89,
-    "avg_exit_velo": 91.2,
-    "max_exit_velo": 112.3,
-    "barrel_pct": 6.7,
-    "hard_hit_pct": 49.4,
-    "xwoba": 0.309,
-    "xba": 0.232,
-    "k_pct": 32.2,
-    "bb_pct": 6.0,
-    "sprint_speed": 30.1
-  },
-  {
     "id": 672016,
     "name": "Denzel Clarke",
     "team": "ATH",
@@ -6133,6 +6118,21 @@
     "k_pct": 38.4,
     "bb_pct": 3.8,
     "sprint_speed": 29.5
+  },
+  {
+    "id": 656537,
+    "name": "Derek Hill",
+    "team": "CWS",
+    "pa": 89,
+    "avg_exit_velo": 91.2,
+    "max_exit_velo": 112.3,
+    "barrel_pct": 6.7,
+    "hard_hit_pct": 49.4,
+    "xwoba": 0.309,
+    "xba": 0.232,
+    "k_pct": 32.2,
+    "bb_pct": 6.0,
+    "sprint_speed": 30.1
   },
   {
     "id": 691182,
@@ -6165,6 +6165,21 @@
     "sprint_speed": 26.6
   },
   {
+    "id": 692216,
+    "name": "CJ Kayfus",
+    "team": "CLE",
+    "pa": 87,
+    "avg_exit_velo": 88.7,
+    "max_exit_velo": 109.8,
+    "barrel_pct": 5.8,
+    "hard_hit_pct": 36.8,
+    "xwoba": 0.322,
+    "xba": 0.242,
+    "k_pct": 26.2,
+    "bb_pct": 8.3,
+    "sprint_speed": 27.6
+  },
+  {
     "id": 668670,
     "name": "Jake Rogers",
     "team": "DET",
@@ -6195,19 +6210,19 @@
     "sprint_speed": 27.5
   },
   {
-    "id": 692216,
-    "name": "CJ Kayfus",
-    "team": "CLE",
-    "pa": 87,
-    "avg_exit_velo": 88.7,
-    "max_exit_velo": 109.8,
-    "barrel_pct": 5.8,
-    "hard_hit_pct": 36.8,
-    "xwoba": 0.322,
-    "xba": 0.242,
-    "k_pct": 26.2,
-    "bb_pct": 8.3,
-    "sprint_speed": 27.6
+    "id": 687859,
+    "name": "Troy Johnston",
+    "team": "MIA",
+    "pa": 86,
+    "avg_exit_velo": 89.6,
+    "max_exit_velo": 106.1,
+    "barrel_pct": 6.6,
+    "hard_hit_pct": 40.7,
+    "xwoba": 0.338,
+    "xba": 0.27,
+    "k_pct": 21.5,
+    "bb_pct": 6.6,
+    "sprint_speed": 26.5
   },
   {
     "id": 687221,
@@ -6223,21 +6238,6 @@
     "k_pct": 37.8,
     "bb_pct": 6.4,
     "sprint_speed": 27.7
-  },
-  {
-    "id": 687859,
-    "name": "Troy Johnston",
-    "team": "MIA",
-    "pa": 86,
-    "avg_exit_velo": 89.6,
-    "max_exit_velo": 106.1,
-    "barrel_pct": 6.6,
-    "hard_hit_pct": 40.7,
-    "xwoba": 0.338,
-    "xba": 0.27,
-    "k_pct": 21.5,
-    "bb_pct": 6.6,
-    "sprint_speed": 26.5
   },
   {
     "id": 665828,
@@ -6300,21 +6300,6 @@
     "sprint_speed": 28.1
   },
   {
-    "id": 687551,
-    "name": "Drew Gilbert",
-    "team": "SF",
-    "pa": 81,
-    "avg_exit_velo": 86.6,
-    "max_exit_velo": 109.8,
-    "barrel_pct": 3.7,
-    "hard_hit_pct": 35.8,
-    "xwoba": 0.27,
-    "xba": 0.214,
-    "k_pct": 18.3,
-    "bb_pct": 6.4,
-    "sprint_speed": 27.7
-  },
-  {
     "id": 680737,
     "name": "Michael Helman",
     "team": "TEX",
@@ -6328,6 +6313,21 @@
     "k_pct": 19.1,
     "bb_pct": 6.4,
     "sprint_speed": 29.4
+  },
+  {
+    "id": 687551,
+    "name": "Drew Gilbert",
+    "team": "SF",
+    "pa": 81,
+    "avg_exit_velo": 86.6,
+    "max_exit_velo": 109.8,
+    "barrel_pct": 3.7,
+    "hard_hit_pct": 35.8,
+    "xwoba": 0.27,
+    "xba": 0.214,
+    "k_pct": 18.3,
+    "bb_pct": 6.4,
+    "sprint_speed": 27.7
   },
   {
     "id": 642180,
@@ -6450,21 +6450,6 @@
     "sprint_speed": 26.8
   },
   {
-    "id": 665804,
-    "name": "Miguel Amaya",
-    "team": "CHC",
-    "pa": 76,
-    "avg_exit_velo": 86.4,
-    "max_exit_velo": 108.1,
-    "barrel_pct": 4.9,
-    "hard_hit_pct": 32.9,
-    "xwoba": 0.295,
-    "xba": 0.244,
-    "k_pct": 21.4,
-    "bb_pct": 3.9,
-    "sprint_speed": 25.9
-  },
-  {
     "id": 681962,
     "name": "Vinny Capra",
     "team": "CWS",
@@ -6495,49 +6480,19 @@
     "sprint_speed": 26.6
   },
   {
-    "id": 680862,
-    "name": "Willie MacIver",
-    "team": "ATH",
-    "pa": 75,
-    "avg_exit_velo": 88.8,
-    "max_exit_velo": 108.7,
-    "barrel_pct": 2.7,
-    "hard_hit_pct": 37.3,
-    "xwoba": 0.256,
-    "xba": 0.2,
-    "k_pct": 24.3,
-    "bb_pct": 6.3,
-    "sprint_speed": 27.5
-  },
-  {
-    "id": 676801,
-    "name": "Chas McCormick",
-    "team": "HOU",
-    "pa": 75,
-    "avg_exit_velo": 85.8,
-    "max_exit_velo": 106.4,
-    "barrel_pct": 3.4,
-    "hard_hit_pct": 29.3,
-    "xwoba": 0.299,
-    "xba": 0.228,
-    "k_pct": 26.7,
-    "bb_pct": 7.8,
-    "sprint_speed": 26.4
-  },
-  {
-    "id": 687515,
-    "name": "Colby Thomas",
-    "team": "ATH",
-    "pa": 75,
-    "avg_exit_velo": 92.2,
-    "max_exit_velo": 115.5,
-    "barrel_pct": 7.6,
-    "hard_hit_pct": 49.3,
-    "xwoba": 0.278,
-    "xba": 0.203,
-    "k_pct": 37.1,
-    "bb_pct": 5.3,
-    "sprint_speed": 28.6
+    "id": 665804,
+    "name": "Miguel Amaya",
+    "team": "CHC",
+    "pa": 76,
+    "avg_exit_velo": 86.4,
+    "max_exit_velo": 108.1,
+    "barrel_pct": 4.9,
+    "hard_hit_pct": 32.9,
+    "xwoba": 0.295,
+    "xba": 0.244,
+    "k_pct": 21.4,
+    "bb_pct": 3.9,
+    "sprint_speed": 25.9
   },
   {
     "id": 687637,
@@ -6570,19 +6525,34 @@
     "sprint_speed": 29.1
   },
   {
-    "id": 680728,
-    "name": "Adrian Del Castillo",
-    "team": "AZ",
+    "id": 676801,
+    "name": "Chas McCormick",
+    "team": "HOU",
     "pa": 75,
-    "avg_exit_velo": 89.9,
-    "max_exit_velo": 108.7,
-    "barrel_pct": 3.8,
+    "avg_exit_velo": 85.8,
+    "max_exit_velo": 106.4,
+    "barrel_pct": 3.4,
+    "hard_hit_pct": 29.3,
+    "xwoba": 0.299,
+    "xba": 0.228,
+    "k_pct": 26.7,
+    "bb_pct": 7.8,
+    "sprint_speed": 26.4
+  },
+  {
+    "id": 687515,
+    "name": "Colby Thomas",
+    "team": "ATH",
+    "pa": 75,
+    "avg_exit_velo": 92.2,
+    "max_exit_velo": 115.5,
+    "barrel_pct": 7.6,
     "hard_hit_pct": 49.3,
-    "xwoba": 0.269,
-    "xba": 0.206,
-    "k_pct": 35.9,
-    "bb_pct": 6.1,
-    "sprint_speed": 25.9
+    "xwoba": 0.278,
+    "xba": 0.203,
+    "k_pct": 37.1,
+    "bb_pct": 5.3,
+    "sprint_speed": 28.6
   },
   {
     "id": 665839,
@@ -6598,6 +6568,36 @@
     "k_pct": 15.7,
     "bb_pct": 10.8,
     "sprint_speed": 26.1
+  },
+  {
+    "id": 680728,
+    "name": "Adrian Del Castillo",
+    "team": "AZ",
+    "pa": 75,
+    "avg_exit_velo": 89.9,
+    "max_exit_velo": 108.7,
+    "barrel_pct": 3.8,
+    "hard_hit_pct": 49.3,
+    "xwoba": 0.269,
+    "xba": 0.206,
+    "k_pct": 35.9,
+    "bb_pct": 6.1,
+    "sprint_speed": 25.9
+  },
+  {
+    "id": 680862,
+    "name": "Willie MacIver",
+    "team": "ATH",
+    "pa": 75,
+    "avg_exit_velo": 88.8,
+    "max_exit_velo": 108.7,
+    "barrel_pct": 2.7,
+    "hard_hit_pct": 37.3,
+    "xwoba": 0.256,
+    "xba": 0.2,
+    "k_pct": 24.3,
+    "bb_pct": 6.3,
+    "sprint_speed": 27.5
   },
   {
     "id": 681146,
@@ -6630,21 +6630,6 @@
     "sprint_speed": 26.7
   },
   {
-    "id": 682729,
-    "name": "Jonatan Clase",
-    "team": "TOR",
-    "pa": 73,
-    "avg_exit_velo": 86.0,
-    "max_exit_velo": 108.1,
-    "barrel_pct": 4.5,
-    "hard_hit_pct": 35.6,
-    "xwoba": 0.284,
-    "xba": 0.217,
-    "k_pct": 25.0,
-    "bb_pct": 8.9,
-    "sprint_speed": 29.4
-  },
-  {
     "id": 642851,
     "name": "Austin Wynns",
     "team": "ATH",
@@ -6660,19 +6645,19 @@
     "sprint_speed": 24.4
   },
   {
-    "id": 671213,
-    "name": "Triston Casas",
-    "team": "BOS",
-    "pa": 72,
-    "avg_exit_velo": 87.6,
-    "max_exit_velo": 110.9,
-    "barrel_pct": 6.3,
-    "hard_hit_pct": 44.4,
-    "xwoba": 0.304,
-    "xba": 0.212,
-    "k_pct": 24.1,
-    "bb_pct": 9.8,
-    "sprint_speed": 24.4
+    "id": 682729,
+    "name": "Jonatan Clase",
+    "team": "TOR",
+    "pa": 73,
+    "avg_exit_velo": 86.0,
+    "max_exit_velo": 108.1,
+    "barrel_pct": 4.5,
+    "hard_hit_pct": 35.6,
+    "xwoba": 0.284,
+    "xba": 0.217,
+    "k_pct": 25.0,
+    "bb_pct": 8.9,
+    "sprint_speed": 29.4
   },
   {
     "id": 641555,
@@ -6688,6 +6673,21 @@
     "k_pct": 14.3,
     "bb_pct": 11.2,
     "sprint_speed": 25.8
+  },
+  {
+    "id": 671213,
+    "name": "Triston Casas",
+    "team": "BOS",
+    "pa": 72,
+    "avg_exit_velo": 87.6,
+    "max_exit_velo": 110.9,
+    "barrel_pct": 6.3,
+    "hard_hit_pct": 44.4,
+    "xwoba": 0.304,
+    "xba": 0.212,
+    "k_pct": 24.1,
+    "bb_pct": 9.8,
+    "sprint_speed": 24.4
   },
   {
     "id": 621035,
@@ -6750,21 +6750,6 @@
     "sprint_speed": 25.2
   },
   {
-    "id": 694388,
-    "name": "Joey Loperfido",
-    "team": "TOR",
-    "pa": 70,
-    "avg_exit_velo": 87.3,
-    "max_exit_velo": 107.2,
-    "barrel_pct": 3.8,
-    "hard_hit_pct": 37.1,
-    "xwoba": 0.316,
-    "xba": 0.266,
-    "k_pct": 25.7,
-    "bb_pct": 3.8,
-    "sprint_speed": 28.5
-  },
-  {
     "id": 663898,
     "name": "Brendan Rodgers",
     "team": "HOU",
@@ -6778,6 +6763,21 @@
     "k_pct": 35.9,
     "bb_pct": 8.6,
     "sprint_speed": 26.4
+  },
+  {
+    "id": 694388,
+    "name": "Joey Loperfido",
+    "team": "TOR",
+    "pa": 70,
+    "avg_exit_velo": 87.3,
+    "max_exit_velo": 107.2,
+    "barrel_pct": 3.8,
+    "hard_hit_pct": 37.1,
+    "xwoba": 0.316,
+    "xba": 0.266,
+    "k_pct": 25.7,
+    "bb_pct": 3.8,
+    "sprint_speed": 28.5
   },
   {
     "id": 668800,
@@ -6930,6 +6930,21 @@
     "sprint_speed": 29.8
   },
   {
+    "id": 676439,
+    "name": "Hunter Feduccia",
+    "team": "TB",
+    "pa": 61,
+    "avg_exit_velo": 87.6,
+    "max_exit_velo": 108.7,
+    "barrel_pct": 4.8,
+    "hard_hit_pct": 32.8,
+    "xwoba": 0.275,
+    "xba": 0.188,
+    "k_pct": 27.6,
+    "bb_pct": 14.3,
+    "sprint_speed": 26.2
+  },
+  {
     "id": 656484,
     "name": "Tristan Gray",
     "team": "TB",
@@ -6960,19 +6975,19 @@
     "sprint_speed": 28.1
   },
   {
-    "id": 676439,
-    "name": "Hunter Feduccia",
-    "team": "TB",
-    "pa": 61,
-    "avg_exit_velo": 87.6,
-    "max_exit_velo": 108.7,
-    "barrel_pct": 4.8,
-    "hard_hit_pct": 32.8,
-    "xwoba": 0.275,
-    "xba": 0.188,
-    "k_pct": 27.6,
-    "bb_pct": 14.3,
-    "sprint_speed": 26.2
+    "id": 682988,
+    "name": "Tyler Locklear",
+    "team": "AZ",
+    "pa": 60,
+    "avg_exit_velo": 87.9,
+    "max_exit_velo": 108.1,
+    "barrel_pct": 3.4,
+    "hard_hit_pct": 41.7,
+    "xwoba": 0.252,
+    "xba": 0.172,
+    "k_pct": 37.1,
+    "bb_pct": 8.6,
+    "sprint_speed": 27.0
   },
   {
     "id": 669369,
@@ -6988,21 +7003,6 @@
     "k_pct": 23.0,
     "bb_pct": 3.4,
     "sprint_speed": 28.5
-  },
-  {
-    "id": 682988,
-    "name": "Tyler Locklear",
-    "team": "AZ",
-    "pa": 60,
-    "avg_exit_velo": 87.9,
-    "max_exit_velo": 108.1,
-    "barrel_pct": 3.4,
-    "hard_hit_pct": 41.7,
-    "xwoba": 0.252,
-    "xba": 0.172,
-    "k_pct": 37.1,
-    "bb_pct": 8.6,
-    "sprint_speed": 27.0
   },
   {
     "id": 669450,
@@ -7065,6 +7065,21 @@
     "sprint_speed": 29.2
   },
   {
+    "id": 676070,
+    "name": "Jacob Amaya",
+    "team": "CWS",
+    "pa": 54,
+    "avg_exit_velo": 88.5,
+    "max_exit_velo": 108.0,
+    "barrel_pct": 0.0,
+    "hard_hit_pct": 29.6,
+    "xwoba": 0.197,
+    "xba": 0.174,
+    "k_pct": 21.9,
+    "bb_pct": 4.1,
+    "sprint_speed": 27.6
+  },
+  {
     "id": 656577,
     "name": "Alex Jackson",
     "team": "BAL",
@@ -7077,21 +7092,6 @@
     "xba": 0.178,
     "k_pct": 37.0,
     "bb_pct": 5.0,
-    "sprint_speed": 27.6
-  },
-  {
-    "id": 665052,
-    "name": "Griffin Conine",
-    "team": "MIA",
-    "pa": 54,
-    "avg_exit_velo": 90.9,
-    "max_exit_velo": 117.4,
-    "barrel_pct": 9.3,
-    "hard_hit_pct": 48.1,
-    "xwoba": 0.295,
-    "xba": 0.228,
-    "k_pct": 29.1,
-    "bb_pct": 8.1,
     "sprint_speed": 27.6
   },
   {
@@ -7110,18 +7110,18 @@
     "sprint_speed": 27.7
   },
   {
-    "id": 676070,
-    "name": "Jacob Amaya",
-    "team": "CWS",
+    "id": 665052,
+    "name": "Griffin Conine",
+    "team": "MIA",
     "pa": 54,
-    "avg_exit_velo": 88.5,
-    "max_exit_velo": 108.0,
-    "barrel_pct": 0.0,
-    "hard_hit_pct": 29.6,
-    "xwoba": 0.197,
-    "xba": 0.174,
-    "k_pct": 21.9,
-    "bb_pct": 4.1,
+    "avg_exit_velo": 90.9,
+    "max_exit_velo": 117.4,
+    "barrel_pct": 9.3,
+    "hard_hit_pct": 48.1,
+    "xwoba": 0.295,
+    "xba": 0.228,
+    "k_pct": 29.1,
+    "bb_pct": 8.1,
     "sprint_speed": 27.6
   },
   {
@@ -7153,21 +7153,6 @@
     "k_pct": 31.9,
     "bb_pct": 9.9,
     "sprint_speed": 26.7
-  },
-  {
-    "id": 678489,
-    "name": "Jorge Barrosa",
-    "team": "AZ",
-    "pa": 52,
-    "avg_exit_velo": 87.8,
-    "max_exit_velo": 108.0,
-    "barrel_pct": 0.0,
-    "hard_hit_pct": 30.8,
-    "xwoba": 0.193,
-    "xba": 0.165,
-    "k_pct": 28.6,
-    "bb_pct": 2.6,
-    "sprint_speed": 28.9
   },
   {
     "id": 663584,
@@ -7215,19 +7200,34 @@
     "sprint_speed": 27.0
   },
   {
-    "id": 665877,
-    "name": "Jos\u00e9 Ferm\u00edn",
+    "id": 678489,
+    "name": "Jorge Barrosa",
+    "team": "AZ",
+    "pa": 52,
+    "avg_exit_velo": 87.8,
+    "max_exit_velo": 108.0,
+    "barrel_pct": 0.0,
+    "hard_hit_pct": 30.8,
+    "xwoba": 0.193,
+    "xba": 0.165,
+    "k_pct": 28.6,
+    "bb_pct": 2.6,
+    "sprint_speed": 28.9
+  },
+  {
+    "id": 641658,
+    "name": "Garrett Hampson",
     "team": "STL",
     "pa": 51,
-    "avg_exit_velo": 87.1,
-    "max_exit_velo": 105.5,
-    "barrel_pct": 0.0,
-    "hard_hit_pct": 29.4,
-    "xwoba": 0.332,
-    "xba": 0.275,
-    "k_pct": 14.3,
-    "bb_pct": 11.4,
-    "sprint_speed": 27.1
+    "avg_exit_velo": 84.3,
+    "max_exit_velo": 99.2,
+    "barrel_pct": 1.1,
+    "hard_hit_pct": 19.6,
+    "xwoba": 0.217,
+    "xba": 0.15,
+    "k_pct": 31.9,
+    "bb_pct": 12.1,
+    "sprint_speed": 28.9
   },
   {
     "id": 608385,
@@ -7245,19 +7245,19 @@
     "sprint_speed": 25.8
   },
   {
-    "id": 641658,
-    "name": "Garrett Hampson",
+    "id": 665877,
+    "name": "Jos\u00e9 Ferm\u00edn",
     "team": "STL",
     "pa": 51,
-    "avg_exit_velo": 84.3,
-    "max_exit_velo": 99.2,
-    "barrel_pct": 1.1,
-    "hard_hit_pct": 19.6,
-    "xwoba": 0.217,
-    "xba": 0.15,
-    "k_pct": 31.9,
-    "bb_pct": 12.1,
-    "sprint_speed": 28.9
+    "avg_exit_velo": 87.1,
+    "max_exit_velo": 105.5,
+    "barrel_pct": 0.0,
+    "hard_hit_pct": 29.4,
+    "xwoba": 0.332,
+    "xba": 0.275,
+    "k_pct": 14.3,
+    "bb_pct": 11.4,
+    "sprint_speed": 27.1
   },
   {
     "id": 690976,
