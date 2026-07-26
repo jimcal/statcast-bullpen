@@ -1313,8 +1313,8 @@
     "max_exit_velo": 110.5,
     "barrel_pct": 7.0,
     "hard_hit_pct": 41.9,
-    "xwoba": 0.304,
-    "xba": 0.226,
+    "xwoba": 0.301,
+    "xba": 0.223,
     "k_pct": 26.7,
     "bb_pct": 6.9,
     "sprint_speed": 28.3
@@ -1523,8 +1523,8 @@
     "max_exit_velo": 116.2,
     "barrel_pct": 8.6,
     "hard_hit_pct": 46.9,
-    "xwoba": 0.324,
-    "xba": 0.244,
+    "xwoba": 0.322,
+    "xba": 0.242,
     "k_pct": 26.3,
     "bb_pct": 5.7,
     "sprint_speed": 27.2
