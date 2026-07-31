@@ -3788,8 +3788,8 @@
     "max_exit_velo": 111.0,
     "barrel_pct": 5.5,
     "hard_hit_pct": 40.4,
-    "xwoba": 0.319,
-    "xba": 0.248,
+    "xwoba": 0.315,
+    "xba": 0.243,
     "k_pct": 20.7,
     "bb_pct": 6.7,
     "sprint_speed": 26.6
@@ -5573,8 +5573,8 @@
     "max_exit_velo": 110.2,
     "barrel_pct": 4.0,
     "hard_hit_pct": 37.0,
-    "xwoba": 0.341,
-    "xba": 0.275,
+    "xwoba": 0.338,
+    "xba": 0.271,
     "k_pct": 19.3,
     "bb_pct": 11.9,
     "sprint_speed": 28.5
@@ -6323,8 +6323,8 @@
     "max_exit_velo": 109.8,
     "barrel_pct": 3.7,
     "hard_hit_pct": 35.8,
-    "xwoba": 0.266,
-    "xba": 0.209,
+    "xwoba": 0.27,
+    "xba": 0.214,
     "k_pct": 18.3,
     "bb_pct": 6.4,
     "sprint_speed": 27.7
